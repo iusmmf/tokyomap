@@ -22,16 +22,9 @@
 
     <!-- Password prompt -->
     <script type="text/javascript">
-        function gate() {
-           var UserInput = prompt("パスワードを入力して下さい:","");
-           location.href = UserInput + ".html";
-        };
-     </script>
-
-    <script type="text/javascript">
         function gate(){
             // Ask a user to input PW.
-            var UserInput = prompt("パスワードを入力して下さい:","");
+            var UserInput = prompt("閲覧パスワードを入力して下さい:","");
 
             // Check the input PW
             if( /\W+/g.test(UserInput) ) {
