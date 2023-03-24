@@ -1,40 +1,48 @@
 <!DOCTYPE html>
 <html lang="jp">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tokyo facilities map</title>
     <!-- jquery cdn -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-    <!-- mapbox -->    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!-- mapbox -->
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet' />
     <style>
-        body { margin: 0; padding: 0; }
-        #map { position: absolute; top: 0px; bottom: 0; width: 100%; }
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0px;
+            bottom: 0;
+            width: 100%;
+        }
     </style>
     <!-- link to css file -->
     <link href="./css/style.css" rel="stylesheet">
 </head>
 
 <body>
-    
-    <!-- Header for the sidebar menu -->
-    <div id="open_nav">
-        <div>
-            <img src="./img/menu_bw.png">
-        </div>
-    </div>
 
-    <!-- Sidebar -->
-    <div id="sidebar">
+    <!-- Menu Sidebar -->
+    <div id="menu_sidebar">
         <div class="menu">
             <form id="target">
-                
+
                 <!-- List of years -->
                 <table class="years">
                     <tr>
+                        <td class="year">
+                            <input id="2022" value="2022" name="year" type="radio" checked="checked">
+                            <label for="2022">2022年</label>
+                        </td>
                         <td class="year">
                             <input id="2021" value="2021" name="year" type="radio" checked="checked">
                             <label for="2021">2021年</label>
@@ -56,23 +64,54 @@
 
             <!-- Download csv button -->
             <div class="dlbtn">
-                <button><a id="csv" href="./csv/2021/forbesglobal2021.csv" download="indicators2021.csv">Download CSV</a></button>
+                <button><a id="csv" href="./csv/2022/forbesglobal2022.csv" download="indicators2022.csv">Download
+                        CSV</a></button>
             </div>
 
         </div>
 
+    </div>
+
+    <!-- Header for the sidebar menu -->
+    <div id="open_nav">
+        <div>
+            <img src="./img/info.png" class="img-movement">
+        </div>
+    </div>
+
+    <!-- Info Sidebar -->
+    <div id="info">
+        <h4>操作方法</h4>
+        <div class="howto">
+            <p>拡大縮小：マウススクロール</p>
+            <p>地図移動：左クリック&ドラッグ</p>
+            <p>地図回転：右クリック&ドラッグ</p>
+        </div>
+
+        <h4>活用方法</h4>
+        <div class="howto">
+            <p>ダウンロードしたデータは、Google My MapsやGoogle Earth Proなどで描画することが可能です。
+                <br>なお、CSVを描画する際は、テーブル形式にしたり、コラム名を英語にするなどの調整が必要です。
+            </p>
+        </div>
+
+        <h4>注意事項</h4>
+        <div class="howto">
+            <p>ダウンロードしたデータを社外に公開・共有する場合は、森記念財団都市戦略研究所にご一報ください。</p>
+        </div>
+
         <!-- footer -->
         <div id="copyright">
-            <small>© 2022 Mori Memorial Foundation</small>
+            <small>© 2023 Mori Memorial Foundation</small>
         </div>
-        
+
     </div>
 
     <!-- Hide/show the sidebar menu with jquery -->
     <script>
-        $(document).ready(function(){
-            $('#open_nav').on('click', function(){
-                $('#sidebar').toggleClass('hide');
+        $(document).ready(function () {
+            $('#open_nav').on('click', function () {
+                $('#info').toggleClass('hide');
             });
         });
     </script>
@@ -80,38 +119,38 @@
     <!-- To make a list of indicators -->
     <script>
         let items = [
-            {value: "forbesglobal", text: "ﾌｫｰﾌﾞｽ ｸﾞﾛｰﾊﾞﾙ"},
-            {value: "fortuneglobal", text: "ﾌｫｰﾁｭﾝ ｸﾞﾛｰﾊﾞﾙ"},
-            {value: "startups", text: "スタートアップ企業"},
-            {value: "coworking", text: "コワーキング施設"},
-            {value: "touristspots", text: "観光地"},
-            {value: "culturalassets", text: "文化財"},
-            {value: "temples", text: "神社･寺院･教会"},
-            {value: "museums", text: "美術館･博物館"},
-            {value: "galleries", text: "ギャラリー"},
-            {value: "theaters", text: "ホール・劇場"},
-            {value: "stadiums", text: "スタジアム"},
-            {value: "conventions", text: "コンベンション施設"},
-            {value: "intlmeetings", text: "国際会議"},
-            {value: "hotels", text: "ホテル"},
-            {value: "restaurants", text: "レストラン"},
-            {value: "michelin", text: "ﾐｼｭﾗﾝ掲載ﾚｽﾄﾗﾝ"},
-            {value: "tabelog", text: "食べﾛｸﾞｱﾜｰﾄﾞ受賞ﾚｽﾄﾗﾝ"},
-            {value: "nightlife", text: "ナイトライフ施設"},
-            {value: "universities", text: "大学キャンパス"},
-            {value: "schools", text: "幼稚園~高校"},
-            {value: "nurseries", text: "保育園"},
-            {value: "intlschools", text: "ｲﾝﾀｰﾅｼｮﾅﾙｽｸｰﾙ"},
-            {value: "sportsvenues", text: "スポーツ施設"},
-            {value: "conveniencestores", text: "コンビニ"},
-            {value: "supermarkets", text: "スーパー"},
-            {value: "drugstores", text: "薬局"},
-            {value: "hospitals", text: "病院･診療所･ｸﾘﾆｯｸ"},
-            {value: "banks", text: "銀行･ATM"},
-            {value: "embassies", text: "大使館･領事館"},
-            {value: "stations", text: "駅"},
-            {value: "busstops", text: "バス停"},
-            {value: "sharecycles", text: "ｼｪｱｻｲｸﾙﾎﾟｰﾄ"},
+            { value: "forbesglobal", text: "ﾌｫｰﾌﾞｽ ｸﾞﾛｰﾊﾞﾙ" },
+            { value: "fortuneglobal", text: "ﾌｫｰﾁｭﾝ ｸﾞﾛｰﾊﾞﾙ" },
+            { value: "startups", text: "スタートアップ企業" },
+            { value: "coworking", text: "コワーキング施設" },
+            { value: "touristspots", text: "観光地" },
+            { value: "culturalassets", text: "文化財" },
+            { value: "temples", text: "神社･寺院･教会" },
+            { value: "museums", text: "美術館･博物館" },
+            { value: "galleries", text: "ギャラリー" },
+            { value: "theaters", text: "ホール・劇場" },
+            { value: "stadiums", text: "スタジアム" },
+            { value: "conventions", text: "コンベンション施設" },
+            { value: "intlmeetings", text: "国際会議" },
+            { value: "hotels", text: "ホテル" },
+            { value: "restaurants", text: "レストラン" },
+            { value: "michelin", text: "ﾐｼｭﾗﾝ掲載ﾚｽﾄﾗﾝ" },
+            { value: "tabelog", text: "食べﾛｸﾞｱﾜｰﾄﾞ受賞ﾚｽﾄﾗﾝ" },
+            { value: "nightlife", text: "ナイトライフ施設" },
+            { value: "universities", text: "大学キャンパス" },
+            { value: "schools", text: "幼稚園~高校" },
+            { value: "nurseries", text: "保育園" },
+            { value: "intlschools", text: "ｲﾝﾀｰﾅｼｮﾅﾙｽｸｰﾙ" },
+            { value: "sportsvenues", text: "スポーツ施設" },
+            { value: "conveniencestores", text: "コンビニ" },
+            { value: "supermarkets", text: "スーパー" },
+            { value: "drugstores", text: "薬局" },
+            { value: "hospitals", text: "病院･診療所･ｸﾘﾆｯｸ" },
+            { value: "banks", text: "銀行･ATM" },
+            { value: "embassies", text: "大使館･領事館" },
+            { value: "stations", text: "駅" },
+            { value: "busstops", text: "バス停" },
+            { value: "sharecycles", text: "ｼｪｱｻｲｸﾙﾎﾟｰﾄ" },
         ];
 
         let i = 0;
@@ -119,11 +158,11 @@
             console.log(items.length)
             var elem1 = items[i].value;
             var elem2 = items[i].text;
-            var elem3 = items[i+1].value;
-            var elem4 = items[i+1].text
-            
-            const li = 
-            `<tr>
+            var elem3 = items[i + 1].value;
+            var elem4 = items[i + 1].text
+
+            const li =
+                `<tr>
                 <td class="indicator">
                     <label>
                         <input id="indicators" value=${elem1} name="cat" type="radio">
@@ -154,7 +193,7 @@
     <nav id="hideshow_02"></nav>
     <div id="map"></div>
 
-    <script type="text/javascript"> 
+    <script type="text/javascript">
 
         mapboxgl.accessToken = 'pk.eyJ1IjoibnlhbWF0byIsImEiOiJja2Y4dzNkOW8wY3MwMnFvM29iNnJzNzVzIn0.GHlHwu3r5YjKBU3qAKvccQ';
         const map = new mapboxgl.Map({
@@ -164,8 +203,8 @@
             minZoom: 11,
             center: [139.72942873681262, 35.660181644624785],
         });
-        
-        
+
+
         // Tokyo facilities map
         map.on('load', function () {
 
@@ -431,6 +470,8 @@
 
                 // Set up the corresponding toggle button for each layer.
                 for (const id of toggleLayer_01) {
+                    console.log(id)
+
                     // Skip layers that already have a button set up.
                     if (document.getElementById(id)) {
                         continue;
@@ -438,6 +479,8 @@
 
                     // Create a link.
                     const link = document.createElement('a');
+                    console.log(link)
+
                     link.id = id;
                     link.href = '#';
                     link.textContent = id;
@@ -445,6 +488,8 @@
 
                     // Show or hide layer when the toggle is clicked.
                     link.onclick = function (e) {
+
+                        console.log(e)
                         const clickedLayer = this.textContent;
                         e.preventDefault();
                         e.stopPropagation();
@@ -516,12 +561,45 @@
                     layers.appendChild(link);
 
                 };
-                
+
             });
 
 
             // make a list of data sources
             var sourcelayer = [
+                /* 2022 */
+                ['forbesglobal2022', './geojson/2022/forbesglobal2022.geojson'],
+                ['fortuneglobal2022', './geojson/2022/fortuneglobal2022.geojson'],
+                ['startups2022', './geojson/2022/startups2022.geojson'],
+                ['coworking2022', './geojson/2022/coworking2022.geojson'],
+                ['touristspots2022', './geojson/2022/touristspots2022.geojson'],
+                ['culturalassets2022', './geojson/2022/culturalassets2022.geojson'],
+                ['temples2022', './geojson/2022/temples2022.geojson'],
+                ['museums2022', './geojson/2022/museums2022.geojson'],
+                ['galleries2022', './geojson/2022/galleries2022.geojson'],
+                ['theaters2022', './geojson/2022/theaters2022.geojson'],
+                ['stadiums2022', './geojson/2022/stadiums2022.geojson'],
+                ['conventions2022', './geojson/2022/conventions2022.geojson'],
+                ['intlmeetings2022', './geojson/2022/intlmeetings2022.geojson'],
+                ['hotels2022', './geojson/2022/hotels2022.geojson'],
+                ['restaurants2022', './geojson/2022/restaurants2022.geojson'],
+                ['michelin2022', './geojson/2022/michelin2022.geojson'],
+                ['tabelog2022', './geojson/2022/tabelog2022.geojson'],
+                ['nightlife2022', './geojson/2022/nightlife2022.geojson'],
+                ['universities2022', './geojson/2022/universities2022.geojson'],
+                ['schools2022', './geojson/2022/schools2022.geojson'],
+                ['nurseries2022', './geojson/2022/nurseries2022.geojson'],
+                ['intlschools2022', './geojson/2022/intlschools2022.geojson'],
+                ['sportsvenues2022', './geojson/2022/sportsvenues2022.geojson'],
+                ['conveniencestores2022', './geojson/2022/conveniencestores2022.geojson'],
+                ['supermarkets2022', './geojson/2022/supermarkets2022.geojson'],
+                ['drugstores2022', './geojson/2022/drugstores2022.geojson'],
+                ['hospitals2022', './geojson/2022/hospitals2022.geojson'],
+                ['banks2022', './geojson/2022/banks2022.geojson'],
+                ['embassies2022', './geojson/2022/embassies2022.geojson'],
+                ['stations2022', './geojson/2022/stations2022.geojson'],
+                ['busstops2022', './geojson/2022/busstops2022.geojson'],
+                ['sharecycles2022', './geojson/2022/sharecycles2022.geojson'],
                 /* 2021 */
                 ['forbesglobal2021', './geojson/2021/forbesglobal2021.geojson'],
                 ['fortuneglobal2021', './geojson/2021/fortuneglobal2021.geojson'],
@@ -622,10 +700,10 @@
                 ['busstops2019', './geojson/2019/busstops2019.geojson'],
                 ['sharecycles2019', './geojson/2019/sharecycles2019.geojson'],
             ];
-        
+
             function addsourcelayer(d) {
                 for (var i = 0; i < d.length; i++) {
-                        map.addSource(d[i][0], {
+                    map.addSource(d[i][0], {
                         type: 'geojson',
                         data: d[i][1],
                     });
@@ -644,39 +722,39 @@
                             visibility: 'visible',
                         }
                     });
-                    
+
                     // Create a popup, but don't add it to the map yet.
                     const popup = new mapboxgl.Popup({
                         closeButton: false,
                         closeOnClick: false
                     });
-                    
+
                     map.on('mouseenter', d[i][0], (e) => {
                         // Change the cursor style as a UI indicator.
                         map.getCanvas().style.cursor = 'pointer';
-                        
+
                         // Copy coordinates array.
-                        const coordinates = e.features[0].geometry.coordinates.slice();      
+                        const coordinates = e.features[0].geometry.coordinates.slice();
                         const description = e.features[0].properties.name;
                         console.log(description)
-                        
+
                         // Ensure that if the map is zoomed out such that multiple copies of the feature are visible, 
                         // the popup appears over the copy being pointed to.
                         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                         };
-                        
+
                         // Populate the popup and set its coordinates based on the feature found.
                         popup.setLngLat(coordinates).setHTML(description).addTo(map);
                     });
-                    
+
                     map.on('mouseleave', d[i][0], () => {
                         map.getCanvas().style.cursor = '';
                         popup.remove();
                     });
                 };
             };
-            
+
             addsourcelayer(sourcelayer)
 
             /*
@@ -684,13 +762,46 @@
             IMPORTANT: Add new dataset names into "layers" array
             */
 
-            document.getElementById('target').addEventListener('change', function(e) {
+            document.getElementById('target').addEventListener('change', function (e) {
 
                 var cat = document.querySelector('input[name="cat"]:checked').value
                 var year = document.querySelector('input[name="year"]:checked').value
-                var clicked = cat+year
+                var clicked = cat + year
 
                 var layers = [
+                    /* 2022 */
+                    "forbesglobal2022",
+                    "fortuneglobal2022",
+                    "startups2022",
+                    "coworking2022",
+                    "touristspots2022",
+                    "culturalassets2022",
+                    "temples2022",
+                    "museums2022",
+                    "galleries2022",
+                    "theaters2022",
+                    "stadiums2022",
+                    "conventions2022",
+                    "intlmeetings2022",
+                    "hotels2022",
+                    "restaurants2022",
+                    "michelin2022",
+                    "tabelog2022",
+                    "nightlife2022",
+                    "universities2022",
+                    "schools2022",
+                    "nurseries2022",
+                    "intlschools2022",
+                    "sportsvenues2022",
+                    "conveniencestores2022",
+                    "supermarkets2022",
+                    "drugstores2022",
+                    "hospitals2022",
+                    "banks2022",
+                    "embassies2022",
+                    "stations2022",
+                    "busstops2022",
+                    "sharecycles2022",    
                     /* 2021 */
                     "forbesglobal2021",
                     "fortuneglobal2021",
@@ -805,7 +916,7 @@
                         map.setLayoutProperty(layer, 'visibility', 'none')
                     };
                 };
-                
+
                 // Replace year and category of the download button.
                 function Replace(year) {
                     let link = document.getElementById('csv');
@@ -814,7 +925,7 @@
                     // Change the href
                     link.setAttribute('href', url);
 
-                    let excel =document.getElementById("csv")
+                    let excel = document.getElementById("csv")
                     let newexcel = cat + year + ".csv"
                     excel.download = newexcel
                 };
@@ -822,14 +933,15 @@
                 Replace(year)
 
             });
-            
+
             // Call the functions with default arguments
             document.getElementById("indicators").click();
-            document.getElementById('2021').click();
+            document.getElementById('2022').click();
 
         });
 
     </script>
 
 </body>
+
 </html>
