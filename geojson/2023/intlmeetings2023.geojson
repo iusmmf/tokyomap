@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[139.75347230000011,35.671240900000043]},"properties":{"OBJECTID":1,"name":"イイノホール","lon":139.7534723,"lat":35.671240900000001}},{"type":"Feature","id":2,"geometry":{"type":"Point","coordinates":[139.7455642000001,35.658966300000031]},"properties":{"OBJECTID":2,"name":"東京プリンスホテル","lon":139.74556419999999,"lat":35.658966300000003}}]
+}
