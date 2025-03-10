@@ -1,0 +1,932 @@
+﻿,指標名,シェアサイクルポート,,,,,,,
+,出典,東京自転車シェアリング ポートマップ,,,,,,,
+,年次,2024/12/12取得,,,,,,,
+,URL,https://www.google.com/maps/d/viewer?mid=1L2l1EnQJhCNlm_Xxkp9RTjIj68Q,,,,,,,
+,備考,2021年度：679件、2022年度：728件、2023年度：793件、2024年度：855件）,,,,,,,
+,,,,,,,,,
+,区,町丁,エリア,住所,緯度,経度,ポート名,休止・再開・閉鎖情報,営業時間
+,千代田区,九段南一丁目,-,東京都千代田区九段南１丁目２ A1-01.千代田区役所,35.693807,139.753194,A1-01.千代田区役所 / Chiyoda City Office,,Open for 24 hours
+,千代田区,飯田橋四丁目,-,東京都千代田区飯田橋４丁目９−５,35.701048,139.747523,A1-03.東京区政会館（メトロA5出口） / Tokyo Kusei Kaikan building(Metro A5 Exit),,Open for 24 hours
+,千代田区,飯田橋三丁目,-,東京都千代田区飯田橋３丁目５ A1-04.東京区政会館（西側駐輪場）,35.701349,139.746948,A1-04.東京区政会館（西側駐輪場） / Tokyo Kusei Kaikan building(Western parking lot),,Open for 24 hours
+,千代田区,富士見一丁目,-,東京都千代田区富士見１丁目６−７ 千代田区富士見出張所・区民館,35.699224,139.746320,"A1-05.富士見出張所 / Chiyoda Ward Office,Fujimi Branch",,Open for 24 hours
+,千代田区,富士見二丁目,-,東京都千代田区富士見２丁目１１−９,35.699152,139.744584,A1-08.飯田橋サクラテラス（早稲田通り） / IIDABASHI SAKURA TERRACE (Waseda street),,Open for 24 hours
+,千代田区,九段北一丁目,-,東京都千代田区九段北１丁目１３ A1-10.ヒューリック九段ビル,35.696450,139.750792,A1-10.ヒューリック九段ビル / Hulic Kudan Building,,Open for 24 hours
+,千代田区,九段北一丁目,-,東京都千代田区九段北１丁目１４ A1-12.北の丸スクエア,35.695515,139.750213,A1-12.北の丸スクエア / KITANOMARU SQUARE,,Open for 24 hours
+,千代田区,富士見一丁目,-,東京都千代田区富士見１丁目１１ A1-15.富士見みらい館,35.697167,139.745629,A1-15.富士見みらい館 / Fujimi Mirai-kan Hall,,Open for 24 hours
+,千代田区,九段南一丁目,-,東京都千代田区九段南１丁目１ A1-17.雉子橋集積所,35.692605,139.755761,"A1-17.雉子橋集積所 / Kijibashi Shusekijo
+",,-
+,千代田区,九段北一丁目,-,東京都千代田区九段北１丁目１ A1-18.東京区政会館別館(特別区研修所),35.696202,139.752351,A1-18.東京区政会館別館(特別区研修所) / Tokyo Kusei Kaikan building Annex (Special Ward Training Center),,Open for 24 hours
+,千代田区,九段南一丁目,-,東京都千代田区九段南１丁目６ A1-19.九段会館テラス,35.694065,139.751801,A1-19.九段会館テラス / KUDAN-KAIKAN TERRACE,,Open for 24 hours
+,千代田区,九段北四丁目,-,東京都千代田区九段北４丁目１ A1-20.菱和パレス九段,35.693025,139.740318,A1-20.菱和パレス九段 / RYOWAPALACE KUDAN,,Open for 24 hours
+,千代田区,神田小川町三丁目,-,東京都千代田区神田小川町３丁目 A2-01.神田駿河台下,35.695757,139.761582,A2-01.神田駿河台下 / Kanda Surugadai,,Open for 24 hours
+,千代田区,西神田二丁目,-,東京都千代田区西神田２丁目３−１１,35.698577,139.755097,A2-02.西神田公園（北側） / Nishikanda Park(North side),,Open for 24 hours
+,千代田区,西神田二丁目,-,東京都千代田区西神田２丁目４ A2-03.西神田公園（西側）,35.698341,139.754879,A2-03.西神田公園（西側） / Nishikanda Park(West side),,Open for 24 hours
+,千代田区,神田錦町三丁目,-,東京都千代田区神田錦町３丁目２１−３,35.691435,139.762227,A2-04.ちよだプラットフォームスクウェア / Chiyoda Platform Square,,Open for 24 hours
+,千代田区,神田錦町一丁目,-,東京都千代田区神田錦町１丁目 A2-05.神田橋公園,35.689678,139.764090,A2-05.神田橋公園 / Kandabashi Park,,Open for 24 hours
+,千代田区,神田駿河台二丁目,-,東京都千代田区神田駿河台２丁目９−３,35.700597,139.760147,A2-08.KDX御茶ノ水ビル / KDX Ochanomizu Building,,Open for 24 hours
+,千代田区,神田錦町三丁目,-,東京都千代田区神田錦町３丁目２４−４,35.693178,139.759942,A2-09.テラススクエア / TERRACE SQUARE,,Open for 24 hours
+,千代田区,神田神保町一丁目,-,東京都千代田区神田神保町１丁目 A2-12.神保町三井ビルディング,35.694542,139.760681,A2-12.神保町三井ビルディング / JINBOCHO MITSUI BUILDING,,Open for 24 hours
+,千代田区,神田錦町三丁目,-,東京都千代田区神田錦町３丁目 A2-14.興和一橋ビル,35.692700,139.759311,A2-14.興和一橋ビル / Kowa hitotsubashi Building,,Open for 24 hours
+,千代田区,一ツ橋一丁目,-,東京都千代田区一ツ橋１丁目２ A2-17.竹橋ビル,35.692396,139.756390,A2-17.竹橋ビル / Takebashi Building,,Open for 24 hours
+,千代田区,神田猿楽町一丁目,-,東京都千代田区神田猿楽町１丁目５ A2-18.猿楽町SSビル東,35.698654,139.759762,A2-18.猿楽町SSビル東 / Sarugakucho SS Bldg. east,,Open for 24 hours
+,千代田区,神田猿楽町二丁目,-,東京都千代田区神田猿楽町２丁目１ A2-19.猿楽町SSビル西,35.698641,139.759306,A2-19.猿楽町SSビル西 / Sarugakucho SS Bldg. west,,Open for 24 hours
+,千代田区,神田錦町二丁目,-,東京都千代田区神田錦町２丁目２−８,35.693408,139.762809,A2-20.神田スクエア / KANDA SQUARE,,Open for 24 hours
+,千代田区,神田神保町三丁目,-,東京都千代田区神田神保町３丁目 A2-21.神田神保町3丁目,35.694578,139.754434,A2-21.神田神保町3丁目 / Kanda Jimbocho 3,,Open for 24 hours
+,千代田区,神田神保町三丁目,-,東京都千代田区神田神保町３丁目 A2-22.専修大学,35.696147,139.753709,A2-22.専修大学 / SENSHU　UNIVERSITY,,Open for 24 hours
+,千代田区,神田小川町三丁目,-,東京都千代田区神田小川町３丁目２８−５,35.696126,139.763297,A2-23.axle御茶ノ水 / axle Ochanomizu,,Open for 24 hours
+,千代田区,神田三崎町二丁目,-,東京都千代田区神田三崎町２丁目２２ A2-24.水道橋駅西口前,35.702271,139.752619,A2-24.水道橋駅西口前 / Suidobashi Station in front of West exit,,Open for 24 hours
+,港区,高輪二丁目,-,東京都港区高輪２丁目１４−１４,35.698991,139.760910,A2-25.プラウド神田駿河台 / PROUD KANDA SURUGADAI,,Open for 24 hours
+,千代田区,大手町一丁目,大丸有,東京都千代田区大手町１丁目４−２,35.690958,139.759876,A2-27.丸紅ビル / Marubeni Building,,Open for 24 hours
+,千代田区,一ツ橋一丁目,-,東京都千代田区一ツ橋１丁目１ A2-28.NTTコミュニケーションズ一ツ橋ビル駐車場,35.691500,139.756850,A2-28.NTTコミュニケーションズ一ツ橋ビル駐車場 / Communications Hitotsubashi Building parking,,Open for 24 hours
+,千代田区,神田司町二丁目,-,東京都千代田区神田司町２丁目２−５ Dk・Tビル,35.692989,139.767732,A3-01.神田児童公園（西側交番横） / Kanda Children Park(West Side Next to the Police Box),,Open for 24 hours
+,千代田区,内神田二丁目,-,東京都千代田区内神田２丁目３ A3-02.絶滅メディア博物館（楓ビル）,35.689571,139.767854,A3-02.絶滅メディア博物館（楓ビル）/ Extinct Media Museum(Kaede Build.),,Open for 24 hours
+,千代田区,内神田二丁目,-,東京都千代田区内神田２丁目１６−１６−８,35.692548,139.768551,【休止中】A3-03.NTT東日本神田ビル / NTT-East Kanda Build,休止中,Open for 24 hours
+,千代田区,神田佐久間町一丁目,-,東京都千代田区神田佐久間町１丁目１７,35.697643,139.774860,A3-04.秋葉原公園 / Akihabara Park,,Open for 24 hours
+,千代田区,神田佐久間町三丁目,-,東京都千代田区神田佐久間町３丁目２６−７,35.698817,139.778883,A3-05.和泉公園（西側入口） / Izumi Park(Western Entrance),,Open for 24 hours
+,千代田区,神田淡路町二丁目,-,東京都千代田区神田淡路町２丁目５−５,35.696945,139.767288,A3-07.淡路公園 / Awaji Park,,Open for 24 hours
+,千代田区,外神田二丁目,-,東京都千代田区外神田２丁目１６ A3-08.神田明神（神田神社）,35.702311,139.768343,A3-08.神田明神（神田神社）/ Kanda Myoujin (Kanda Shrine ),,Open for 24 hours
+,千代田区,外神田三丁目,-,東京都千代田区外神田３丁目５ A3-10.芳林公園（北側）,35.701966,139.769816,A3-10.芳林公園（北側）/ Hourin Park(North Side),,Open for 24 hours
+,千代田区,外神田六丁目,-,東京都千代田区外神田６丁目１１ A3-11.練成公園,35.703734,139.770677,A3-11.練成公園 / Rensei Park,,Open for 24 hours
+,千代田区,外神田四丁目,-,東京都千代田区外神田４丁目１４−５,35.701114,139.772925,A3-12.秋葉原UDX北側駐輪場前 / Akihabara UDX(North Side),,Open for 24 hours
+,千代田区,神田練塀町,-,東京都千代田区神田練塀町３,35.700502,139.774249,A3-13.富士ソフトビル（駐車場入口横） / Fuji Soft Building(Side of Entrance to parking lot),,Open for 24 hours
+,千代田区,岩本町一丁目,-,東京都千代田区岩本町１丁目１ A3-16.地蔵橋東児童遊園,35.691080,139.775376,A3-16.地蔵橋東児童遊園 / Jizoubashi East Children Park,,Open for 24 hours
+,千代田区,神田佐久間河岸,-,東京都千代田区神田佐久間河岸91−６０３,35.697038,139.779912,A3-18.美倉橋北児童遊園 / Mikurabashi North Children Park,,Open for 24 hours
+,台東区,蔵前二丁目,-,東京都台東区蔵前２丁目４−７,35.694904,139.772712,A3-19.神田ふれあい通り第１ / Kanda Fureai-dori St. 1,,Open for 24 hours
+,千代田区,神田須田町二丁目,-,東京都千代田区神田須田町２丁目４−５,35.695005,139.772747,A3-20.神田ふれあい通り第２ / Kanda Fureai-dori St. 2,,Open for 24 hours
+,千代田区,神田須田町二丁目,-,東京都千代田区神田須田町２丁目４−８ 原田ビル,35.695176,139.772832,A3-21.神田ふれあい通り第３ / Kanda Fureai-dori St. 3,,Open for 24 hours
+,千代田区,岩本町一丁目,-,東京都千代田区岩本町１丁目１４−１,35.693234,139.779702,A3-22.龍閑児童公園 / Ryukan Children’s Park,,Open for 24 hours
+,千代田区,岩本町二丁目,-,東京都千代田区岩本町２丁目１３ A3-24.岩本町ほほえみプラザ,35.694367,139.777746,A3-24.岩本町ほほえみプラザ / Iwamoto-cho Hohoemi Plaza,,Open for 24 hours
+,千代田区,神田松永町,-,東京都千代田区神田松永町１０４,35.698990,139.774099,A3-27.秋葉原駅中央口（ヨドバシカメラ前）/ JR Akihabara Sta. Central Exit（beside Yodobashi-Akiba）,,Open for 24 hours
+,千代田区,外神田一丁目,-,東京都千代田区外神田１丁目１８ A3-28.秋葉原駅電気街口(西側交通広場),35.699173,139.772629,A3-28.秋葉原駅電気街口（西側交通広場）/ JR Akihabara Sta. Electric Town Exit（West Traffic Square）,,Open for 24 hours
+,千代田区,東神田二丁目,-,東京都千代田区東神田２丁目１０ A3-37.ポータル秋葉原,35.695737,139.781620,A3-37.ポータル秋葉原 / THE PORTAL AKIHABARA,,Open for 24 hours
+,千代田区,神田須田町一丁目,-,東京都千代田区神田須田町１丁目 A3-38.パークホームズ千代田淡路町,35.694974,139.769449,A3-38.パークホームズ千代田淡路町 / Park HOMES chiyoda-awajicho,,Open for 24 hours
+,千代田区,東神田一丁目,-,東京都千代田区東神田１丁目１１ A3-39.トーシン東神田ビル,35.694834,139.780333,A3-39.トーシン東神田ビル / Toshin Higashikanda Build,,Open for 24 hours
+,千代田区,外神田一丁目,-,東京都千代田区外神田１丁目１８−１３,35.698917,139.771856,A3-41.秋葉原ダイビル / Akihabara Daibiru Building,,Open for 24 hours
+,千代田区,内神田三丁目,-,東京都千代田区内神田３丁目２２−５ 1階,35.692599,139.770109,A3-42.内神田3丁目 / Uchikanda 3Chome,,Open for 24 hours
+,千代田区,東神田一丁目,-,東京都千代田区東神田１丁目７ A3-43.unito CHIYODA,35.694740,139.779290,A3-43.unito CHIYODA,,Open for 24 hours
+,千代田区,東神田一丁目,-,東京都千代田区東神田１丁目７ A3-44.THE WAVES AKIHABARA,35.694679,139.779504,A3-44.THE WAVES AKIHABARA,,Open for 24 hours
+,千代田区,鍛冶町二丁目,-,東京都千代田区鍛冶町２丁目２ A3-45.鍛冶町2丁目,35.691578,139.771380,"A3-45.鍛冶町2丁目	/ Kajicho 2 Chome
+",,-
+,千代田区,神田須田町二丁目,-,東京都千代田区神田須田町２丁目６−１５,35.695457,139.772972,"A3-46.神田須田町2丁目	/ Kanda sudacho 2 Chome
+",,-
+,千代田区,内神田一丁目,-,東京都千代田区内神田１丁目８ A3-47.ホテルヴィラフォンテーヌ東京大手町,35.690602,139.766916,A3-47.ホテルヴィラフォンテーヌ東京大手町 / Hotel Villa Fontaine Tokyo Otemachi,,Open for 24 hours
+,千代田区,丸の内二丁目,大丸有,東京都千代田区丸の内２丁目４,35.680553,139.763933,A4-01.丸ビル（南側駐輪場） / Marunouchi Build.(Southern Cycle Port),,Open for 24 hours
+,千代田区,大手町一丁目,大丸有,東京都千代田区大手町１丁目７ A4-02.東京サンケイビル,35.686842,139.765155,A4-02.東京サンケイビル / Tokyo Sankei Building,,Open for 24 hours
+,千代田区,丸の内三丁目,大丸有,東京都千代田区丸の内３丁目６ A4-03.東京国際フォーラム（メトロD5出口）,35.675822,139.763334,A4-03.東京国際フォーラム（メトロD5出口） / Tokyo International Forum (Metro D5 Exit),,Open for 24 hours
+,千代田区,大手町一丁目,大丸有,東京都千代田区大手町１丁目６ A4-05.大手町タワー,35.685954,139.764869,A4-05.大手町タワー / THE OTEMACHI TOWER,,Open for 24 hours
+,千代田区,大手町一丁目,大丸有,東京都千代田区大手町１丁目５ A4-06.大手町ファーストスクエア,35.686041,139.764468,A4-06.大手町ファーストスクエア / OTEMACHI 1st SQUARE,,Open for 24 hours
+,千代田区,大手町二丁目,大丸有,東京都千代田区大手町２丁目１−１,35.684349,139.766958,A4-08.永代通り（大手町駅B2c出口前） / Eitai-dori（beside Otemachi Sta.B2c Exit）,,Open for 24 hours
+,千代田区,丸の内二丁目,大丸有,東京都千代田区丸の内２丁目３ A4-11.二重橋前駅(メトロ4番出口),35.680753,139.762069,A4-11.二重橋前駅（メトロ4番出口）/ Nijubashimae Sta. （Metro 4 Exit）,,Open for 24 hours
+,千代田区,有楽町一丁目,大丸有,東京都千代田区有楽町１丁目１ A4-12.東京ミッドタウン日比谷,35.674274,139.759111,A4-12.東京ミッドタウン日比谷 / TOKYO MIDTOWN HIBIYA,,Open for 24 hours
+,千代田区,大手町二丁目,大丸有,東京都千代田区大手町２丁目２−２ URBANNET OTEMACHI BLDG. 21階,35.685570,139.766929,A4-13.アーバンネット大手町ビル / Urbannet Otemachi Building,,Open for 24 hours
+,千代田区,丸の内三丁目,大丸有,東京都千代田区丸の内３丁目６ A4-14.東京国際フォーラム（有楽町駅ガード側）,35.675739,139.763712,A4-14.東京国際フォーラム（有楽町駅ガード側）/ Tokyo International Forum (Yurakucho Station side),,Open for 24 hours
+,千代田区,永田町二丁目,赤坂,東京都千代田区永田町２丁目１２ A5-02.山王パークタワー,35.673723,139.739536,A5-02.山王パークタワー / Sanno Park,,Open for 24 hours
+,千代田区,永田町一丁目,赤坂,東京都千代田区永田町１丁目１１ A5-03.参議院第二別館（永田町駅2番出口）,35.677766,139.742706,A5-03.参議院第二別館（永田町駅2番出口） / Second Annex of House of Councillors（Nagatacho station No.2 Exit),,Open for 24 hours
+,千代田区,内幸町二丁目,-,東京都千代田区内幸町２丁目１ A5-04.日比谷パークフロント前　日比谷公園南面向い歩道上,35.671447,139.753877,"A5-04.日比谷パークフロント前（日比谷公園南面向い歩道上）/ In front of ""HIBIYA PARKFRONT"" Building（On the sidewalk of the southside of Hibiya Park）",,Open for 24 hours
+,千代田区,永田町二丁目,赤坂,東京都千代田区永田町２丁目１０ A5-06.APA HOTEL PRIDE 赤坂国会議事堂前,35.674468,139.741328,A5-06.APA HOTEL PRIDE〈赤坂国会議事堂前〉/ APA HOTEL PRIDE〈Akasaka Kokkaigijidomae〉,,Open for 24 hours
+,千代田区,内幸町二丁目,-,東京都千代田区内幸町２丁目２ A5-07.富国生命ビル,35.670452,139.755570,A5-07.富国生命ビル / FUKOKUSEIMEI BLDG.,,Open for 24 hours
+,千代田区,三番町,-,東京都千代田区三番町7−１３−１０２,35.689882,139.740177,A6-01.東郷元帥記念公園 / General Togo memory park,,Open for 24 hours
+,千代田区,一番町,-,東京都千代田区一番町 A6-02.いきいきプラザ一番町（西側駐輪場）,35.687043,139.739310,A6-02.いきいきプラザ一番町（西側駐輪場） / Iki-iki Plaza Ichiban-cho(Western Cycle Port),,Open for 24 hours
+,千代田区,二番町,-,東京都千代田区二番町 A6-07.二番町センタービル,35.685954,139.736318,A6-07.二番町センタービル / Nibancho Center Building,,Open for 24 hours
+,千代田区,二番町,-,東京都千代田区二番町８−３,35.685594,139.734547,A6-08.二番町ガーデン / Nibancho Garden,,Open for 24 hours
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町３−１６,35.682881,139.737045,A6-09.紀尾井町ビル（北側） / Kioicho Building(North side),,Open for 24 hours
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町３ A6-10.紀尾井町ビル（西側）,35.682513,139.736498,A6-10.紀尾井町ビル（西側） / Kioicho Building(West side),,Open for 24 hours
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町１ A6-11.東京ガーデンテラス紀尾井町,35.679620,139.736400,A6-11.東京ガーデンテラス紀尾井町 / Tokyo Garden Terrace kioicho,,Open for 24 hours
+,千代田区,五番町,-,東京都千代田区五番町１２−３３,35.689131,139.733071,A6-13.番町会館 / Banchokaikan,,"Open Weekday 8:00-18:30, Weekend & Holidays: Closed"
+,千代田区,五番町,-,東京都千代田区五番町１−９ MG市ヶ谷ビルディング10F,35.690861,139.736393,A6-14.MG市ヶ谷ビルディング / MG Ichigaya Building,,"Open Tue.-Sat. 9:00-21:45 , Sun. Holiday 9:00-18:00"
+,千代田区,四番町,-,東京都千代田区四番町４−２１,35.688929,139.735800,A6-15.東急番町ビル / Tokyu Bancho Building,,Open for 24 hours
+,千代田区,一番町,-,東京都千代田区一番町２−１８,35.688351,139.744321,A6-16.一番町第二TGビル / Ichibancho-daini TG Building,, Open 6:00-23:59
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町１ A6-17.東京ガーデンテラス紀尾井町（プリンス通り側）,35.680430,139.738200,A6-17.東京ガーデンテラス紀尾井町（プリンス通り側）/ Tokyo Garden Terrace kioicho (Prince Street Side),,OPEN 6:00-22:00
+,千代田区,麹町六丁目,-,東京都千代田区麹町６丁目６−２,35.685578,139.732078,A6-19.番町麹町ビルディング / Bancho kojimachi building,,Open for 24 hours
+,千代田区,麹町四丁目,-,東京都千代田区麹町４丁目５−２１,35.683690,139.736936,A6-20.紀尾井町PREX / Kioicho PREX,,Open for 24 hours
+,千代田区,麹町五丁目,-,東京都千代田区麹町５丁目４−３,35.684584,139.734442,A6-21.日本工営ビル / Nippon Koei Building,,Open for 24 hours
+,千代田区,麹町二丁目,-,東京都千代田区麹町２丁目 A6-22.半蔵門PREX South,35.683433,139.740756,A6-22.半蔵門PREX South / Hanzomon PREX South,,Open for 24 hours
+,千代田区,三番町,-,東京都千代田区三番町 A6-23.セブン-イレブン 千代田三番町店,35.689466,139.745316,A6-23.セブン-イレブン千代田三番町店 / Seven-Eleven Chiyoda Sanbancho,,Open for 24 hours
+,千代田区,隼町,-,東京都千代田区隼町４ A6-24.国立劇場,35.682218,139.743292,A6-24.国立劇場 / National Theatre,,Open for 24 hours
+,千代田区,平河町二丁目,-,東京都千代田区平河町２丁目７ A6-25.麹町仮住宅,35.679192,139.740190,A6-25.麹町仮住宅 / Kojimachi Temporary Housing,,Open for 24 hours
+,千代田区,麹町一丁目,-,東京都千代田区麹町１丁目 A6-26.相互半蔵門ビル,35.683378,139.743189,A6-26.相互半蔵門ビル / Sougo Hanzoumon Building,,Open for 24 hours
+,千代田区,飯田橋三丁目,-,東京都千代田区飯田橋３丁目１０,35.699885,139.749825,"【11/27 OPEN】A1-21.東京しごとセンター	/ Tokyo Employment Service Center
+",,-
+,千代田区,岩本町三丁目,-,東京都千代田区岩本町３丁目８−１１ Vort 秋葉原V,35.696066,139.777521,"【12/4 OPEN】A3-48.VORT秋葉原Ｖ / VORT AkihabaraＶ
+",,-
+,千代田区,神田神保町一丁目,-,東京都千代田区神田神保町１丁目２８,35.696982,139.758988,"【12/11 OPEN】A2-29.mirio神保町	/ mirio Jimbocho
+",,-
+,中央区,日本橋小伝馬町,-,東京都中央区日本橋小伝馬町５ B1-01.十思公園,35.691060,139.777909,B1-01.十思公園 / Jisshi Park,,Open for 24 hours
+,中央区,日本橋本石町四丁目,日八京,東京都中央区日本橋本石町４丁目４ B1-03.常盤公園（北側）,35.688392,139.770053,B1-03.常盤公園（北側） / Tokiwa Park(North Side),,Open for 24 hours
+,中央区,東日本橋二丁目,-,東京都中央区東日本橋２丁目２３ B1-04.産業会館,35.694162,139.787056,B1-04.産業会館 / Industrial Hall,,Open for 24 hours
+,中央区,日本橋堀留町一丁目,-,東京都中央区日本橋堀留町１丁目１ B1-05.日本橋保健センター,35.687414,139.779051,B1-05.日本橋保健センター /  Nihonbashi Health Center,,Open for 24 hours
+,中央区,日本橋小舟町,-,東京都中央区日本橋小舟町４ B1-06.伊場仙ビル,35.687621,139.777136,B1-06.伊場仙ビル / Ibasen Building,,Open for 24 hours
+,中央区,日本橋浜町二丁目,-,東京都中央区日本橋浜町２丁目３２ B1-08.明治座,35.688045,139.786543,B1-08.明治座 / Meijiza,,Open for 24 hours
+,中央区,日本橋本町一丁目,日八京,東京都中央区日本橋本町１丁目３ B1-09.スマイルホテル日本橋三越前,35.686099,139.776091,B1-09.スマイルホテル日本橋三越前 / Smile Hotel Nihonbashi Mitsukoshimae,,Open for 24 hours
+,中央区,日本橋蛎殻町一丁目,-,東京都中央区日本橋蛎殻町１丁目２２ B1-10.箱崎川第二公園,35.680874,139.784388,B1-10.箱崎川第二公園 / Hakozakigawa Dai-ni Park,,Open for 24 hours
+,中央区,日本橋蛎殻町二丁目,-,東京都中央区日本橋蛎殻町２丁目１７ B1-11.浜町川緑道,35.684168,139.787646,B1-11.浜町川緑道 / Hamacho-gawa Ryokudo,,Open for 24 hours
+,中央区,日本橋堀留町二丁目,-,東京都中央区日本橋堀留町２丁目１０−１２,35.687789,139.782050,B1-12.ファミリーマート堀留町二丁目店 / Familly Mart Horidomecho 2-chome Store,,Open for 24 hours
+,中央区,日本橋蛎殻町二丁目,-,東京都中央区日本橋蛎殻町２丁目１ B1-15.ロイヤルパークホテル,35.682332,139.787220,B1-15.ロイヤルパークホテル / ROYAL PARK HOTEL,,Open for 24 hours
+,中央区,日本橋小網町,-,東京都中央区日本橋小網町９ B1-16.小網町児童遊園,35.683695,139.780043,"B1-16.小網町児童遊園
+ / Koamicho Children's Playground",,-
+,中央区,日本橋小網町,-,東京都中央区日本橋小網町６ B1-18.セブン-イレブン 日本橋小網町店,35.681352,139.781436,B1-18.セブン-イレブン 日本橋小網町店 / Seven-Eleven Nihonbashi Koamicho store,,Open for 24 hours
+,中央区,日本橋本石町四丁目,日八京,東京都中央区日本橋本石町４丁目１ B1-20.竜閑さくら橋際街角広場,35.688301,139.768958,B1-20.竜閑さくら橋際街角広場 / Ryuukan Sakura Bridge Street Corner Plaza,,Open for 24 hours
+,中央区,日本橋二丁目,日八京,東京都中央区日本橋２丁目１０ B1-21.日本橋二丁目街角広場,35.680861,139.774493,B1-21.日本橋二丁目街角広場 / Nihonbashi 2-Chome　Street Corner Plaza,,Open for 24 hours
+,中央区,日本橋箱崎町,-,東京都中央区日本橋箱崎町１５ B1-23.NANAEI日本橋,35.679616,139.784341,B1-23.NANAEI日本橋 / NANAEI NIHONBASHI,,Open for 24 hours
+,中央区,日本橋堀留町二丁目,-,東京都中央区日本橋堀留町２丁目１ B1-26.Dash Living Nihonbashi,35.688020,139.781120,B1-26.Dash Living Nihonbashi,,Open for 24 hours
+,中央区,日本橋本町四丁目,日八京,東京都中央区日本橋本町４丁目９−１ 三勝ビル,35.689730,139.775980,B1-27.日本橋本町4丁目 / Nihonbashi Honcho 4 chome ,,Open for 24 hours
+,中央区,日本橋小網町,-,東京都中央区日本橋小網町１９ B1-28.アイルイムーブル日本橋,35.684502,139.779060,"B1-28.アイルイムーブル日本橋	/ Isle Immeuble Nihombashi",,Open for 24 hours
+,中央区,日本橋浜町三丁目,-,東京都中央区日本橋浜町３丁目３５ B1-29.ASTILE日本橋浜町,35.685504,139.790817,"B1-29.ASTILE日本橋浜町	/ ASTILE Nihonbashi Hamacho
+",,-
+,中央区,日本橋浜町三丁目,-,東京都中央区日本橋浜町３丁目３５ B1-30.菱和パレス日本橋浜町,35.685385,139.790221,B1-30.菱和パレス日本橋浜町 / RYOWA PLACE NIHONBASHI HAMACHOU,,Open for 24 hours
+,中央区,東日本橋一丁目,-,東京都中央区東日本橋１丁目１−５ ヒューリック東日本橋ビル,35.690331,139.784909,B1-31.久松歩道橋 / Hisamatu footbridge,,Open for 24 hours
+,中央区,湊一丁目,-,東京都中央区湊１丁目６ B2-01.鉄砲洲児童公園（西側）,35.672245,139.779344,B2-01.鉄砲洲児童公園（西側） / Teppozu Children’s Park(West Side),,Open for 24 hours
+,中央区,八重洲二丁目,日八京,東京都中央区八重洲２丁目８−１０ 松岡八重洲ビル １F,35.676389,139.768328,B2-02.柳通り（東京スクエアガーデン前）  Yanagi-dori St. (In front of TOKYO SQUARE GARDEN),,Open for 24 hours
+,中央区,八丁堀四丁目,-,東京都中央区八丁堀４丁目１２−２０,35.673927,139.778668,B2-03.男女平等センター（ブーケ21）/  Bouquet21,,Open for 24 hours
+,中央区,京橋二丁目,日八京,東京都中央区京橋２丁目１７ B2-04.清水建設本社（都営地下鉄宝町駅 Ａ８出口）,35.676137,139.772893,B2-04.清水建設本社（都営地下鉄宝町A08出口） / Shimizu Corporation Head Office,,Open for 24 hours
+,中央区,入船三丁目,-,東京都中央区入船３丁目１ B2-05.ＮＴＴ東日本築地ビル,35.670671,139.775990,B2-05.NTT東日本築地ビル / NTT-East Tsukiji Build.,,Open for 24 hours
+,中央区,日本橋茅場町一丁目,-,東京都中央区日本橋茅場町１丁目６ B2-07.東京証券会館（北側）,35.680858,139.779355,B2-07.東京証券会館（北側） / Tokyo Shoken Kaikan(North Side),,Open for 24 hours
+,中央区,日本橋茅場町二丁目,-,東京都中央区日本橋茅場町２丁目１−１２,35.680950,139.778509,B2-08.共同ビル（茅場町交差点前） / Kyodo Building (near Kayabacho Crossing),,Open for 24 hours
+,中央区,日本橋茅場町一丁目,-,東京都中央区日本橋茅場町１丁目７ B2-09.茅場町一丁目平和ビル,35.680204,139.778657,B2-09.茅場町一丁目平和ビル / Kayabacho 1-chome Heiwa Building,,Open for 24 hours
+,中央区,新川一丁目,-,東京都中央区新川１丁目２８ B2-10.東京ダイヤビルディング（北側）,35.675702,139.785229,B2-10.東京ダイヤビルディング（北側）/North Side of Tokyo Dia Building,,Open for 24 hours
+,中央区,京橋二丁目,日八京,東京都中央区京橋２丁目２ B2-11.京橋エドグラン,35.677560,139.769822,B2-11.京橋エドグラン / KYOBASHI EDOGRAND,,Open for 24 hours
+,中央区,新川一丁目,-,東京都中央区新川１丁目２８ B2-12.東京ダイヤビルディング（東側）,35.674835,139.785656,B2-12.東京ダイヤビルディング（東側）/East Side of Tokyo Dia Building,,Open for 24 hours
+,中央区,日本橋兜町,-,東京都中央区日本橋兜町７−７,35.681680,139.778250,B2-15.KABUTO ONE,,Open for 24 hours
+,中央区,八丁堀一丁目,-,東京都中央区八丁堀１丁目１３ B2-16.ホテルサードニクス東京,35.676840,139.778760,B2-16.ホテルサードニクス東京 / Hotel Sardonyx Tokyo,,Open for 24 hours
+,中央区,八丁堀三丁目,-,東京都中央区八丁堀３丁目３ B2-17.アーバネックス八丁堀,35.675180,139.773640,B2-17.アーバネックス八丁堀 / Urbanex Hacthobori,,Open for 24 hours
+,中央区,新川一丁目,-,東京都中央区新川１丁目３ B2-18.旭ビルディング,35.678291,139.781570,B2-18.旭ビルディング / Asahi Bldg,,Open for 24 hours
+,中央区,湊三丁目,-,東京都中央区湊３丁目８ B2-19.リエトコートアルクスタワー,35.670506,139.778540,B2-19.リエトコートアルクスタワー / LIETOCOURT ARX TOWER,,Open for 24 hours
+,中央区,新川二丁目,-,東京都中央区新川２丁目９−８,35.675398,139.779962,"B2-20.SHビル	/ SH Building
+",,-
+,中央区,八重洲二丁目,日八京,東京都中央区八重洲２丁目１ B2-21.八重洲二丁目北地区広場,35.679420,139.770040,B2-21.八重洲二丁目北地区広場 / Yaesu 2chome North District Square,,Open for 24 hours
+,中央区,京橋一丁目,日八京,東京都中央区京橋１丁目７−３ 全国信用組合会館分館,35.678475,139.772012,"B2-22.TODA BUILDING
+",,-
+,中央区,築地一丁目,-,東京都中央区築地１丁目１ B3-01.中央区役所,35.670846,139.772044,B3-01.中央区役所 / Chuo City Office,,Open for 24 hours
+,中央区,築地一丁目,-,東京都中央区築地１丁目５ B3-02.サンクンガーデン,35.670339,139.771906,B3-02.サンクンガーデン / Sunken Garden,,Open 8:30 - 18:00
+,中央区,築地五丁目,-,東京都中央区築地５丁目３ B3-04.築地市場駅地下駐輪場,35.664269,139.767426,B3-04.築地市場駅地下駐輪場 / Tsukijishijo Station Basement,,Open 5:00～25:00
+,中央区,築地五丁目,-,東京都中央区築地５丁目１ B3-06.朝日新聞東京本社,35.664460,139.767216,B3-06.朝日新聞東京本社 / Asahi Shimbun Tokyo Head Office,,Open for 24 hours
+,中央区,築地七丁目,-,東京都中央区築地７丁目１８ B3-09.築地永谷コーポラス,35.665230,139.776313,B3-09.築地永谷コーポラス / Tsukiji Nagatani corporate house,,Open for 24 hours
+,中央区,築地四丁目,-,東京都中央区築地４丁目１０ B3-12.築地場外市場,35.665254,139.769301,B3-12.築地場外市場 / Tsukiji Outer Market,,Open for 24 hours
+,中央区,築地五丁目,-,東京都中央区築地５丁目１ B3-13.国立がん研究センター,35.664871,139.767188,B3-13.国立がん研究センター / National Cancer Center Hospital,,Open for 24 hours
+,中央区,銀座六丁目,-,東京都中央区銀座６丁目１３ B3-15.ACホテル・バイ・マリオット東京銀座,35.668845,139.765144,B3-15.ACホテル・バイ・マリオット東京銀座 / AC Hotel Tokyo Ginza,,Open for 24 hours
+,中央区,明石町,-,東京都中央区明石町１４ B3-16.明石町区民館,35.666001,139.778102,B3-16.明石町区民館 / Akashicho Community Hall,,Open for 24 hours
+,中央区,銀座七丁目,-,東京都中央区銀座７丁目１７ B3-17.銀座6丁目-SQUARE,35.667110,139.766430,B3-17.銀座6丁目-SQUARE / Ginza 6-chome SQUARE,,Open for 24 hours
+,中央区,築地一丁目,-,東京都中央区築地１丁目１２ B3-18.銀座松竹スクエア,35.668395,139.769849,B3-18.銀座松竹スクエア / Ginza Shochiku Square,,Open for 24 hours
+,中央区,新富一丁目,-,東京都中央区新富１丁目１３ B3-19.本の森ちゅうおう,35.673633,139.776230,"B3-19.本の森ちゅうおう	/ Honnomori Chuo",,Open for 24 hours
+,中央区,銀座四丁目,-,東京都中央区銀座４丁目１２ B3-21.歌舞伎座タワー駐輪場3F,35.670106,139.768041,"B3-20.歌舞伎座タワー駐輪場2F / KABUKIZA TOWER 2F
+",,-
+,中央区,銀座四丁目,-,東京都中央区銀座４丁目１２−１５,35.670120,139.767870,"B3-21.歌舞伎座タワー駐輪場3F / KABUKIZA TOWER 3F
+",,-
+,中央区,銀座六丁目,-,東京都中央区銀座６丁目１６ B3-22.ザ ロイヤルパークホテル 銀座6丁目,35.667989,139.765892,B3-22.ザ ロイヤルパークホテル 銀座6丁目 / THE ROYAL PARK GINZA 6-CHOME,,Open for 24 hours
+,中央区,晴海三丁目,-,東京都中央区晴海３丁目１ B4-01.黎明橋公園（駐輪場）,35.656057,139.780071,B4-01.黎明橋公園（駐輪場） / Reimeibashi Park(Parking Area),,Open for 24 hours
+,中央区,月島二丁目,-,東京都中央区月島２丁目１４ B4-02.月島特別出張所,35.662191,139.782717,B4-02.月島特別出張所 / Tsukishima Special Branch Office,,Open for 24 hours
+,中央区,晴海一丁目,-,東京都中央区晴海１丁目８ B4-03.桜の散歩道（晴海トリトンスクエア前）,35.658597,139.782542,B4-03.桜の散歩道（晴海トリトンスクウエア前） / Sakura no Sanpomichi (Harumi Triton Square),,Open for 24 hours
+,中央区,晴海三丁目,-,東京都中央区晴海３丁目１２−７,35.654430,139.778430,B4-04.KDX晴海ビル / KDX Harumi Building,,Open for 24 hours
+,中央区,晴海四丁目,-,東京都中央区晴海４丁目１ B4-05.ドコモ・バイクシェア晴海ポート,35.654168,139.781568,B4-05.ドコモ・バイクシェア晴海ポート / DOCOMO BIKESHARE Harumi Bike Port,,Open for 24 hours
+,中央区,月島一丁目,-,東京都中央区月島１丁目２７−５,35.663009,139.782717,B4-06.月島駅地下駐輪場 / Tsukishima Station Basement,,Open 5:00～25:00
+,中央区,勝どき三丁目,-,東京都中央区勝どき３丁目５ B4-07.勝どき駅地下駐輪場,35.658138,139.776128,B4-07.勝どき駅地下駐輪場 / Kachidoki Station Basement,,Open 5:00～25:00
+,中央区,勝どき五丁目,-,東京都中央区勝どき５丁目９ B4-08.東京ミッドベイ勝どき（西仲通り）,35.656447,139.771286,B4-08.東京ミッドベイ勝どき（西仲通り） / TOKYO MIDBAY KACHIDOKI（Nishinaka St.）,,Open for 24 hours
+,中央区,佃一丁目,-,東京都中央区佃１丁目１１−１ 区立シニアセンター,35.668795,139.784784,B4-10.リバーシティ/ River City,,Open for 24 hours
+,中央区,勝どき四丁目,-,東京都中央区勝どき４丁目１３ B4-11.ダンスキューブ勝どき,35.656565,139.775073,B4-11.ダンスキューブ勝どき / DANCE CUBE KACHIDOKI,,Open for 24 hours
+,中央区,勝どき六丁目,-,東京都中央区勝どき６丁目３−１,35.655497,139.774556,B4-12.THE TOKYO TOWERS,,Open for 24 hours
+,中央区,勝どき一丁目,-,東京都中央区勝どき１丁目３ B4-14.Brillia ist Tower 勝どき,35.660526,139.776818,B4-14.Brillia ist Tower 勝どき / Brillia ist Tower Kachidoki,,Open for 24 hours
+,中央区,佃二丁目,-,東京都中央区佃２丁目１ B4-15.リバーシティ　イーストタワーズ,35.669188,139.785301,B4-15.リバーシティ イーストタワーズ / River City East Towers,,Open for 24 hours
+,中央区,豊海町,-,東京都中央区豊海町５ 豊海センタービル ファミリーマート右横,35.653439,139.769502,B4-18.豊海センタービル / TOYOMI CENTER BUILDING,,Open for 24 hours
+,中央区,佃二丁目,-,東京都中央区佃２丁目２ B4-19.コーシャタワー佃,35.668044,139.785801,B4-19.コーシャタワー佃 / Kosha Tower Tsukuda,,Open for 24 hours
+,中央区,月島二丁目,-,東京都中央区月島２丁目１ B4-21.月島駅前第一駐輪場,35.663681,139.785651,B4-21.月島駅前第一駐輪場 / Tsukishima station square first bicycle parking ,,Open for 24 hours
+,中央区,勝どき五丁目,-,東京都中央区勝どき５丁目１１ B4-22.リビオレゾン勝どきNEX,35.655537,139.771026,B4-22.リビオレゾン勝どきNEX / LIVIO RAISON KACHIDOKI NEX,,Open for 24 hours
+,中央区,豊海町,-,東京都中央区豊海町６ B4-23.交通広場（豊海町）,35.653774,139.769295,B4-23.交通広場（豊海町）/ TRAFFIC SQUARE(Toyomicho),,Open for 24 hours
+,中央区,月島二丁目,-,東京都中央区月島２丁目１４ B4-24.ミュプレ月島,35.662884,139.783289,B4-24.ミュプレ月島 / MIEUXPRES TUKISHIMA,,Open for 24 hours
+,中央区,晴海三丁目,-,東京都中央区晴海３丁目９ B4-26.東武ストア晴海三丁目店,35.654371,139.779545,B4-26.東武ストア晴海三丁目店 / TOBUSTORE Harumi 3-Chome,,Open for 24 hours
+,中央区,佃一丁目,-,東京都中央区佃１丁目１１ B4-27.リバーシティ西ブロック,35.670491,139.784447,B4-27.リバーシティ西ブロック / River City West Block,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目３−５３,35.651187,139.776119,"B4-28.HARUMI FLAG PORT VILLAGE
+",,-
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目３−２,35.651909,139.777391,B4-29.HARUMI FLAG PORT VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目４ B4-30.HARUMI FLAG PORT VILLAGE,35.651139,139.778219,B4-30.HARUMI FLAG PORT VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目４ B4-31.HARUMI FLAG PORT VILLAGE,35.650607,139.777240,B4-31.HARUMI FLAG PORT VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６ B4-32.HARUMI FLAG SEA VILLAGE,35.648735,139.774995,B4-32.HARUMI FLAG SEA VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目３ 晴海西小中学校,35.649553,139.776370,B4-33.HARUMI FLAG SEA VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目４−３,35.649935,139.776958,B4-34.HARUMI FLAG SEA VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目４ B4-35.HARUMI FLAG SEA VILLAGE,35.650576,139.777909,B4-35.HARUMI FLAG SEA VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目４ B4-36.HARUMI FLAG SEA VILLAGE,35.650745,139.778097,B4-36.HARUMI FLAG SEA VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目１−１,35.649421,139.771447,B4-37.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目５ B4-39.HARUMI FLAG SUN VILLAGE,35.650868,139.772548,B4-39.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目５ B4-38.HARUMI FLAG SUN VILLAGE,35.650806,139.771836,B4-38.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目５ B4-40.HARUMI FLAG SUN VILLAGE,35.651309,139.773379,B4-40.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目５−５,35.649857,139.773341,B4-41.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目５ B4-42.HARUMI FLAG SUN VILLAGE,35.649343,139.772657,B4-42.HARUMI FLAG SUN VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６−１,35.648225,139.772665,"B4-44.HARUMI FLAG PARK VILLAGE
+",,-
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６ B4-45.HARUMI FLAG PARK VILLAGE,35.649002,139.772764,B4-45.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６−３ 1F,35.649645,139.773860,B4-46.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６ B4-47.HARUMI FLAG PARK VILLAGE,35.649122,139.775138,B4-47.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目３ B4-48.HARUMI FLAG PARK VILLAGE,35.649518,139.775287,B4-48.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６ B4-49.HARUMI FLAG PARK VILLAGE,35.648640,139.774252,B4-49.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目６ B4-50.HARUMI FLAG PARK VILLAGE,35.648300,139.773974,B4-50.HARUMI FLAG PARK VILLAGE,,Open for 24 hours
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目２ B4-52.LaLa terrace HARUMI FLAG,35.651849,139.774141,"B4-52.LaLa terrace HARUMI FLAG
+",,-
+,中央区,晴海五丁目,-,東京都中央区晴海５丁目３−６１７,35.652164,139.773833,B4-53.晴海五丁目ターミナル / Harumi 5chome Terminal,,Open for 24 hours
+,中央区,晴海四丁目,-,"東京都中央区晴海４丁目８−１ 3,4階",35.651890,139.779410,"B4-54.晴海区民センター	/ Harumi Civic Center
+",,-
+,港区,西新橋一丁目,虎ノ門,東京都港区西新橋１丁目１２,35.668806,139.753564,C1-02.西新橋1丁目（外堀通り） / Nishi-Shinbashi 1Chome (Sotobori St.),,Open for 24 hours
+,港区,虎ノ門一丁目,虎ノ門,東京都港区虎ノ門１丁目２３,35.666489,139.748986,C1-04.虎ノ門ヒルズ / TORANOMON HILLS,,Open for 24 hours
+,港区,西新橋二丁目,虎ノ門,東京都港区西新橋２丁目２２−７,35.665600,139.752625,C1-05.西新橋２丁目（新虎通り） / Nishi-Shinbashi 2-Chome (Shintora St.),,Open for 24 hours
+,港区,虎ノ門三丁目,虎ノ門,東京都港区虎ノ門３丁目２１,35.662005,139.748168,C1-09.愛宕グリーンヒルズ / Atago GREEN HILLS,,Open for 24 hours
+,港区,新橋四丁目,虎ノ門広域,東京都港区新橋４丁目１１ C1-14.新橋プラザビル,35.664459,139.756089,C1-14.新橋プラザビル / Shinbashi Plaza Building,,Open for 24 hours
+,港区,芝公園三丁目,虎ノ門,東京都港区芝公園３丁目５ C1-15.東京タワー,35.659280,139.744767,C1-15.東京タワー / TOKYO TOWER,,Open for 24 hours
+,港区,芝公園三丁目,虎ノ門,東京都港区芝公園３丁目５ C1-16.機械振興会館,35.659443,139.745557,C1-16.機械振興会館 / Kikai Shinko Kaikan Building,,Open for 24 hours
+,港区,芝公園一丁目,-,東京都港区芝公園１丁目５−２５,35.657868,139.751064,C1-17.港区役所 / Minato City Hall,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目２ C1-21.汐留ビルディング,35.657367,139.759190,C1-21.汐留ビルディング / Shiodome Building,,Open for 24 hours
+,港区,芝四丁目,-,東京都港区芝４丁目１−１７ 三田いきいきプラザ,35.648652,139.749835,C1-23.三田いきいきプラザ / Mita Iki-iki Plaza,,Open for 24 hours
+,港区,三田一丁目,-,東京都港区三田１丁目４−２８ 三田国際ビル アネックス A101,35.653170,139.744679,C1-24.三田国際ビル / Mita Kokusai Building,,Open for 24 hours
+,港区,虎ノ門二丁目,虎ノ門,東京都港区虎ノ門２丁目３−１７ 虎ノ門2丁目タワー 1F,35.668578,139.747157,C1-27.虎ノ門２丁目タワー / TORANOMON 2-CHOME TOWER,,Open for 24 hours
+,港区,虎ノ門四丁目,虎ノ門,東京都港区虎ノ門４丁目３−９,35.664479,139.743731,C1-34.城山ガーデン / SHIROYAMA GARDEN,,Open for 24 hours
+,港区,芝四丁目,-,東京都港区芝４丁目３ C1-35.セブン-イレブン 三田駅北店,35.649032,139.750147,C1-35.セブン-イレブン三田駅北店 / Seven-Eleven Mitaekikita,,Open for 24 hours
+,港区,西新橋三丁目,虎ノ門,東京都港区西新橋３丁目３ C1-37.KDX西新橋ビル（北側）,35.665218,139.750827,C1-37.KDX西新橋ビル（北側）/ KDX Nishi-shimbashi Building(North Side),,Open for 24 hours
+,港区,西新橋三丁目,虎ノ門,東京都港区西新橋３丁目３ C1-38.KDX西新橋ビル（西側）,35.664950,139.750459,C1-38.KDX西新橋ビル（西側）/ KDX Nishi-shimbashi Building(West Side),,Open for 24 hours
+,港区,浜松町一丁目,-,東京都港区浜松町１丁目７ C1-41.港区立エコプラザ,35.658709,139.757036,C1-41.港区立エコプラザ / Eco Plaza,,Open for 24 hours
+,港区,芝公園一丁目,-,東京都港区芝公園１丁目７ C1-43.KDX浜松町プレイス,35.658169,139.752509,C1-43.KDX浜松町プレイス / KDX HAMAMATSUCHO PLACE,,Open for 24 hours
+,港区,三田三丁目,-,東京都港区三田３丁目９ C1-44.三田Avanti,35.641150,139.741471,C1-44.三田Avanti / Mita Avanti,,Open for 24 hours
+,港区,浜松町二丁目,-,東京都港区浜松町２丁目３ C1-45.浜松町クレアタワー,35.656327,139.755926,C1-45.浜松町クレアタワー  / NIPPON LIFE HAMAMATSUCHO CREA TOWER,,Open for 24 hours
+,港区,新橋四丁目,虎ノ門広域,東京都港区新橋４丁目１−６,35.665116,139.754071,C1-46.新虎通りCORE / SHINTORA-DORI CORE,,Open for 24 hours
+,港区,三田三丁目,-,東京都港区三田３丁目７−３１ パークプレイス三田,35.641686,139.740472,C1-47.パークプレイス三田 / Park Place Mita,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目１１ C1-48.竹芝客船ターミナル,35.655139,139.762812,C1-48.竹芝客船ターミナル / Takeshiba Passenger Ship Terminal,,Open for 24 hours
+,港区,東新橋一丁目,虎ノ門広域,東京都港区東新橋１丁目１ C1-49.汐留シティセンター,35.666213,139.760907,C1-49. 汐留シティセンター / Shiodome City Center,,Open for 24 hours
+,港区,虎ノ門三丁目,虎ノ門,東京都港区虎ノ門３丁目８−８,35.665991,139.747891,C1-50.NTT虎ノ門ビル / NTT Toranomon Bldg.,,Open for 24 hours
+,港区,新橋四丁目,虎ノ門広域,東京都港区新橋４丁目２１ C1-51.環二新橋四丁目,35.663843,139.757697,C1-51.環二新橋四丁目 / Kam-2 Shimbashi 4-chome,,Open for 24 hours
+,港区,芝三丁目,-,東京都港区芝３丁目３ C1-52.NTT三田ビル,35.652549,139.747789,C1-52.NTT三田ビル / NTT Mita Build.,,Open for 24 hours
+,港区,新橋六丁目,虎ノ門広域,東京都港区新橋６丁目２０ C1-53.ホテルリブマックス新橋,35.661149,139.754612,C1-53.ホテルリブマックス新橋 / HOTEL LiVEMAX SHIMBASHI,,Open for 24 hours
+,港区,虎ノ門三丁目,虎ノ門,東京都港区虎ノ門３丁目１２ C1-54.ニッセイ虎ノ門ビル,35.664344,139.746662,C1-54. ニッセイ虎ノ門ビル / NIPPON LIFE TORANOMON BUILDING,,Open for 24 hours
+,港区,新橋一丁目,虎ノ門広域,東京都港区新橋１丁目１ C1-55.アーバンネット内幸町ビル,35.669257,139.756043,C1-55.アーバンネット内幸町ビル・THE BLOSSOM HIBIYA / Urbannet Uchisaiwaicho Building,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目１３ C1-56.鈴与竹芝ビル,35.654873,139.762103,C1-56.鈴与竹芝ビル / Suzuyo Takeshiba Building,,Open for 24 hours
+,港区,虎ノ門三丁目,虎ノ門,東京都港区虎ノ門３丁目１ C1-57.虎ノ門ツインビルディング,35.667259,139.745643,C1-57.虎ノ門ツインビルディング / Toranomon Twin Building,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目１０ C1-58.ウォーターズ竹芝,35.655937,139.763251,C1-58.ウォーターズ竹芝 / WATERS Takeshiba,,Open for 24 hours
+,港区,芝三丁目,-,東京都港区芝３丁目３２ C1-59.セレスティン芝三井ビルディング,35.650845,139.748346,C1-59.セレスティン芝三井ビルディング / CELESTINE SHIBA MITSUI Bldg,,Open for 24 hours
+,港区,芝五丁目,-,東京都港区芝５丁目２５ C1-60.専売ビル,35.647659,139.745055,C1-60.専売ビル / Senbai Bldg.,,Open for 24 hour
+,港区,海岸一丁目,-,東京都港区海岸１丁目５ C1-61.環三浜松町駅南,35.653096,139.757390,C1-61.環三浜松町駅南 / Kam-3 Hamamatsucho Station South,,Open for 24 hours
+,港区,虎ノ門一丁目,虎ノ門,東京都港区虎ノ門１丁目２２−１２,35.669941,139.749261,C1-64.東京虎ノ門グローバルスクエア / TOKYO TORANOMON GLOBAL SQUARE,,/ Open 7:30～20:00
+,港区,海岸一丁目,-,東京都港区海岸１丁目７ C1-65.東京ポートシティ竹芝,35.654757,139.761516,C1-65.東京ポートシティ竹芝 / TOKYO PORTCITY TAKESHIBA,,Open for 24 hours
+,港区,西新橋一丁目,虎ノ門,東京都港区西新橋１丁目７−１４,35.669228,139.751668,C1-67.京阪神 虎ノ門ビル / Keihanshin Toranomon Bldg.,,Open for 24 hours
+,港区,新橋三丁目,虎ノ門広域,東京都港区新橋３丁目１６−１５,35.665214,139.757008,C1-68.桜田公園 / Sakurada Park,,Open for 24 hours
+,港区,新橋五丁目,虎ノ門広域,東京都港区新橋５丁目１９−７,35.662908,139.755014,C1-69.塩釜公園 / Shiogama Park,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目４ C1-71.芝商業高校前交差点,35.655830,139.759896,C1-71.芝商業高校前交差点 / Shiba Shogyo high school front intersection,,Open for 24 hours
+,港区,芝五丁目,-,東京都港区芝５丁目３１ C1-72.新田町ビル,35.646307,139.746428,C1-72.新田町ビル / SHIN TAMACHI Bldg.,,Open for 24 hour
+,港区,西新橋一丁目,虎ノ門,東京都港区西新橋１丁目１−７,35.669904,139.752949,C1-73.日比谷フォートタワー / HIBIYA FORT TOWER,,Open for 24 hours
+,港区,芝五丁目,-,東京都港区芝５丁目３６−４ ４階,35.645115,139.744567,C1-74.札の辻スクエア / Fudanotsuji Square,,Open for 24 hours
+,港区,虎ノ門三丁目,虎ノ門,東京都港区虎ノ門３丁目１０−１１ 虎ノ門ＰＦビル,35.665466,139.748014,C1-75.虎ノ門PFビル / Toranomon PF Bldg.,,Open for 24 hours
+,港区,海岸一丁目,-,東京都港区海岸１丁目２ C1-76.浜松町駅北口交通広場(ハマサイト前),35.656647,139.758301,C1-76.浜松町駅北口交通広場(ハマサイト前) / Hamamatsucho Station North Exit Traffic Square(Hamasite),,Open for 24 hours
+,港区,芝公園四丁目,-,東京都港区芝公園４丁目８ C1-77.芝公園,35.655130,139.749645,C1-77.芝公園 / Shiba Park,,Open for 24 hours
+,港区,西新橋二丁目,虎ノ門,東京都港区西新橋２丁目１１−２ 駐車場,35.666460,139.752138,C1-78.CIRCLES新橋 / CIRCLES SHINBASHI,,Open for 24 hours
+,港区,芝四丁目,-,東京都港区芝４丁目１８−１２,35.648765,139.753363,C1-79.髙松コンストラクショングループ 東京本社ビル / Takamatsu Construction Group Tokyo Head Office Building,,Open for 24 hours
+,港区,浜松町二丁目,-,東京都港区浜松町２丁目６ C1-80.浜松町262ビル,35.654289,139.755570,C1-80.浜松町262ビル / Hamamatsucho 262 Building,,Open for 24 hours
+,港区,芝四丁目,-,東京都港区芝４丁目１５ C1-81.田町タワー,35.646534,139.748913,C1-81.田町タワー / Tamachi Tower,,Open for 24 hours
+,港区,三田二丁目,-,東京都港区三田２丁目２０−２０,35.647831,139.739048,C1-82.トヨタモビリティ東京 港三田店 / Toyota Mobility Tokyo - Minatomita,,Open for 24 hours
+,港区,芝二丁目,-,東京都港区芝２丁目２０ C1-83.友愛会館,35.651803,139.749834,"C1-83.友愛会館	/ Yuai hall
+",,-
+,港区,新橋三丁目,虎ノ門広域,東京都港区新橋３丁目３ C1-84.新虎安田ビル,35.665220,139.754260,"C1-84.新虎安田ビル / HINTORA YASUDA Building
+",,-
+,港区,東新橋二丁目,虎ノ門広域,東京都港区東新橋２丁目１３ C1-85.富士ソフト汐留ビル,35.660659,139.756358,C1-85.富士ソフト汐留ビル / UJISOFT Shiodome Building,,Open for 24 hours
+,港区,芝一丁目,-,東京都港区芝１丁目１２−３ エステムプラザ芝公園,35.650830,139.754700,C1-86.エステムプラザ芝公園1 / ESTEMPLAZA SHIBAKOUEN1,,Open for 24 hours
+,港区,芝一丁目,-,東京都港区芝１丁目１２−２０,35.650720,139.754690,"C1-87.エステムプラザ芝公園2	/ ESTEMPLAZA SHIBAKOUEN2
+",,-
+,港区,赤坂一丁目,虎ノ門,東京都港区赤坂１丁目１２−３２ アーク森ビル 3F 107-6003,35.667128,139.739573,C2-01.アークヒルズ（アーク森ビル） / Ark Hills (Ark Mori Tower),,Open for 24 hours
+,港区,六本木六丁目,六本木,東京都港区六本木６丁目１０,35.661156,139.728537,C2-02.六本木ヒルズ / Roppongi Hills,,Open for 24 hours
+,港区,六本木一丁目,虎ノ門,東京都港区六本木１丁目４ C2-03.アークヒルズサウスタワー,35.666354,139.739249,C2-03.アークヒルズサウスタワー / Ark Hills South Tower,,Open for 24 hours
+,港区,東麻布二丁目,-,東京都港区東麻布２丁目１６ C2-04.飯倉いきいきプラザ,35.656958,139.740721,C2-04.飯倉いきいきプラザ / Iikura Iki-iki Plaza,,Open for 24 hours
+,港区,南麻布三丁目,-,東京都港区南麻布３丁目５ C2-05.ありすいきいきプラザ,35.651056,139.727741,C2-05.ありすいきいきプラザ / Arisu Iki-iki Plaza,,Open for 24 hours
+,港区,西麻布二丁目,-,東京都港区西麻布２丁目９ C2-08.ファミリーマート西麻布霞町店,35.661668,139.721120,C2-08.ファミリーマート西麻布霞町店 / Familly Mart Nishi-Azabu Kasumicho Store,,Open for 24 hours
+,港区,六本木五丁目,六本木,東京都港区六本木５丁目１６ C2-09.麻布地区総合支所,35.660614,139.734771,C2-09.麻布地区総合支所 / Azabu Regional City Office,,Open for 24 hours
+,港区,元麻布三丁目,-,東京都港区元麻布３丁目１２ C2-10.元麻布三丁目,35.655869,139.730566,C2-10.元麻布三丁目 / Motoazabu 3-Chome,,Open for 24 hours
+,港区,麻布十番四丁目,-,東京都港区麻布十番４丁目１ C2-11.一の橋,35.654726,139.737491,C2-11.一の橋 / Ichinohashi,,Open for 24 hours
+,港区,麻布台一丁目,虎ノ門,東京都港区麻布台１丁目２−１１,35.662490,139.741397,C2-12.六本木ファーストビル / Roppongi First Building,,Open for 24 hours
+,港区,南麻布五丁目,-,東京都港区南麻布５丁目６ C2-13.麻布運動場,35.651718,139.728165,C2-13.麻布運動場 / Azabu Sports Field,,Open for 24 hours
+,港区,元麻布一丁目,-,東京都港区元麻布１丁目３ C2-14.元麻布ヒルズ,35.653608,139.731380,C2-14.元麻布ヒルズ / MOTOAZABU HILLS,,Open for 24 hours
+,港区,六本木三丁目,六本木,東京都港区六本木３丁目４ C2-15.住友不動産六本木グランドタワー,35.664367,139.737185,C2-15.住友不動産六本木グランドタワー / SUMITOMO FUDOSAN ROPPONGI GRAND TOWER,,Open for 24 hours
+,港区,東麻布一丁目,-,東京都港区東麻布１丁目７ C2-16.ザ・ベルグレイヴィア麻布,35.657264,139.743821,C2-16.ザ・ベルグレイヴィア麻布 / THE BELGRAVIA AZABU,,Open for 24 hours
+,港区,六本木七丁目,六本木,東京都港区六本木７丁目３−２４,35.665910,139.727816,【休止中】C2-17.goodoffice ROPPONGI,休止中,Open for 24 hours
+,港区,東麻布一丁目,-,東京都港区東麻布１丁目１５−２,35.656775,139.743190,C2-18.ブランシェ東麻布 / Branche Higashiazabu,,Open for 24 hours
+,渋谷区,広尾五丁目,-,東京都渋谷区広尾５丁目５ C2-19.広尾駅,35.650732,139.722560,C2-19.広尾駅 / Hiroo Station,,Open for 24 hours
+,港区,六本木三丁目,六本木,東京都港区六本木３丁目１５−１９,35.662060,139.735501,C2-20.三井ガーデンホテル六本木プレミア /  Mitsui Garden Hotel Roppongi Tokyo Premier,,Open for 24 hours
+,港区,東麻布一丁目,-,東京都港区東麻布１丁目２４−６,35.655649,139.744270,C2-22.飯倉公園 / Iikura Park,,Open for 24 hours
+,港区,東麻布一丁目,-,東京都港区東麻布１丁目２６ C2-24.Dash Living HigashiAzabu,35.655135,139.744449,C2-24.Dash Living HigashiAzabu,,Open for 24 hours
+,港区,六本木三丁目,六本木,東京都港区六本木３丁目１７ C2-25.アパホテル＆リゾート＜六本木駅東＞,35.661786,139.737243,C2-25.アパホテル&リゾート＜六本木駅東＞/ APA HOTELS&RESORTS -ROPPONGI EKI HIGASHI-,,Open for 24 hours
+,港区,三田一丁目,-,東京都港区三田１丁目１０−１０,35.655367,139.738075,C2-26.一の橋公園 / Ichinohashi Park,,Open for 24 hours
+,港区,南麻布四丁目,-,東京都港区南麻布４丁目５ C2-27.有栖川宮記念公園第一,35.651382,139.724392,C2-27.有栖川宮記念公園第一 / Arisugawa-no-miya Memorial Park 1,,Open for 24 hours
+,港区,南麻布四丁目,-,東京都港区南麻布４丁目５ C2-28.有栖川宮記念公園第二,35.651129,139.726003,"C2-28.有栖川宮記念公園第二	/ Arisugawa-no-miya Memorial Park 2
+",,-
+,港区,麻布狸穴町,-,東京都港区麻布狸穴町 C2-29.狸穴公園,35.658204,139.738935,C2-29.狸穴公園 / Mamiana Park,,Open for 24 hours
+,港区,南麻布二丁目,-,東京都港区南麻布２丁目２ C2-30.セジョリ南麻布,35.649507,139.735269,"C2-30.セジョリ南麻布 / C'est joli minamiazabu
+",,-
+,港区,麻布台一丁目,虎ノ門,東京都港区麻布台１丁目３ C2-32.麻布台ヒルズ,35.661158,139.740036,"C2-32.麻布台ヒルズ	/ Azabudai Hills
+",,-
+,港区,西麻布四丁目,-,東京都港区西麻布４丁目１７ C2-33.パークウェルステイト西麻布,35.659177,139.719209,"C2-33.パークウェルステイト西麻布 / PARKWELLSTATE NISHIAZABU
+",,-
+,港区,赤坂四丁目,赤坂,東京都港区赤坂４丁目１７ C3-02.赤坂地区総合支所,35.674796,139.731414,C3-02.赤坂地区総合支所 / Akasaka Regional City Office,,Open for 24 hours
+,港区,南青山二丁目,-,東京都港区南青山２丁目１６−４,35.669020,139.721383,"C3-03.青山いきいきプラザ/Aoyama Iki-iki Plaza
+",,-
+,港区,南青山四丁目,-,東京都港区南青山４丁目９ C3-04.青南いきいきプラザ,35.666459,139.717476,C3-04.青南いきいきプラザ / Seinan Iki-iki Plaza,,Open for 24 hours
+,港区,赤坂八丁目,赤坂,東京都港区赤坂８丁目１０−３４,35.670657,139.728171,C3-06.ホテルアジア会館 / Hotel Asia Center of Japan,,Open for 24 hours
+,港区,南青山一丁目,-,東京都港区南青山１丁目１ C3-07.新青山ビル,35.672679,139.725634,C3-07.新青山ビル / Shin-Aoyama Building,,Open for 24 hours
+,港区,赤坂五丁目,赤坂,東京都港区赤坂５丁目２−１０,35.671813,139.733690,C3-08.赤坂パークビルヂング / Akasaka Park Building,,Open for 24 hours
+,港区,赤坂一丁目,虎ノ門,東京都港区赤坂１丁目３−９,35.670368,139.744683,C3-10.ファミリーマート特許庁前店 / FamilyMart Tokkyocho Mae Store,,Open for 24 hours
+,港区,赤坂三丁目,赤坂,東京都港区赤坂３丁目８ C3-11.赤坂見附南,35.676566,139.737083,C3-11.赤坂見附南 / South side of Akasakamitsuke,,Open for 24 hours
+,港区,元赤坂一丁目,赤坂,東京都港区元赤坂１丁目３ C3-12.赤坂センタービルディング前（青山通り）,35.676732,139.733905,C3-12.赤坂センタービルディング前（青山通り）/ Akasaka Center Building Mae(Aoyama-dori),,Open for 24 hours
+,港区,赤坂四丁目,赤坂,東京都港区赤坂４丁目１５ C3-16.赤坂ガーデンシティ,35.673800,139.731525,C3-16.赤坂ガーデンシティ / Akasaka Garden City,,Open for 24 hours
+,港区,赤坂一丁目,虎ノ門,東京都港区赤坂１丁目５ C3-17.セブン-イレブン 港区溜池山王店,35.670308,139.743242,C3-17.セブン-イレブン 港区溜池山王店 / Seven-Eleven Minatoku Tameikesanno store,,Open for 24 hours
+,港区,元赤坂二丁目,-,東京都港区元赤坂２丁目２−２３,35.678183,139.721317,C3-18.明治記念館 / Meijikinenkan,,/ OPEN 7:00-21:00
+,港区,元赤坂二丁目,-,東京都港区元赤坂２丁目２ C3-19.明治記念館西,35.678179,139.720809,C3-19.明治記念館西 / Meijikinenkan West,,Open for 24 hours
+,港区,赤坂四丁目,赤坂,東京都港区赤坂４丁目３ C3-22.OMO3東京赤坂 by 星野リゾート,35.674929,139.736053,C3-22.OMO3東京赤坂 by 星野リゾート / OMO3 Tokyo Akasaka by Hoshino Resorts,,Open for 24 hours
+,港区,南青山一丁目,-,東京都港区南青山１丁目１１−３５,35.669916,139.725701,C3-23.LIFORK 南青山 北エントランス / LIFORK MINAMI AOYAMA North entrance,,Open for 24 hours
+,港区,南青山一丁目,-,東京都港区南青山１丁目１７ C3-24.SHARE GREEN 南青山 西エントランス,35.668419,139.724676,C3-24.SHARE GREEN 南青山 西エントランス / SHARE GREEN MINAMI AOYAMA West entrance,,Open for 24 hours
+,港区,赤坂七丁目,赤坂,東京都港区赤坂７丁目９−３,35.670110,139.733375,C3-26. ホテルリブマックス赤坂 / HOTEL LiVEMAX AKASAKA,,Open for 24 hours
+,港区,赤坂二丁目,赤坂,東京都港区赤坂２丁目５−１７,35.672477,139.739743,C3-28.ヒューリックＪＰ赤坂ビル / ＨＵＬＩＣ ＪＰAkasaka Bldg.,,Open for 24 hours
+,港区,赤坂七丁目,赤坂,東京都港区赤坂７丁目２ C3-29.高橋是清翁記念公園,35.674094,139.728895,C3-29.高橋是清翁記念公園 / Takahashi Korekiyo Memorial Park,,Open for 24 hours
+,港区,赤坂二丁目,赤坂,東京都港区赤坂２丁目６ C3-30.東京赤坂NKビル (ヴィアインプライム赤坂),35.672652,139.738908,C3-30.東京赤坂NKビル (ヴィアインプライム赤坂) / C3-30.Tokyo Akasaka NK Bldg. (VIA INN Prime Akasaka),,Open for 24 hours
+,港区,赤坂一丁目,虎ノ門,東京都港区赤坂１丁目４ C3-31.赤坂一丁目,35.670239,139.744285,"C3-31.赤坂一丁目	/ 1 Akasaka",,Open for 24 hours
+,港区,赤坂八丁目,赤坂,東京都港区赤坂８丁目１１−３２ 乃木公園,35.667936,139.727450,C3-32.乃木公園 / Nogi Park,,Open for 24 hours
+,港区,南青山三丁目,-,東京都港区南青山３丁目３ C3-33.PASONA SQUARE,35.667462,139.716058,C3-33.PASONA SQUARE,,Open for 24 hours
+,港区,南青山三丁目,-,東京都港区南青山３丁目１ C3-34.3rd MINAMI AOYAMA,35.668622,139.715957,"C3-34.3rd MINAMI AOYAMA
+",,-
+,港区,北青山三丁目,-,東京都港区北青山３丁目５ C3-35.ワールド北青山ビル,35.667069,139.713423,"C3-35.ワールド北青山ビル	/ WORLD Kita Aoyama Building
+",,-
+,港区,六本木一丁目,虎ノ門,東京都港区六本木１丁目３ C3-36.第35興和ビル,35.666349,139.741781,C3-36.第35興和ビル / KOWA BLDG. NO.35,,/ Open 6:00-22:00
+,港区,赤坂六丁目,赤坂,東京都港区赤坂６丁目９−１７,35.669512,139.736297,C3-37.AKASAKA MAPLE HILL,,Open for 24 hours
+,港区,赤坂二丁目,赤坂,東京都港区赤坂２丁目４ C3-38.AKASAKA GREEN CROSS,35.672367,139.740437,C3-38.AKASAKA GREEN CROSS,,Open for 24 hours
+,港区,高輪一丁目,-,東京都港区高輪１丁目１６ C4-01.高輪地区総合支所(5F),35.641833,139.734519,C4-01.高輪地区総合支所（5F） / Takanawa Regional City Office(5F),,Open for 24 hours
+,港区,白金台四丁目,-,東京都港区白金台４丁目８ C4-02.白金台いきいきプラザ,35.637560,139.724981,【休止中】C4-02.白金台いきいきプラザ /  Shirokanedai Iki-iki Plaza,休止中,Open for 24 hours
+,港区,高輪三丁目,-,東京都港区高輪３丁目９ C4-04.ショパン高輪,35.632169,139.732111,C4-04.ショパン高輪 / Chopin Takanawa,,Open for 24 hours
+,港区,白金台四丁目,-,東京都港区白金台４丁目４ C4-05.白金台駅自転車駐車場,35.638927,139.727083,C4-05.白金台駅自転車駐車場 / Shirokanedai Station bicycle parking,,OPEN 4:30-25:30
+,港区,白金六丁目,-,東京都港区白金６丁目２ C4-06.白金プラチナレジデンス,35.644134,139.723432,C4-06.白金プラチナレジデンス / SHIROKANE PLATINUM RESIDENCE,,Open for 24 hours
+,港区,高輪四丁目,-,東京都港区高輪４丁目９ C4-07.品川プリンスホテル,35.628266,139.734171,C4-07.品川プリンスホテル / Shinagawa Prince Hotel,,Open for 24 hours
+,港区,高輪三丁目,-,東京都港区高輪３丁目４−４ ジ ウェルクス高輪,35.634971,139.732109,【休止中】C4-08.高輪三丁目 / Takanawa 3-chome,休止中, Open 3:00 - 23:00
+,港区,三田四丁目,-,東京都港区三田４丁目１ C4-09.ケーヨーデイツー三田店,35.646375,139.740061,C4-09.ケーヨーデイツー三田店 / Keiyo D2 MITA,,Open for 24 hours
+,港区,三田三丁目,-,東京都港区三田３丁目７ C4-10.亀塚公園,35.642764,139.741174,C4-10.亀塚公園 / Kamezuka Park,,Open for 24 hours
+,港区,三田五丁目,-,東京都港区三田５丁目２ C4-11.ザ・パークハウス 三田ガーデン,35.648160,139.737991,C4-11.ザ・パークハウス 三田ガーデン / The Parkhouse Mita Garden,,Open for 24 hours
+,港区,高輪二丁目,-,東京都港区高輪２丁目１６ C4-13.コシダコネクトビル,35.637765,139.739128,C4-13.コシダコネクトビル / Koshida Connect Bldg.,,Open for 24 hours
+,港区,白金六丁目,-,東京都港区白金６丁目９−５,35.643711,139.724753,"C4-14.神応ほっとプラザ	/ Shinno Hotto Plaza
+",,-
+,港区,白金二丁目,-,東京都港区白金２丁目３ C4-15.クロスレジデンス白金高輪,35.642771,139.733046,C4-15.クロスレジデンス白金高輪 / CROSS RESIDENCE Shirokane Takanawa,,Open for 24 hours
+,港区,港南二丁目,-,東京都港区港南２丁目２ C5-01.こうなん星の公園,35.629687,139.742170,C5-01.こうなん星の公園 / Konan-Hoshino Park,,Open for 24 hours
+,港区,港南四丁目,-,東京都港区港南４丁目７−４９,35.628980,139.750736,C5-02.港南緑水公園 / Konan-Ryokusui Park,,Open for 24 hours
+,港区,港南四丁目,-,東京都港区港南４丁目５ C5-03.港南公園C,35.624965,139.746668,C5-03.港南公園C / Konan Park,,Open for 24 hours
+,港区,芝浦一丁目,-,東京都港区芝浦１丁目１６ C5-04.みなとパーク芝浦,35.646786,139.751091,C5-04.みなとパーク芝浦 / Minato Park Shibaura,,Open for 24 hours
+,港区,港南二丁目,-,東京都港区港南２丁目１ C5-06.品川シーズンテラス,35.632324,139.742422,C5-06.品川シーズンテラス / SHINAGAWA SEASON TERRACE,,Open for 24 hours
+,港区,港南三丁目,-,東京都港区港南３丁目７ C5-07.港区立港南図書館,35.632842,139.749500,C5-07.港区立港南図書館 / Minato City Konan Library,,Open for 24 hours
+,港区,芝浦四丁目,-,東京都港区芝浦４丁目１６ C5-08.AQUACITY芝浦,35.637383,139.748454,C5-08.AQUACITY芝浦 / AQUACITY Shibaura,,Open for 24 hours
+,港区,芝浦三丁目,-,東京都港区芝浦３丁目４ C5-09.グランパーク,35.643212,139.746245,C5-09.グランパーク / Granpark,,Open for 24 hours
+,港区,芝浦一丁目,-,東京都港区芝浦１丁目２ C5-10.シーバンス,35.649950,139.756060,C5-10.シーバンス / SEAVANS,,Open for 24 hours
+,港区,港南三丁目,-,東京都港区港南３丁目７ C5-11.フェイバリッチタワー品川,35.631736,139.749763,C5-11.フェイバリッチタワー品川 / Favorich Tower Shinagawa,,Open for 24 hours
+,港区,港南三丁目,-,東京都港区港南３丁目４ C5-12.第2東運ビル,35.633748,139.748322,C5-12.第２東運ビル / NO.2 TOUN BUILDING (WAREHOUSE Konan),,Open for 24 hours
+,港区,芝浦四丁目,-,東京都港区芝浦４丁目１９ C5-13.区立芝浦西運河沿緑地,35.638245,139.749754,C5-13.区立芝浦西運河沿緑地 / Green Zone along the Shibaura-nishi Canal,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目３ C5-14.セブン-イレブン 港区汐彩橋店,35.640481,139.753659,C5-14.セブン-イレブン 港区汐彩橋店 / Sevev-Eleven Minato Shiosaibashi store,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目１２−７,35.640215,139.755971,C5-15.セブン-イレブン 港区芝浦ふ頭店 / Sevev-Eleven Minato Shibautafuto store,,Open for 24 hours
+,港区,港南二丁目,-,東京都港区港南２丁目１５ C5-16.品川インターシティ,35.626704,139.742174,C5-16.品川インターシティ / SHINAGAWA INTERCITY,,Open for 24 hours
+,港区,海岸二丁目,-,東京都港区海岸２丁目１−１６ 鈴与浜松町ビル,35.651103,139.759092,C5-17.鈴与浜松町ビル / Suzuyo Hamamatsucho Building,,Open for 24 hours
+,港区,港南三丁目,-,東京都港区港南３丁目５ C5-18.パークタワー品川ベイワード,35.634529,139.748378,C5-18.パークタワー品川ベイワード / Park Tower Shinagawa Bayward,,Open for 24 hours
+,港区,芝浦二丁目,-,東京都港区芝浦２丁目１ C5-19.グランドメゾン田町,35.645537,139.754899,C5-19.グランドメゾン田町 / GRANDE　MAISON TAMACHI,,Open for 24 hours
+,港区,芝浦二丁目,-,東京都港区芝浦２丁目１ C5-20.ローソン芝浦二丁目店,35.645254,139.754765,C5-20.ローソン芝浦二丁目店 / LAWSON Shibaura 2-chome shop,,Open for 24 hours
+,港区,芝浦三丁目,-,東京都港区芝浦３丁目１４ C5-21.セブン-イレブン 芝浦3丁目店,35.642399,139.746992,C5-21.セブン-イレブン 芝浦3丁目店 / Seven-Eleven Shibaura 3chome Store,,Open for 24 hours
+,港区,芝浦一丁目,-,東京都港区芝浦１丁目６ C5-24.GLOBAL FRONT TOWER,35.647736,139.755428,C5-24.GLOBAL FRONT TOWER,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目１１ C5-25.NEX-TEC芝浦,35.639571,139.755551,C5-25.NEX-TEC芝浦 / NEX-TEC Shibaura,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目１８ C5-26.ピアシティ芝浦ビル,35.644155,139.756216,C5-26.ピアシティ芝浦ビル / PIRE CITY SHIBAURA BUILDING,,Open for 24 hours
+,港区,海岸二丁目,-,東京都港区海岸２丁目２ C5-27.プレミア海岸ビル,35.648948,139.757895,C5-27.プレミア海岸ビル / Premier Kaigan Bldg,,Open for 24 hours
+,港区,芝浦三丁目,-,東京都港区芝浦３丁目９−１,35.643683,139.750600,C5-28.芝浦ルネサイトタワー / Shibaura Renasite Tower,,Open for 24 hours
+,港区,海岸二丁目,-,東京都港区海岸２丁目７ C5-29.Hi-NODE(ハイノード),35.651672,139.760549,C5-29.Hi-NODE（ハイノード）,,Open for 24 hours
+,港区,芝浦一丁目,-,東京都港区芝浦１丁目７ C5-30.フェイム芝浦インターウェーブ,35.647872,139.753910,C5-30.フェイム芝浦インターウェーブ / FAIME SHIBAURA INTERWAVE,,Open for 24 hours
+,港区,台場一丁目,-,東京都港区台場１丁目９ ヒルトン東京お台場 台場駅前,35.626267,139.771438,C5-31.ヒルトン東京お台場 / Hilton Tokyo Odaiba,,Open for 24 hours
+,港区,台場二丁目,-,東京都港区台場２丁目３−１,35.627891,139.776896,C5-32.トレードピアお台場 / TRADEPIA ODAIBA,,Open for 24 hours
+,港区,芝浦三丁目,-,東京都港区芝浦３丁目１ C5-33.msb Tamachi,35.645682,139.748768,C5-33.msb Tamachi ,,Open for 24 hours
+,台東区,千束,-,東京都台東区千束1−３−５,35.636644,139.751798,"C5-34.五色橋ビル /
+GOSHIKIBASHI BLDG.",,-
+,港区,港南二丁目,-,東京都港区港南２丁目１６ C5-35.品川駅港南口,35.628220,139.741135,C5-35.品川駅港南口 / Shinagawa Station Konan Exit,,Open for 24 hours
+,港区,台場二丁目,-,東京都港区台場２丁目３ お台場海浜公園駅,35.629815,139.778216,C5-36.お台場海浜公園駅 / Odaiba Kaihin Park Station,,Open for 24 hours
+,港区,台場二丁目,-,東京都港区台場２丁目５ C5-37.台場駅,35.626368,139.772460,C5-37.台場駅 / Daiba Station,,Open for 24 hours
+,港区,台場一丁目,-,東京都港区台場１丁目４ C5-38.お台場海浜公園乗船場,35.628743,139.773915,C5-38.お台場海浜公園乗船場 / Odaiba Marine Park Water Bus Terminal,,Open for 24 hours
+,港区,台場一丁目,-,東京都港区台場１丁目５ C5-39.お台場海浜公園東,35.631021,139.778109,C5-39.お台場海浜公園東 / Odaiba Marine Park East,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目２２,35.640960,139.757540,C5-40.芝浦ふ頭駅前暫定自転車駐車場 / Shibaura-futo Station Provisional bicycle parking,,Open for 24 hours
+,港区,芝浦四丁目,-,東京都港区芝浦４丁目８ C5-41.トヨタモビリティ東京 芝浦店,35.639644,139.745532,C5-41.トヨタモビリティ東京 芝浦店 / Toyota Mobility Tokyo - SHIBAURA,,Open for 24 hours
+,港区,芝浦二丁目,-,東京都港区芝浦２丁目７ C5-42.DHC芝浦2丁目ビル,35.644241,139.753834,C5-42.DHC芝浦2丁目ビル / DHC Shibaura 2-chome Building,,Open for 24 hours
+,港区,芝浦二丁目,-,東京都港区芝浦２丁目１５ C5-43.オアーゼ芝浦MJビル,35.644798,139.752697,C5-43.オアーゼ芝浦MJビル / OASE SHIBAURA MJ Bldg.,,Open for 24 hours
+,港区,芝浦二丁目,-,東京都港区芝浦２丁目９ C5-44.ブランズタワー芝浦,35.643105,139.753039,C5-44.ブランズタワー芝浦 / BRANZ TOWER SHIBAURA,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目１ C5-45.パークアクシス芝浦キャナル,35.644794,139.755688,C5-45.パークアクシス芝浦キャナル / Park Axis Shibaura Canal,,Open for 24 hours
+,港区,港南四丁目,-,東京都港区港南４丁目１ C5-46.ウエリスアーバン品川タワー,35.630961,139.746875,C5-46.ウエリスアーバン品川タワー / Wellith Urban Shinagawa Tower,,Open for 24 hours
+,港区,港南二丁目,-,東京都港区港南２丁目１０ C5-47.oak港南品川,35.624130,139.744831,C5-47.oak港南品川 / oak Konan Shinagawa,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目７ C5-48.セブンイレブン港区海岸三丁目店,35.636808,139.752517,C5-48.セブンイレブン港区海岸三丁目 / Seven-Eleven Minato-ku Kaigan 3-chome,,Open for 24 hours
+,港区,芝浦四丁目,-,東京都港区芝浦４丁目１５ C5-49.プラウドタワー芝浦,35.638912,139.747422,C5-49.プラウドタワー芝浦 / PROUD TOWER SHIBAURA,,Open for 24 hours
+,港区,台場一丁目,-,東京都港区台場１丁目１ C5-50.お台場レインボー公園,35.633133,139.777315,C5-50.お台場レインボー公園 / Odaiba Rainbow Park,,Open for 24 hours
+,港区,台場一丁目,-,東京都港区台場１丁目１ C5-51.トミンタワー台場一番街,35.634627,139.776630,C5-51.トミンタワー台場一番街 / Tomin Tower Daiba First Avenue,,Open for 24 hours
+,港区,港南四丁目,-,東京都港区港南４丁目１ C5-52.港南四丁目第3アパート駐車場,35.630109,139.747094,C5-52.港南四丁目第3アパート駐車場 / Konan 4 Chome 3rd Apartment Parking,,Open for 24 hours
+,港区,芝浦四丁目,-,東京都港区芝浦４丁目１０ C5-53.suito芝浦,35.641631,139.746710,"C5-53.suito芝浦	/ suito shibaura
+",,-
+,港区,海岸三丁目,-,東京都港区海岸３丁目１８ C5-54.ヤマタネ芝浦オフィス,35.643909,139.756509,"C5-54.ヤマタネ芝浦オフィス	/ Yamatane Shibaura Office
+",,-
+,港区,台場一丁目,-,東京都港区台場１丁目４ C5-55.お台場海浜公園北,35.634565,139.775809,C5-55.お台場海浜公園北 / Odaiba Marine Park North,,Open for 24 hours
+,港区,海岸三丁目,-,東京都港区海岸３丁目１９ C5-56.芝浦ダイヤビルディング,35.640783,139.756688,C5-56.芝浦ダイヤビルディング / SHIBAURA DIA BUILDING,,Open for 24 hours
+,港区,三田二丁目,-,東京都港区三田２丁目１７−２７ 三田ＫＭビル,35.647260,139.740340,"【12/11 OPEN】C1-88.ソーシャルコート三田	/ SOCIAL COURT MITA
+",,-
+,新宿区,新宿一丁目,-,東京都新宿区新宿１丁目３２ D1-01.花園西公園,35.690610,139.711630,D1-01.花園西公園 / Hanazono Nishi Park,,Open for 24 hours
+,新宿区,内藤町,-,東京都新宿区内藤町８７,35.687430,139.714160,D1-02.四谷特別出張所 / Yotsuya Special District Office,,Open for 24 hours
+,新宿区,左門町,-,東京都新宿区左門町 D1-03.新左門児童遊園,35.684520,139.720510,D1-03.新左門児童遊園 / Shin-samon Children's Playground,,Open for 24 hours
+,新宿区,-,-,東京都新宿区,35.683450,139.728430,D1-04.四谷見附公園 / Yotsuya Mitsuke Park,,Open for 24 hours
+,新宿区,大京町,-,東京都新宿区大京町 D1-06.四谷第六小学校北,35.681754,139.715256,D1-06.四谷第六小学校北 / Yotsuya Dairoku Elementary School North,,Open for 24 hours
+,新宿区,新宿二丁目,-,東京都新宿区新宿２丁目９ D1-07.Dash Living Shinjuku,35.689757,139.710091,D1-07.Belle ビル / Belle Building,,Open for 24 hours
+,新宿区,四谷三栄町,-,東京都新宿区四谷三栄町１２ D1-08.新宿歴史博物館,35.689984,139.725261,D1-08.新宿歴史博物館 / Shinjuku Historical Museum,,"Open 9:30-17:30,Closed days : 2nd Monday, 4th Monday (If a national holiday falls on a Monday, the museum will be closed on the following Tuesday as well.)"
+,新宿区,新宿一丁目,-,東京都新宿区新宿１丁目３３ D1-09.NTT四谷ビル,35.691188,139.712079,D1-09.NTT四谷ビル / NTT Yotsuya Building,,Open for 24 hours
+,新宿区,霞ヶ丘町,-,東京都新宿区霞ヶ丘町１０−３,35.679807,139.715931,D1-11.三井ガーデンホテル神宮外苑の杜プレミア / Mitsui Garden Hotel Jingugaien Tokyo Premier,,Open for 24 hours
+,新宿区,四谷四丁目,-,東京都新宿区四谷４丁目３０−５ プラザ新宿御苑11号室,35.689017,139.714755,D1-12.ジェノヴィア新宿御苑グリーンヴェール / GENOVIA Shinjuku Gyoen green veil,,Open for 24 hours
+,新宿区,内藤町,-,東京都新宿区内藤町１−１３５,35.688945,139.706536,D1-13.新宿御苑新宿門【西側】/ Shinjuku Gyoen National Garden Shinjuku Gate【West Side】,,Open for 24 hours
+,新宿区,四谷一丁目,-,東京都新宿区四谷１丁目６ D1-14.コモレ四谷,35.687520,139.728180,D1-14.コモレ四谷 / CO・MO・RE YOTSUYA,,Open for 24 hours
+,新宿区,四谷三丁目,-,東京都新宿区四谷３丁目１２−５３６,35.687680,139.719370,D1-15.フロンティア四谷 / Frontier Yotsuya,,Open for 24 hours
+,新宿区,新宿一丁目,-,東京都新宿区新宿１丁目２９ D1-16.ルネ新宿御苑タワー,35.690155,139.713377,D1-16.ルネ新宿御苑タワー / Rune Shinjuku Gyoen Tower,,Open for 24 hours
+,新宿区,-,-,東京都新宿区,35.702286,139.741093,D2-01.あずさセンタービル（軽子坂通り）/ Azusa Center Building （Karukozaka Street）,,Open for 24 hours
+,新宿区,神楽坂,-,東京都新宿区神楽坂１−１３,35.700563,139.742735,D2-06.飯田濠 / Iidabori,,Open for 24 hours
+,新宿区,北山伏町,-,東京都新宿区北山伏町４ D2-08.旧市ヶ谷商業高校,35.700742,139.731363,D2-08.旧市ヶ谷商業高校 / Former Ichigaya Commercial High Schoo,,Open for 24 hours
+,新宿区,市谷砂土原町二丁目,-,東京都新宿区市谷砂土原町２丁目 D2-10.市谷砂土原町3丁目,35.696242,139.735776,D2-10.市谷砂土原町3丁目 / Ichigaya Sadohara 3-Chome,,Open for 24 hours
+,新宿区,神楽坂五丁目,-,東京都新宿区神楽坂５丁目 D2-11.神楽坂アインスタワー,35.702833,139.739000,D2-11.神楽坂アインスタワー / KAGURAZAKA EINS TOWER,,Open for 24 hours
+,新宿区,新小川町,-,東京都新宿区新小川町４ D2-12.ヴィアイン飯田橋後楽園,35.705774,139.743366,D2-12.ヴィアイン飯田橋後楽園 / VIA INN Iidabashi Korakuen,,Open for 24 hours
+,新宿区,市谷本村町,-,東京都新宿区市谷本村町７−４,35.695646,139.725722,D2-13.THE CENTER TOKYO,,Open for 24 hours
+,新宿区,赤城元町四丁目,-,東京都新宿区赤城元町４丁目２−９,35.704201,139.735815,D2-14.ローソン神楽坂駅北店 / LAWSON Kagurazaka Station North Shop,,Open for 24 hours
+,新宿区,市谷本村町,-,東京都新宿区市谷本村町２ D2-17.genten市ヶ谷店,35.690657,139.732550,D2-17.genten市ヶ谷店 / genten Ichigaya store,,Open for 24 hours
+,新宿区,西早稲田三丁目,-,東京都新宿区西早稲田３丁目８ D3-03.甘泉園公園,35.712431,139.715418,D3-03.甘泉園公園 / Kansenen Park,,Open for 24 hours
+,新宿区,早稲田町,-,東京都新宿区早稲田町７８,35.706182,139.723394,D3-04.鶴巻南公園 / Tsurumaki-Minami Park,,Open for 24 hours
+,新宿区,高田馬場三丁目,-,東京都新宿区高田馬場３丁目１８ D3-06.セブン-イレブン高田馬場3丁目中央店,35.713872,139.698301,D3-06.セブン-イレブン 高田馬場3丁目中央店 / Seven-Eleven Takadanobaba 3-Chome Chuo store,,Open for 24 hours
+,新宿区,高田馬場二丁目,-,東京都新宿区高田馬場２丁目１８ D3-07.戸塚特別出張所,35.714270,139.705070,D3-07.戸塚特別出張所 / Totsuka Special District Office,,Open for 24 hours
+,新宿区,高田馬場四丁目,-,東京都新宿区高田馬場４丁目４ D3-08.ホテルリブマックス高田馬場駅前,35.712952,139.701356,D3-08.ホテルリブマックス高田馬場駅前 / HOTEL LiVEMAX TAKADANOBABA-EKIMAE,,Open for 24 hours
+,新宿区,西早稲田三丁目,-,東京都新宿区西早稲田３丁目１７ D3-09.西早稲田3丁目,35.712545,139.713319,D3-09.西早稲田3丁目 / INishi-Waseda 3-Chome,,Open for 24 hours
+,新宿区,高田馬場四丁目,-,東京都新宿区高田馬場４丁目４ D3-14.コーシャハイム高田馬場,35.712413,139.701680,D3-14.コーシャハイム高田馬場 / Kosha Heim Takadanobaba,,Open for 24 hours
+,新宿区,西早稲田三丁目,-,東京都新宿区西早稲田３丁目２０−２２,35.711460,139.712007,D3-15.カースルいずみ / Castle Izumi,,Open for 24 hours
+,新宿区,山吹町,-,東京都新宿区山吹町 D3-16.セジョリ江戸川橋,35.708771,139.730472,D3-16.セジョリ江戸川橋 / C’est joli edogawabashi,,Open for 24 hours
+,新宿区,弁天町,-,東京都新宿区弁天町１−２,35.705111,139.725528,D3-17.セジョリ早稲田 / C'est joli Waseda　,,Open for 24 hours
+,新宿区,山吹町,-,東京都新宿区山吹町 D3-18.ヴォーガコルテ早稲田弐番館,35.707552,139.727834,"D3-18.ヴォーガコルテ早稲田弐番館 / VOGA CORTE WASEDA NIBANKAN
+",,-
+,新宿区,市谷仲之町,-,東京都新宿区市谷仲之町４ D4-01.市谷仲之町,35.695102,139.723345,D4-01.市谷仲之町 / Ichigaya Nakanocho,,Open for 24 hours
+,新宿区,市谷加賀町一丁目,-,東京都新宿区市谷加賀町１丁目１ D4-02.JICA市ヶ谷ビル（地球ひろば／研究所）,35.694927,139.731328,D4-02.JICA市ヶ谷ビル（地球ひろば/研究所）/ JICA Ichigaya Building（Global Plaza/Research Institute）,,Open for 24 hours
+,新宿区,市谷加賀町二丁目,-,東京都新宿区市谷加賀町２丁目３ D4-03.市谷加賀町2丁目,35.695636,139.727882,D4-03.市谷加賀町2丁目/ Ichigaya Kagacho 2-Chome,,Open for 24 hours
+,新宿区,若松町,-,東京都新宿区若松町３１−５,35.699841,139.719923,D4-04.ジェノヴィア新宿早稲田グリーンヴェール / GENOVIA Shinjuku Waseda green veil,,Open for 24 hours
+,新宿区,新宿七丁目,-,東京都新宿区新宿７丁目１７ D4-05.カスタリア新宿7丁目,35.700732,139.711472,D4-05.カスタリア新宿7丁目 / CASTALIA Shinjuku 7-chome,,Open for 24 hours
+,新宿区,河田町,-,東京都新宿区河田町７−１０,35.697143,139.718737,D4-06.グリーンフォート河田 / Green Fort Kawada,,Open for 24 hours
+,新宿区,余丁町,-,東京都新宿区余丁町１０ D4-07.新宿余丁町ビル,35.698512,139.716482,D4-07. 新宿余丁町ビル / Shinjuku Yochomachi Bldg.,,Open for 24 hours
+,新宿区,河田町,-,東京都新宿区河田町３ D4-09.トミンハイム仲之町,35.696170,139.722021,D4-09.トミンハイム仲之町 / Tomin Heim Nakanomachi,,Open for 24 hours
+,新宿区,余丁町,-,東京都新宿区余丁町６ D4-10.東新宿ポート(余丁町6番),35.696585,139.713081,D4-10.東新宿ポート（余丁町6番）/ Higashi-Shinjuku Port,,Open for 24 hours
+,新宿区,大久保一丁目,-,東京都新宿区大久保１丁目２７ D4-11.トヨタモビリティ東京 新宿明治通り南店,35.699835,139.708080,D4-11.トヨタモビリティ東京 新宿明治通り南店 / Toyota Mobility Tokyo - Shinjuku meijidori south,,Open for 24 hours
+,新宿区,大久保三丁目,-,東京都新宿区大久保３丁目１ D5-01.新宿コズミックセンター,35.705244,139.708410,D5-01.新宿コズミックセンター / Shinjuku Cosmic Center,,Open for 24 hours
+,新宿区,北新宿三丁目,-,東京都新宿区北新宿３丁目３４ D5-03.北新宿公園,35.702288,139.688620,D5-03.北新宿公園 / Kita-Shinjuku Park,,Open for 24 hours
+,新宿区,百人町三丁目,-,東京都新宿区百人町３丁目２ D5-04.西戸山公園野球場,35.707388,139.700204,D5-04.西戸山公園野球場 / Nishi-Toyama Baseball Ground,,Open for 24 hours
+,新宿区,大久保三丁目,-,東京都新宿区大久保３丁目１−５,35.705044,139.706863,D5-05.中央図書館 / Chuo Library,,"Open Tue.-Sat. 9:00-21:45 , Sun. Holiday 9:00-18:00"
+,新宿区,百人町一丁目,-,東京都新宿区百人町１丁目２３ D5-07.百人町1丁目,35.699290,139.697617,D5-07.百人町1丁目 / Hyakunincho 1chome,,Open for 24 hours
+,新宿区,大久保三丁目,-,東京都新宿区大久保３丁目１ D5-08.ウエリス新宿早稲田の森,35.704597,139.708397,D5-08. ウエリス新宿早稲田の森 / Wellith Shinjuku Waseda no Mori,,Open for 24 hours
+,新宿区,百人町二丁目,-,東京都新宿区百人町２丁目３ D5-09.ハウジングステージ新宿,35.702277,139.701214,D5-09.ハウジングステージ新宿 / HousingStage Shinjuku,,Open for 24 hours
+,新宿区,百人町三丁目,-,東京都新宿区百人町３丁目２２ D5-10.桜美林大学 新宿キャンパス,35.705154,139.697562,D5-10.桜美林大学 新宿キャンパス /J. F. Oberlin University Shinjuku campus,,/ Open 7:00-23:00
+,新宿区,百人町一丁目,-,東京都新宿区百人町１丁目２２ D5-11.NTTコミュニケーションズ新宿ビル,35.699312,139.696468,D5-11.NTTコミュニケーションズ新宿ビル / NTT Communications Shinjuku Build,,Open for 24 hours
+,新宿区,歌舞伎町一丁目,-,東京都新宿区歌舞伎町１丁目４−１,35.693607,139.703229,D6-01.新宿区役所本庁舎 / Shinjuku City Office Main Bldg.,,Open for 24 hours
+,新宿区,新宿五丁目,-,東京都新宿区新宿５丁目１７−５,35.693820,139.705760,D6-02.新宿区役所第二分庁舎 / Shinjuku City Office Annex 2,,Open for 24 hours
+,新宿区,西新宿二丁目,-,東京都新宿区西新宿２丁目１１ D6-03.新宿中央公園（ポケットパーク）,35.691550,139.690020,D6-03.新宿中央公園（ポケットパーク）/ Shinjuku Central Park (Pocket Park),,Open for 24 hours
+,新宿区,西新宿四丁目,-,東京都新宿区西新宿４丁目３３ D6-04.新宿中央公園（ちびっこ広場）,35.686652,139.689821,D6-04.新宿中央公園（ちびっこ広場）/Shinjuku Central Park (Playground),,Open for 24 hours
+,新宿区,西新宿二丁目,-,東京都新宿区西新宿２丁目１１−１０ 新宿区立新宿中央公園,35.689913,139.690260,D6-05.新宿中央公園（水の広場）/ Shinjuku Central Park (Water Plaza),,Open for 24 hours
+,新宿区,西新宿六丁目,-,東京都新宿区西新宿６丁目１５ D6-06.新宿中央公園（エコギャラリー下）,35.691199,139.687966,D6-06.新宿中央公園（エコギャラリー下）/ Shinjuku Central Park (Eco Gallery),,Open for 24 hours
+,新宿区,北新宿二丁目,-,東京都新宿区北新宿２丁目２１ D6-07.新宿フロントタワー,35.696389,139.689924,D6-07.新宿フロントタワー / Shinjuku Front Tower,,Open for 24 hours
+,新宿区,新宿六丁目,-,東京都新宿区新宿６丁目２９ D6-08.新宿イーストサイドスクエア,35.697150,139.707890,D6-08.新宿イーストサイドスクエア / Shinjuku Eastside Square,,Open for 24 hours
+,新宿区,新宿五丁目,-,東京都新宿区新宿５丁目１５−８,35.694201,139.707047,D6-10.ホテルサンライト新宿 / Hotel　SunLite Shinjuku,,Open for 24 hours
+,新宿区,新宿五丁目,-,東京都新宿区新宿５丁目３ D6-11.ホテルリステル新宿,35.693029,139.711327,D6-11.ホテルリステル新宿 / HOTEL LISTEL SHINJUKU,,Open for 24 hours
+,新宿区,新宿五丁目,-,東京都新宿区新宿５丁目４ D6-12.東京ビジネスホテル,35.693420,139.710568,D6-12.東京ビジネスホテル / Tokyo　Business Hotel,,Open for 24 hours
+,新宿区,西新宿四丁目,-,東京都新宿区西新宿４丁目３２ D6-13.新宿中央公園（ジャブジャブ池下）,35.687652,139.689254,D6-13.新宿中央公園（ジャブジャブ池下）/ Shinjuku Central Park (Water Play Pool),,Open for 24 hours
+,新宿区,西新宿一丁目,-,東京都新宿区西新宿１丁目２３ D6-14.新宿ファーストウエスト,35.689529,139.695995,D6-14.新宿ファーストウエスト / Shinjuku First West Building,,Open for 24 hours
+,新宿区,西新宿七丁目,-,東京都新宿区西新宿７丁目１９ D6-15.住友不動産西新宿ビル,35.694650,139.695911,D6-15.住友不動産西新宿ビル / Sumitomo Realty & Development Nishishinjuku Building,,Open for 24 hours
+,新宿区,西新宿一丁目,-,東京都新宿区西新宿１丁目１０−２,35.689689,139.698231,D6-18. ヨドバシカメラ 新宿西口本店前 / Yodobashi Camera Shinjuku West Main Store,,Open for 24 hours
+,新宿区,西新宿五丁目,-,東京都新宿区西新宿５丁目１３ D6-20.淀橋けやき橋公園,35.693544,139.685806,D6-20.淀橋けやきばし公園 / Yodobashi Keyakibashi Park,,Open for 24 hours
+,新宿区,新宿五丁目,-,東京都新宿区新宿５丁目２ D6-21.新宿5丁目,35.691613,139.711233,D6-21.新宿5丁目 / Shinjuku 5-Chome,,Open for 24 hours
+,新宿区,歌舞伎町二丁目,-,東京都新宿区歌舞伎町２丁目３１ D6-23.アパホテル 東新宿 歌舞伎町西,35.697535,139.703633,D6-23. アパホテル 東新宿 歌舞伎町西 / APA Hotel Higashi Shinjuku Kabukicho Nishi,,Open for 24 hours
+,渋谷区,代々木四丁目,-,東京都渋谷区代々木４丁目３１ D6-24.ＮＴＴ東日本 本社ビル,35.683102,139.688852,D6-24.NTT東日本 本社ビル / NTT-EAST HQ BLDG,,Open for 24 hours
+,新宿区,新宿三丁目,-,東京都新宿区新宿３丁目３８−１ 新宿駅,35.689705,139.701489,D6-25.新宿駅東南口自転車駐輪場 / Shinjuku Station Southeast Exit Bicycle Parking lot,,Open for 24 hours
+,新宿区,新宿六丁目,-,東京都新宿区新宿６丁目１２−８,35.694951,139.708219,D6-26.セブン-イレブン新宿６丁目文化センター通り店 / Seven-Eleven Shinjuku 6 Chome Cultural Center-dori,,Open for 24 hours
+,新宿区,西新宿三丁目,-,東京都新宿区西新宿３丁目３ D6-27.新宿三井ビルディング二号館,35.686334,139.692881,D6-27.新宿三井ビルディング二号館 / Shinjuku Mitsui Bldg. No.2,,Open for 24 hours
+,新宿区,新宿三丁目,-,東京都新宿区新宿３丁目７ D6-28.東急ステイ新宿,35.690899,139.706348,D6-28.東急ステイ新宿 / TOKYU STAY SHINJUKU,,Open for 24 hours
+,新宿区,西新宿二丁目,-,東京都新宿区西新宿２丁目８ D6-29.都庁第二本庁舎前,35.688730,139.692240,D6-29.都庁第二本庁舎前 / Tokyo Metropolitan Government Building NO.2,,Open for 24 hours
+,新宿区,西新宿二丁目,-,東京都新宿区西新宿２丁目２ D6-30.京王プラザホテル,35.689700,139.694820,D6-30.京王プラザホテル / Keio Plaza Hotel Tokyo,,Open for 24 hours
+,新宿区,歌舞伎町一丁目,-,東京都新宿区歌舞伎町１丁目２９ D6-31.東急歌舞伎町タワー駐輪場,35.696207,139.700521,"D6-31.東急歌舞伎町タワー駐輪場	/ Tokyu Kabukicho Tower bicycle parking lot
+",,-
+,新宿区,下落合一丁目,-,東京都新宿区下落合１丁目９ D7-01.下落合図書館,35.715894,139.698578,D7-01.下落合図書館 / Shimo-Ochiai Library,,Open for 24 hours
+,新宿区,中落合三丁目,-,東京都新宿区中落合３丁目１ D7-02.セブン-イレブン 新宿中落合3丁目店,35.722202,139.691712,D7-02.セブン-イレブン 新宿中落合3丁目店 / Seven-Eleven Shinjuku Nakaochiai 3chome store,,Open for 24 hours
+,新宿区,中落合一丁目,-,東京都新宿区中落合１丁目１８ D7-03.中井駅北,35.715645,139.687497,D7-03.中井駅北 / Nakai Station North,,Open for 24 hours
+,新宿区,下落合三丁目,-,東京都新宿区下落合３丁目２０ D7-04.セブン-イレブン 新宿下落合3丁目店,35.722645,139.701982,D7-04.セブン-イレブン 新宿下落合3丁目店 / Seven-Eleven Shinjuku Shimoochiai 3chome store ,,Open for 24 hours
+,新宿区,西落合三丁目,-,東京都新宿区西落合３丁目１９ D7-05.西落合図書館,35.725818,139.678976,D7-05.西落合図書館 /  Nishi Ochiai Library,,Open for 24 hours
+,新宿区,西落合二丁目,-,東京都新宿区西落合２丁目１０ D7-06.エムアイセミナーハウス,35.721064,139.677128,D7-06. エムアイセミナーハウス / MI SEMINAR HOUSE,,Open for 24 hours
+,中野区,江古田一丁目,-,東京都中野区江古田１丁目４ D7-07.ローソン 新宿西落合三丁目店,35.725171,139.675897,D7-07. ローソン 新宿西落合三丁目店 / LAWSON Shinjuku Nishiochiai 3-Chome shop,,Open for 24 hours
+,新宿区,上落合三丁目,-,東京都新宿区上落合３丁目２５−６ 第一ノーブルマンション,35.711079,139.682167,D7-08.上落合3丁目 / Kamiochiai 3-Chome,,Open for 24 hours
+,新宿区,上落合二丁目,-,東京都新宿区上落合２丁目３ D7-10.染の里 おちあい,35.715211,139.689788,D7-10.染の里 おちあい / some no sato OCHIAI,,Open for 24 hours
+,新宿区,下落合一丁目,-,東京都新宿区下落合１丁目１ D7-11.新宿清掃事務所,35.716350,139.704370,D7-11.新宿清掃事務所 / Shinjuku waste Collection Office,, Open for 24 hour
+,新宿区,下落合一丁目,-,東京都新宿区下落合１丁目５ D7-12.プラウド高田馬場,35.715538,139.701683,D7-12.プラウド高田馬場 / PROUD TAKADANOBABA,,Open for 24 hours
+,新宿区,西落合二丁目,-,東京都新宿区西落合２丁目７ D7-13.日本光電本社南側,35.719360,139.679083,"D7-13.日本光電本社南側	/ NIHON KOHDEN South side
+",,-
+,新宿区,西落合二丁目,-,東京都新宿区西落合２丁目７ D7-14.大栄パーク西落合１丁目,35.720028,139.678936,"D7-14.大栄パーク西落合１丁目	/ Daiei Park Nishiochiai 1 chome
+",,-
+,新宿区,高田馬場四丁目,-,東京都新宿区高田馬場４丁目４０−１０,35.709903,139.694729,【12/4 OPEN】D3-19.AXAS高田馬場 / AXAS TAKADANOBABA,,Open for 24 hours
+,江東区,豊洲二丁目,-,東京都江東区豊洲２丁目５ H1-01.豊洲ＩＨＩビル前（晴海通り）,35.658817,139.792597,H1-01.豊洲IHIビル前（晴海通り） / Toyosu IHI Building,,Open for 24 hours
+,江東区,豊洲五丁目,-,東京都江東区豊洲５丁目５ H1-02.豊洲駅,35.654214,139.796267,H1-02.豊洲駅 / Toyosu Station,,Open for 24 hours
+,江東区,東雲二丁目,-,東京都江東区東雲２丁目１０ H1-03.東雲駅,35.640713,139.804298,H1-03.東雲駅 / Shinonome Station,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目７,35.633569,139.790830,H1-04.石と光の広場（国際展示場駅） / Ishito Hikarino Hiroba (Kokusai-tenjijo Station),,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目６−６,35.632253,139.790254,H1-05.相鉄グランドフレッサ 東京ベイ有明 / SOTETSU GRAND FRESA TOKYO-BAY ARIAKE,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目３−３ 武蔵野大学 有明キャンパス 3号館 2F,35.630267,139.786485,H1-06.武蔵野大学 / Musashino University,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目２ H1-08.東京テレポート駅,35.627095,139.779778,H1-08.東京テレポート駅 / Tokyo Teleport Station,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目３ 出会い橋,35.625033,139.777353,H1-10.出会い橋 / Deaibashi Bridge,,Open for 24 hours
+,江東区,青海二丁目,-,東京都江東区青海２丁目４ H1-11.テレコムセンター駅,35.618152,139.778655,H1-11.テレコムセンター駅 / Telecom Center Station,,Open for 24 hours
+,江東区,豊洲二丁目,-,東京都江東区豊洲２丁目４,35.654035,139.792378,H1-13.アーバンドックららぽーと豊洲 / Urban Dock LaLaport TOYOSU,,Open for 24 hours
+,江東区,潮見二丁目,-,東京都江東区潮見２丁目７ H1-14.ホテルリブマックス東京潮見駅前,35.658351,139.818229,H1-14.ホテルリブマックス東京潮見駅前 / HOTEL LiVEMAX TOKYO-SHIOMI-EKIMAE,,Open for 24 hours
+,江東区,豊洲三丁目,-,東京都江東区豊洲３丁目２ H1-16.豊洲三丁目公園,35.657349,139.796660,H1-16.豊洲三丁目公園 / Toyosu 3-Chome Park,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目９ H1-17.東雲水辺公園,35.647056,139.804644,H1-17.東雲水辺公園 / Shinonome Mizube Park,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目１１−１ 東京ビッグサイト,35.631250,139.793897,H1-18.東京ビッグサイト / Tokyo Bigsight,,/ Open 8:00-20:00
+,江東区,豊洲四丁目,-,東京都江東区豊洲４丁目１１ H1-19.UR豊洲四丁目団地,35.653561,139.801357,H1-19.UR豊洲四丁目団地 / UR Toyosu 4-Chome Danchi,,Open for 24 hours
+,江東区,青海二丁目,-,東京都江東区青海２丁目３ H1-20.日本科学未来館,35.619410,139.777648,H1-20.日本科学未来館 / National Museum of Emerging Science and Innovation,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目９ H1-21.UR東雲キャナルコート,35.646040,139.804467,H1-21.東雲キャナルコートCODAN / Shinonome Canal Court CODAN,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目６−６ 1管理施設棟4F423,35.644547,139.784428,H1-22.豊洲市場（7街区）/ Toyosu market block 7,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目１−１９,35.648348,139.798806,H1-23.KDX豊洲グランスクエア / KDX Toyosu Grand Square,,Open for 24 hours
+,江東区,青海二丁目,-,東京都江東区青海２丁目７ H1-26.青海客船ターミナル,35.619232,139.774490,H1-26.青海客船ターミナル / Aomi Passenger Ship Terminal,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目５,35.624476,139.781293,H1-27.パレットタウン乗船場 / Palette Town Water Bus Terminal,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目１２−１３,35.630070,139.792201,H1-28.有明客船ターミナル / Ariake Passenger Ship Terminal,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目２ H1-29.スカイズタワー＆ガーデン,35.647610,139.792150,H1-29.スカイズタワー&ガーデン / SKYZ TOWER&GARDEN,,Open for 24 hours
+,江東区,東陽四丁目,-,東京都江東区東陽４丁目１１ H1-30.江東区役所（北側）,35.673380,139.816390,H1-30.江東区役所（北側） / Koto City Office(North Side),,Open for 24 hours
+,江東区,東陽四丁目,-,東京都江東区東陽４丁目１１ H1-31.江東区役所（南側）,35.672140,139.816600,H1-31.江東区役所（南側） / Koto City Office(South Side),,Open for 24 hours
+,江東区,塩浜二丁目,-,東京都江東区塩浜２丁目２２ H1-32.区営塩浜住宅前,35.664591,139.813954,H1-32.区営塩浜住宅前 / Shiohama Juutaku,,Open for 24 hours
+,江東区,木場一丁目,-,東京都江東区木場１丁目２ H1-33.深川ギャザリア（ウエストスクエア）,35.667890,139.803000,H1-33.深川ギャザリア（ウエストスクエア） / FUKAGAWA GATHARIA(West Square),,Open for 24 hours
+,江東区,門前仲町二丁目,-,東京都江東区門前仲町２丁目１０ H1-34.門前仲町駅,35.673871,139.796134,H1-34.門前仲町駅(首都高高架、駐輪場内２階） / Monzen-nakacho Station,,Open for 24 hours
+,江東区,豊洲五丁目,-,東京都江東区豊洲５丁目６ H1-35.ヒューリック豊洲プライムスクエア,35.652376,139.797724,H1-35.ヒューリック豊洲プライムスクエア / Hulic Toyosu Prime Square,,Open for 24 hours
+,江東区,木場六丁目,-,東京都江東区木場６丁目２ H1-36.フジゴルフセンター,35.666050,139.806699,H1-36.フジゴルフセンター / Fujigolf Center,,Open for 24 hours
+,江東区,東雲二丁目,-,東京都江東区東雲２丁目１５ H1-37.東雲駅（東京湾岸道路）,35.640618,139.802455,H1-37.東雲駅（東京湾岸道路）/ Shinonome Sta.(Wangan Road),,Open for 24 hours
+,江東区,辰巳一丁目,-,東京都江東区辰巳１丁目１０ H1-38.辰巳駅西口自転車駐車場,35.646857,139.808912,H1-38.辰巳駅西口自転車駐車場（駐輪場内３階） / Tatsumi station western exit bicycle garage,,Open for 24 hours
+,江東区,辰巳二丁目,-,東京都江東区辰巳２丁目１２ H1-39.辰巳駅東口自転車駐車場,35.645823,139.812178,H1-39.辰巳駅東口自転車駐車場 / Tatsumi station east entrance bicycle garaje,,Open for 24 hours
+,江東区,門前仲町一丁目,-,東京都江東区門前仲町１丁目１９−１５,35.674070,139.794900,H1-40.深川東京モダン館 / Fukagawa Tokyo Modan Kan,,Open for 24 hours
+,江東区,平野三丁目,-,東京都江東区平野３丁目２ H1-41.深川北スポーツセンター,35.676475,139.804741,H1-41.深川北スポーツセンター / Fukagawa North Sports Center,,Open 8:30-20:00
+,江東区,北砂一丁目,-,東京都江東区北砂１丁目２ H1-42.江東区スポーツ会館,35.683961,139.821559,【休止中】H1-42.江東区スポーツ会館 / Koto-ku Sports Hall,休止中,Open for 24 hours
+,江東区,東陽六丁目,-,東京都江東区東陽６丁目３ 東京イースト21,35.675625,139.815168,H1-43.東京イースト21 / Tokyo East 21,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目２ H1-44.テプコ豊洲ビル,35.648727,139.790877,H1-44.テプコ豊洲ビル / TEPCO TOYOSU Bldg.,,Open for 24 hours
+,江東区,夢の島一丁目,-,東京都江東区夢の島１丁目１ H1-45.夢の島競技場,35.648596,139.824936,H1-45.夢の島競技場 / Yumenoshima Stadium,,Open for 24 hours
+,江東区,枝川二丁目,-,東京都江東区枝川２丁目２ H1-46.セブン-イレブン 江東枝川2丁目店,35.659287,139.807358,H1-46.セブン-イレブン 江東枝川2丁目店 / Seven-Eleven Koto Edagawa 2-Chome store,,Open for 24 hours
+,江東区,南砂六丁目,-,東京都江東区南砂６丁目７ H1-47.トピレックプラザ,35.672481,139.835877,H1-47.トピレックプラザ / TOPYREC PLAZA,,Open for 24 hours
+,江東区,潮見二丁目,-,東京都江東区潮見２丁目３ H1-48.セブン-イレブン 江東潮見２丁目店,35.658249,139.815775,H1-48.セブン-イレブン 江東潮見２丁目店 / Seven-Eleven Koto Shiomi 2-Chome store,,Open for 24 hours
+,江東区,新砂三丁目,-,東京都江東区新砂３丁目３ H1-49.セブン-イレブン 江東新砂３丁目店,35.667892,139.831100,H1-49.セブン-イレブン 江東新砂3丁目店 / Seven-Eleven Koto Shinsuna 3-Chome store,,Open for 24 hours
+,江東区,豊洲二丁目,-,東京都江東区豊洲２丁目２ H1-50.豊洲交通広場　北,35.655457,139.795161,"H1-50.豊洲交通広場北 / Toyosu Transportation Square 
+ North ",,-
+,江東区,豊洲二丁目,-,東京都江東区豊洲２丁目２−２,35.654958,139.795718,"H1-51.豊洲交通広場東 / Toyosu Transportation Square 
+ East ",,-
+,江東区,辰巳一丁目,-,東京都江東区辰巳１丁目１０ H1-52.辰巳駅,35.646756,139.809295,H1-52.辰巳駅 / Tatsumi station,,Open for 24 hours
+,江東区,豊洲五丁目,-,東京都江東区豊洲５丁目５ H1-53.豊洲シビックセンター,35.653990,139.795399,H1-53.豊洲シビックセンター / Toyosu civic center,,Open for 24 hours
+,江東区,北砂五丁目,-,東京都江東区北砂５丁目１ H1-54.砂町文化センター,35.680052,139.831874,H1-54.砂町文化センター  / Sunamachi Culture Center,, Open 9:00-22:00
+,江東区,白河一丁目,-,東京都江東区白河１丁目３−２８ 深川江戸資料館,35.681311,139.800761,H1-55.深川江戸資料館 / Fukagawa Edo Museum,,Open 8:30～20:00
+,江東区,南砂三丁目,-,東京都江東区南砂３丁目８ H1-56.南砂三丁目緑地公園西,35.672361,139.829825,H1-56.南砂三丁目緑地公園西 / Minamisuna 3-Chome Park West,,Open for 24 hours
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目５−５ チャリティハーブガーデン,35.645080,139.826456,H1-57.新木場駅 / Shinkiba Station,,Open for 24 hours
+,江東区,潮見二丁目,-,東京都江東区潮見２丁目７ H1-58.潮見駅,35.658703,139.817251,H1-58.潮見駅 / Shiomi Station,,Open for 24 hours
+,江東区,清澄一丁目,-,東京都江東区清澄１丁目１ H1-59.LYURO 東京清澄,35.681316,139.792176,H1-59.LYURO 東京清澄 / LYURO Tokyo Kiyosumi,,Open for 24 hours
+,江東区,東砂三丁目,-,東京都江東区東砂３丁目２８,35.679678,139.844892,H1-60.荒川・砂町庭球場西 / Arakawa Sunamachi tennis court West,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目４ H1-61.Brilliaランニングスタジアムマギーズ東京前,35.648281,139.786112,H1-61.Brillia ランニングスタジアム マギーズ東京前 / Brillia Running Stadium Maggie's Tokyo Front,,Open for 24 hours
+,江東区,扇橋一丁目,-,東京都江東区扇橋１丁目１３ H1-62.扇橋一丁目公園南,35.683343,139.812161,H1-62.扇橋一丁目公園南 / Ogibashi 1-Chome Park South,,Open for 24 hours
+,江東区,潮見一丁目,-,東京都江東区潮見１丁目３−１０,35.656522,139.811631,H1-63.東京スイソミル / Tokyo Suisomiru,,Open for 24 hours
+,江東区,東雲二丁目,-,東京都江東区東雲２丁目１０ H1-64.ローソン東雲駅前店,35.640228,139.804267,H1-64.ローソン東雲駅前店 / LAWSON Shinonome Station-Mae shop,,Open for 24 hours
+,江東区,新砂一丁目,-,東京都江東区新砂１丁目８ H1-65.ローソン南砂日曹橋店,35.669507,139.825553,H1-65.ローソン南砂日曹橋店 / LAWSON Minamisuna Nissobashi shop,,Open for 24 hours
+,江東区,大島九丁目,-,東京都江東区大島９丁目１０ H1-66.中川船番所資料館,35.687732,139.846383,H1-66.中川船番所資料館 / Nakagawa ship Bansho museum,,Open for 24 hours
+,江東区,亀戸九丁目,-,東京都江東区亀戸９丁目１８−１０,35.697664,139.843408,H1-67.セブン-イレブン 江東亀戸９丁目店 / Seven-Eleven Koto Kameido 9chome store,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目２−３,35.649339,139.792320,H1-68.芝浦工業大学附属中学高等学校 / Shibaura Institute of Technology Junior and Senior High School,,Open for 24 hours
+,江東区,石島,-,東京都江東区石島１７ H1-69.ファミリーマート 江東石島店,35.680474,139.812316,H1-69.ファミリーマート江東石島店 / FamilyMart Koto Ishijima shop,,Open for 24 hours
+,江東区,有明二丁目,-,東京都江東区有明２丁目３ H1-70.有明スポーツセンター,35.634030,139.784319,H1-70.有明スポーツセンター / Ariake sports center,,/ Open 8:30～22:30
+,江東区,深川二丁目,-,東京都江東区深川２丁目７ H1-72.ネクストサイト深川ビル,35.674578,139.797396,H1-72.ネクストサイト深川ビル / NEXTSITE Fukagawa Building,,Open for 24 hours
+,江東区,冬木,-,東京都江東区冬木１２ H1-73.イシマビル,35.673836,139.799908,H1-73.イシマビル / Ishima Building,,Open for 24 hours
+,江東区,新木場二丁目,-,東京都江東区新木場２丁目７ H1-74.タダノ教習センター,35.638480,139.832305,H1-74.タダノ教習センター / TADANO KYOSHU CENTER,,Open for 24 hours
+,江東区,扇橋二丁目,-,東京都江東区扇橋２丁目１４ H1-75.ジオ深川住吉,35.684247,139.815638,H1-75.ジオ深川住吉 / GEO FUKAGAWA SUMIYOSHI,,Open for 24 hours
+,江東区,有明一丁目,-,東京都江東区有明１丁目３−３,35.638579,139.788261,H1-76.有明物流センター / Ariake Logistic Center,,Open for 24 hours
+,江東区,東砂二丁目,-,東京都江東区東砂２丁目１２ H1-77.ライフ東砂店,35.684641,139.844243,H1-77.ライフ東砂店 / LIFE Higashisuna Store,,Open for 24 hours
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目８ H1-78.ローソン新木場一丁目店,35.645604,139.834941,H1-78.ローソン新木場一丁目店 / LAWSON Shinkiba 1-Chome shop,,Open for 24 hours
+,江東区,豊洲一丁目,-,東京都江東区豊洲１丁目２ H1-81.豊洲IHIビル（北側）,35.659829,139.793243,H1-81.豊洲IHIビル（北側）/Toyosu IHI Building(north side),,Open for 24 hours
+,江東区,北砂三丁目,-,東京都江東区北砂３丁目３ H1-82.セブンｰイレブン 北砂3丁目明治通り店,35.683514,139.827081,H1-82.セブン-イレブン 北砂3丁目明治通り店 / Seven-Eleven Kitasuna 3-Chome Meijidori store,,Open for 24 hours
+,江東区,東雲二丁目,-,東京都江東区東雲２丁目３ H1-83.ローソン江東東雲店,35.642165,139.800439,H1-83.ローソン江東東雲店 / LAWSON Koto Shinonome shop,,Open for 24 hours
+,江東区,辰巳二丁目,-,東京都江東区辰巳２丁目８ H1-84.NTT東日本辰巳ビル,35.647091,139.817333,H1-84.NTT東日本辰巳ビル / NTT-East Tatsumi Build,,Open for 24 hours
+,江東区,塩浜二丁目,-,東京都江東区塩浜２丁目４ H1-87.パークアクシス木場キャナルウエスト,35.662514,139.803694,H1-87.パークアクシス木場キャナルウエスト / Park Axis Kiba Canal West,,Open for 24 hours
+,江東区,有明一丁目,-,東京都江東区有明１丁目５ H1-89.BUDDY スポーツアリーナ,35.637041,139.781088,H1-89.BUDDY スポーツアリーナ / BUDDY SPORTS ARENA,,Open for 24 hours
+,江東区,枝川一丁目,-,東京都江東区枝川１丁目１０ H1-90.富士倉庫運輸(株) FACE-1前,35.655102,139.805205,H1-90.富士倉庫運輸㈱ FACE-1前 / Fujisokounyu.co. FACE-1 Bldg.,,Open for 24 hours
+,江東区,亀戸一丁目,-,東京都江東区亀戸１丁目４２ H1-91.亀戸駅北口第三自転車駐車場,35.696913,139.823911,H1-91.亀戸駅北口第三自転車駐車場 / Kameido sta. North 3rd Bicycle garage,,Open for 24 hours
+,江東区,亀戸五丁目,-,東京都江東区亀戸５丁目３３ H1-92.亀戸駅東口第二自転車駐車場,35.697880,139.830559,H1-92.亀戸駅東口第二自転車駐車場 / Kameido sta. East 2nd Bicycle garage,,Open for 24 hours
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目１３−４ 新木場一丁目公園,35.641743,139.835455,H1-93.新木場一丁目公園 / Shinkiba 1chome Park,,Open for 24 hours
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目１０ H1-94.新木場一丁目緑地公園,35.644230,139.835823,H1-94.新木場一丁目緑地公園 / Shinkiba 1chome Ryokchi Park,,Open for 24 hours
+,江東区,若洲三丁目,-,東京都江東区若洲３丁目２ H1-95.若洲公園,35.619451,139.834429,H1-95.若洲公園 / H1-95.Wakasu Park,,Open for 24 hours
+,江東区,越中島二丁目,-,東京都江東区越中島２丁目１ H1-96.越中島公園,35.668757,139.790156,H1-96.越中島公園 / Etchujima Park,,Open for 24 hours
+,江東区,塩浜一丁目,-,東京都江東区塩浜１丁目４ H1-97.浜園公園,35.661852,139.802224,H1-97.浜園公園 / Hamazono Park,,Open for 24 hours
+,江東区,東陽三丁目,-,東京都江東区東陽３丁目１ H1-98.洲崎川緑道公園,35.668705,139.810549,H1-98.洲崎川緑道公園 / Suzakigawa Ryokdo Park,,Open for 24 hours
+,江東区,南砂三丁目,-,東京都江東区南砂３丁目１１ H1-99.南砂三丁目公園,35.669719,139.831906,H1-99.南砂三丁目公園 / Minamisuna 3chome Park,,Open for 24 hours
+,江東区,亀戸二丁目,-,東京都江東区亀戸２丁目１ H1-100.URアーバンライフ亀戸,35.697935,139.821855,H1-100. URアーバンライフ亀戸 / UR URBAN LIFE KAMEIDO,,Open for 24 hours
+,江東区,亀戸九丁目,-,東京都江東区亀戸９丁目３３−１ ５０２,35.699617,139.842339,H1-213.亀戸九丁目住宅 / Kameido 9 chome Jutaku,,Open for 24 hours
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目１１ H1-101.ファミリーマート新木場一丁目店,35.642571,139.836766,H1-101.ファミリーマート新木場一丁目店 / Family Mart Shinkiba 1Chome Store,,Open for 24 hours
+,江東区,東砂七丁目,-,東京都江東区東砂７丁目１９,35.672714,139.837914,H1-102.ファミリーマート東砂七丁目店 / Family Mart Higashisuna 7Chome Store,,Open for 24 hours
+,江東区,清澄二丁目,-,東京都江東区清澄２丁目２,35.680948,139.796917,H1-103.清澄庭園 / Kiyosumi Teien Park,,Open for 24 hours
+,江東区,平野四丁目,-,東京都江東区平野４丁目４ H1-104.木場公園,35.676488,139.809616,H1-104.木場公園 / Kiba Park,,Open for 24 hours
+,江東区,毛利二丁目,-,東京都江東区毛利２丁目１３ H1-105.猿江恩賜公園,35.692079,139.818884,H1-105.猿江恩賜公園 / Sarue Onshi Park,,Open for 24 hours
+,江東区,亀戸八丁目,-,東京都江東区亀戸８丁目２,35.699063,139.834412,"H1-106.亀戸中央公園 / Kameido Chuo Park
+",,-
+,江東区,大島九丁目,-,東京都江東区大島９丁目６ H1-107.大島小松川公園,35.692641,139.846346,H1-107.大島小松川公園 / Ojima Komatsugawa Park,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目９ H1-108.Brillia ist 東雲キャナルコート北側,35.648431,139.803125,H1-108.Brillia ist 東雲キャナルコート北側 /Brillia ist Shinonome Canal Court North,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目９ H1-109.Brillia ist 東雲キャナルコート東側,35.648008,139.803487,H1-109.Brillia ist 東雲キャナルコート東側 / Brillia ist Shinonome Canal Court East,,Open for 24 hours
+,江東区,木場六丁目,-,東京都江東区木場６丁目４−２０,35.666880,139.807790,H1-111.ファミリーマート木場六丁目店 / Family Mart Kiba 6Chome Store,,Open for 24 hours
+,江東区,塩浜二丁目,-,東京都江東区塩浜２丁目１４ H1-112.ファミリーマート江東塩浜二丁目店,35.663050,139.808700,H1-112.ファミリーマート江東塩浜二丁目店 / Family Mart Koto Shiohama 2Chome Store,,Open for 24 hours
+,江東区,東雲一丁目,-,東京都江東区東雲１丁目６ H1-113.123+N東雲店,35.646366,139.801492,H1-113.123+N東雲店 / 123+N Shinonome Shop,,Open for 24 hours
+,江東区,夢の島二丁目,-,東京都江東区夢の島２丁目１,35.651987,139.830691,H1-114.東京夢の島マリーナ / Tokyo Yumenoshima Marina,,Open for 24 hours
+,江東区,夢の島三丁目,-,東京都江東区夢の島３丁目２ H1-115.東京夢の島マリーナ 第4駐車場,35.650235,139.835993,H1-115.東京夢の島マリーナ 第4駐車場 / Tokyo Yumenoshima Marina 4th Parking,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目３ H1-116.出会い橋高架下,35.625038,139.777639,H1-116.出会い橋高架下 / Deaibashi Bridge (underpass),,Open for 24 hours
+,江東区,木場五丁目,-,東京都江東区木場５丁目８ H1-117.東京パークサイドビル,35.671225,139.808561,H1-117.東京パークサイドビル / Tokyo Parkside Building,,Open for 24 hours
+,江東区,亀戸二丁目,-,東京都江東区亀戸２丁目２２−１１,35.698390,139.825484,H1-118.ファミリーマート亀戸駅前店 / Family Mart Kameido Ekimae Store,,Open for 24 hours
+,江東区,新木場三丁目,-,東京都江東区新木場３丁目６−６,35.638319,139.834741,"H1-119.榎戸材木店 / Enokido Lumber Co., LTD",,Open for 24 hours
+,江東区,豊洲五丁目,-,東京都江東区豊洲５丁目６ H1-120.豊洲5丁目,35.650948,139.799711,H1-120.豊洲5丁目 / Toyosu 5 Chome,,Open for 24 hours
+,江東区,南砂五丁目,-,東京都江東区南砂５丁目７ H1-121.南砂5丁目,35.676603,139.829736,H1-121.南砂5丁目 / Minamisuna 5-Chome,,Open for 24 hours
+,江東区,東砂四丁目,-,東京都江東区東砂４丁目２２ H1-122.東砂スポーツセンター,35.679167,139.839746,H1-122.東砂スポーツセンター / Higashisuna Sports Center,,"Open for 24 hours, Closed days : 2nd Monday, 4th Monday (If a national holiday falls on a Monday, it will be closed on the following Tuesday as well.)"
+,江東区,有明三丁目,-,東京都江東区有明３丁目７ H1-123.ダイワロイネットホテル東京有明,35.634316,139.793194,H1-123.ダイワロイネットホテル東京有明 / Daiwa Roynet Hotel Tokyo-Ariake,,Open for 24 hours
+,江東区,海辺,-,東京都江東区海辺２−７,35.680636,139.817977,H1-124.セブン‐イレブン江東海辺店 / Seven-Eleven Koto Umibe store,,Open for 24 hours
+,江東区,古石場一丁目,-,東京都江東区古石場１丁目１１ H1-127.古石場川親水公園,35.669291,139.795364,H1-127.古石場川親水公園 / Furuishiba river water park,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目３ H1-128.豊洲市場（5街区）,35.645162,139.785386,H1-128.豊洲市場（5街区）/ Toyosu Market Block5,,Open for 24 hours
+,江東区,千石二丁目,-,東京都江東区千石２丁目１２ H1-130.トヨタモビリティ東京 深川店,35.676643,139.816054,H1-130.トヨタモビリティ東京 深川店 / TOYOTA Mobility Tokyo Fukagawa,,Open for 24 hours
+,江東区,佐賀二丁目,-,東京都江東区佐賀２丁目１２ H1-131.セブン-イレブン 江東佐賀2丁目店,35.679029,139.793535,H1-131.セブン-イレブン江東佐賀2丁目店 / Seven-Eleven Koto Saga 2chome Store,,Open for 24 hours
+,江東区,三好四丁目,-,東京都江東区三好４丁目６ H1-132.セブン-イレブン 江東三好4丁目店,35.681428,139.809307,H1-132.セブン-イレブン江東三好4丁目店 / Seven-Eleven Koto Miyoshi 4chome Store,,Open for 24 hours
+,江東区,北砂二丁目,-,東京都江東区北砂２丁目１９ H1-133.北砂2丁目公園,35.679028,139.825806,H1-133.北砂2丁目公園 / Kitasuna 2 chome park,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目５ H1-134.豊洲ぐるり公園,35.642954,139.777669,H1-134.豊洲ぐるり公園 / Toyosu Gururi park,,Open for 24 hours
+,江東区,北砂五丁目,-,東京都江東区北砂５丁目２０ H1-135.北砂5丁目団地,35.684215,139.832891,"H1-135.北砂5丁目団地 /	Kitasuna 5 chome Danchi",,Open for 24 hours
+,江東区,東砂一丁目,-,東京都江東区東砂１丁目２ H1-136.東砂一丁目公園,35.683542,139.839763,H1-136.東砂一丁目公園 / Higashisuna 1 chome Park,,Open for 24 hours
+,江東区,有明二丁目,-,東京都江東区有明２丁目１ H1-137.住友不動産ショッピングシティ有明ガーデン,35.638985,139.793653,H1-137.住友不動産ショッピングシティ有明ガーデン / ARIAKE GARDEN,,Open for 24 hours
+,江東区,新大橋三丁目,-,東京都江東区新大橋３丁目４ H1-138.HW.HILLS新大橋,35.687416,139.795588,H1-138.HW.HILLS新大橋 / HW.HILLS Shin-Ohashi,,Open for 24 hours
+,江東区,住吉二丁目,-,東京都江東区住吉２丁目１６−１１,35.689896,139.815116,H1-140.キャナルパレス住吉 / The Canal Palace SUMIYOSHI,,Open for 24 hours
+,江東区,潮見二丁目,-,東京都江東区潮見２丁目１ 東京ベイ潮見プリンスホテル駐輪場スペース,35.660632,139.817294,H1-142.東京ベイ潮見プリンスホテル / Tokyo Bay Shiomi Prince Hotel,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目１−１０ ダイバーシティ東京プラザ 3階,35.624615,139.776002,H1-143.ダイバーシティ東京 プラザ / DiverCity Tokyo Plaza,,Open for 24 hours
+,江東区,南砂二丁目,-,東京都江東区南砂２丁目１３ H1-144.南砂住宅,35.674199,139.822018,H1-144.南砂住宅 / Minamisuna Juutaku,,Open for 24 hours
+,江東区,有明二丁目,-,東京都江東区有明２丁目９ H1-145.東雲都橋住宅,35.643131,139.797784,H1-145.東雲都橋住宅 / Shinonome Miyakobashi Juutaku,,Open for 24 hours
+,江東区,大島四丁目,-,東京都江東区大島４丁目２ H1-147.大島四丁目団地,35.687440,139.827075,H1-147.大島四丁目団地 / Ojima 4 chome Danchi,,Open for 24 hours
+,江東区,亀戸九丁目,-,東京都江東区亀戸９丁目１ H1-148.大島七丁目団地,35.694104,139.840279,H1-148.大島七丁目団地 / Ojima 7 chome Danchi,,Open for 24 hours
+,江東区,有明二丁目,-,東京都江東区有明２丁目１−８,35.639132,139.793047,H1-149.有明ガーデン 公園口 / ARIAKE GARDEN PARK ENTRANCE,,Open for 24 hours
+,江東区,有明二丁目,-,東京都江東区有明２丁目１ H1-150.ホテルヴィラフォンテーヌ南側,35.636978,139.791858,H1-150. ホテルヴィラフォンテーヌ南側 / Hotel Villa Fontaine South side,,Open for 24 hours
+,江東区,亀戸二丁目,-,東京都江東区亀戸２丁目７ H1-151.コスモリード錦糸町,35.701347,139.819973,H1-151.コスモリード錦糸町 / COSMOS REID Kinshicho,,Open for 24 hours
+,江東区,亀戸二丁目,-,東京都江東区亀戸２丁目３０ H1-152.コンポジット亀戸ウエスト,35.699187,139.824290,H1-152.コンポジット亀戸ウエスト / Composite Kameido West,,Open for 24 hours
+,江東区,新木場二丁目,-,東京都江東区新木場２丁目３−３,35.638510,139.823534,H1-153.三井リンクラボ新木場1 / MITSUI LINK-Lab SHINKIBA1,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目７ H1-154.やぐら橋下,35.631132,139.792726,H1-154.やぐら橋下 / Yagurabashi shita,,Open for 24 hours
+,江東区,豊洲六丁目,-,東京都江東区豊洲６丁目１−１９,35.645726,139.784496,H1-155.メブクス豊洲 / MEBKS TOYOSU,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目３ 武蔵野大学前,35.630727,139.787320,H1-156.つどい橋下 / Tsudoibashi,,Open for 24 hours
+,江東区,青海二丁目,-,東京都江東区青海２丁目２ H1-158.東京国際交流館,35.621845,139.776833,H1-158.東京国際交流館 / Tokyo International Exchange Center,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目４,35.627599,139.782953,H1-159.夢の大橋西 / Yume-no-ohashi West,,Open for 24 hours
+,江東区,有明三丁目,-,東京都江東区有明３丁目７ H1-160.花の広場,35.633911,139.793337,H1-160.花の広場 / Hana no Hiroba,,Open for 24 hours
+,江東区,森下二丁目,-,東京都江東区森下２丁目１０ H1-163.森下公園,35.686630,139.799529,H1-163.森下公園 / Morishita Park,,Open for 24 hours
+,江東区,森下三丁目,-,東京都江東区森下３丁目１０ H1-164.森下三丁目第三児童遊園,35.685464,139.802430,H1-164.森下三丁目第三児童遊園 / Morishita 3-chome Dai3 Children's Park,,Open for 24 hours
+,江東区,亀戸四丁目,-,東京都江東区亀戸４丁目１８ H1-165.亀戸梅屋敷,35.701318,139.825916,H1-165.亀戸梅屋敷 / KAMEIDO UMEYASHIKI,,Open for 24 hours
+,江東区,亀戸六丁目,-,東京都江東区亀戸６丁目４１ H1-166.亀戸クロック,35.696574,139.829720,H1-166.亀戸クロック / KAMEIDO CLOCK,,Open for 24 hours
+,江東区,大島八丁目,-,東京都江東区大島８丁目１１ H1-167.大島八丁目公園,35.688074,139.838932,H1-167.大島八丁目公園 / Oojima 8-chome Park,,Open for 24 hours
+,江東区,大島五丁目,-,東京都江東区大島５丁目２７ H1-168.大島五丁目公園,35.686420,139.836151,H1-168.大島五丁目公園 / Oojima 5-chome Park,,Open for 24 hours
+,江東区,亀戸七丁目,-,東京都江東区亀戸７丁目３８ H1-169.セブンイレブン江東亀戸7丁目東店,35.697157,139.839835,H1-169.セブンイレブン江東亀戸7丁目東店 / Seven-Eleven Koutou Kameido7chome Higashi store,,Open for 24 hours
+,江東区,亀戸七丁目,-,東京都江東区亀戸７丁目６３ H1-170.セブンイレブン江東亀戸7丁目南店,35.695937,139.838017,H1-170.セブンイレブン江東亀戸7丁目南店 / Seven-Eleven Koutou Kameido7chome Minami store,,Open for 24 hours
+,江東区,東砂六丁目,-,東京都江東区東砂６丁目１１ H1-171.LOGI’Q南砂町,35.672877,139.842339,H1-171.LOGI’Q南砂町 / LOGI’Q Minamisunamachi,,Open for 24 hours
+,江東区,古石場一丁目,-,東京都江東区古石場１丁目９ H1-172.サンヨーパシフィックマンション,35.668856,139.794069,H1-172.サンヨーパシフィックマンション / Sanyo Pacific Apartment,,Open for 24 hours
+,江東区,新大橋三丁目,-,東京都江東区新大橋３丁目３ H1-173.森下駅前,35.687837,139.796540,"H1-173.森下駅前	/ Morishita Ekimae",,Open for 24 hours
+,江東区,北砂一丁目,-,東京都江東区北砂１丁目１９ H1-174.ジュネス(エントランス側),35.682715,139.823961,H1-174.ジュネス(エントランス側) / Jeunesse(entrance side),,Open for 24 hours
+,江東区,大島五丁目,-,東京都江東区大島５丁目４５ H1-175.ダイアパレス大島駅前,35.689543,139.836394,H1-175.ダイアパレス大島駅前 / Dia Palace Ojimaekimae,,Open for 24 hours
+,江東区,新砂一丁目,-,東京都江東区新砂１丁目６ H1-176.JMFビル東陽町02,35.667677,139.823552,H1-176.JMFビル東陽町02 / JMF-Bldg.Toyocho 02,,Open for 24 hours
+,江東区,北砂七丁目,-,東京都江東区北砂７丁目７ H1-177.北砂7丁目団地(第一),35.678537,139.837391,H1-177.北砂7丁目団地(第一) / Kitasuna7-chome Danchi (First),,Open for 24 hours
+,江東区,北砂七丁目,-,東京都江東区北砂７丁目７ H1-178.北砂7丁目団地(第二),35.678031,139.837193,H1-178.北砂7丁目団地(第二) / Kitasuna7-chome Danchi (Second),,Open for 24 hours
+,江東区,北砂七丁目,-,東京都江東区北砂７丁目７ H1-179.北砂7丁目団地(第三),35.678246,139.836600,H1-179.北砂7丁目団地(第三) / Kitasuna7-chome Danchi (Third),,Open for 24 hours
+,江東区,大島六丁目,-,東京都江東区大島６丁目２４ H1-180.シティコート大島,35.691954,139.836462,"H1-180.シティコート大島 / City Court Ojima　
+",,-
+,江東区,亀戸一丁目,-,東京都江東区亀戸１丁目６ H1-182.錦糸町プライムタワー,35.695695,139.820507,H1-182.錦糸町プライムタワー / Kinshicho Prime Tower,,Open for 24 hours
+,江東区,新木場四丁目,-,東京都江東区新木場４丁目３ H1-183.MFLP新木場1,35.643958,139.838358,"H1-183.MFLP新木場1 / MFLP Shinkiba1
+",,-
+,江東区,大島六丁目,-,東京都江東区大島６丁目１ H1-184.UR大島六丁目団地(第一),35.689913,139.833279,H1-184.UR大島六丁目団地(第一) / UR Ojima 6-chome Danchi(First),,Open for 24 hours
+,江東区,大島六丁目,-,東京都江東区大島６丁目１ H1-185.UR大島六丁目団地(第二),35.690038,139.833252,H1-185.UR大島六丁目団地(第二) / UR Ojima 6-chome Danchi(Second),,Open for 24 hours
+,江東区,亀戸六丁目,-,東京都江東区亀戸６丁目４７ H1-186.セブン-イレブン亀戸昭和橋通り店,35.694804,139.831357,H1-186.セブン-イレブン亀戸昭和橋通り店 / Seven-Eleven Kameido Syowabashi-dori,,Open for 24 hours
+,江東区,森下三丁目,-,東京都江東区森下３丁目１２ H1-187.森下文化センター,35.685344,139.802340,H1-187.森下文化センター / Morishita Culture Center,,Open for 24 hours
+,江東区,越中島三丁目,-,東京都江東区越中島３丁目６ H1-190.福山通運 東京支店,35.664845,139.796643,"H1-190.福山通運 東京支店	/ FUKUYAMA TRANSPORTING TOKYO BRANCH
+",,-
+,江東区,新木場一丁目,-,東京都江東区新木場１丁目１７ H1-191.三井リンクラボ新木場2,35.644863,139.831107,H1-191.三井リンクラボ新木場2 / Mitsui Link-Lab2,,Open for 24 hours
+,江東区,新木場二丁目,-,東京都江東区新木場２丁目１２−３,35.634457,139.823999,H1-189.MFLP新木場2 / MFLPshinkiba2,,Open for 24 hours
+,江東区,佐賀二丁目,-,東京都江東区佐賀２丁目８ H1-192.ウエリスアーバン水天宮前,35.678296,139.791949,"H1-192.ウエリスアーバン水天宮前 / WELLITH URBAN SUITENGUMAE
+",,-
+,江東区,豊洲四丁目,-,東京都江東区豊洲４丁目１１ H1-193.ライフ豊洲店,35.651833,139.799620,H1-193.ライフ豊洲店 / Life Toyosu,,Open for 24 hours
+,江東区,北砂五丁目,-,東京都江東区北砂５丁目１７ H1-194.セブン-イレブン江東北砂5丁目店,35.682680,139.835300,"H1-194.セブン-イレブン江東北砂5丁目店	/ Seven-Eleven kotokitasuna 5Chome
+",,-
+,江東区,辰巳二丁目,-,東京都江東区辰巳２丁目２−２,35.652135,139.814368,"H1-195.東京アクアティクスセンター / Tokyo Aquatics Centre
+",,-
+,江東区,新砂一丁目,-,東京都江東区新砂１丁目１０ H1-196.フットサルクラブ東京東陽町,35.665288,139.824294,"H1-196.フットサルクラブ東京東陽町 / FUTSAL CLUB TOKYO TOYOCHO
+",,-
+,江東区,南砂二丁目,-,東京都江東区南砂２丁目２５ H1-197.セブン-イレブン江東南砂葛西橋通り店,35.675361,139.825034,H1-197.セブン-イレブン江東南砂葛西橋通り店 / Seven-Eleven KotoMinamisuna Kasaibashidori,,Open for 24 hours
+,江東区,有明一丁目,-,東京都江東区有明１丁目６ H1-198.Br Tower 有明 MID CROSS,35.634640,139.783445,"H1-198.Br Tower 有明　MID CROSS / Brillia Tower Ariake MID CROSS
+",,-
+,江東区,塩浜二丁目,-,東京都江東区塩浜２丁目２４ H1-199.ラ・ヴェール東陽町,35.664244,139.814506,H1-199.ラ・ヴェール東陽町 / La Vert Toyotyo,,Open for 24 hours
+,江東区,塩浜二丁目,-,東京都江東区塩浜２丁目１８ H1-200.ヴェッセル木場南,35.662414,139.813333,H1-200.ヴェッセル木場南 / WesseL Kibaminami,,Open for 24 hours
+,江東区,佐賀二丁目,-,東京都江東区佐賀２丁目８ H1-201.ウエリスアーバン水天宮前2,35.678099,139.791831,H1-201.ウエリスアーバン水天宮前2 / WELLITH URBAN SUITENGUMAE 2,,Open for 24 hours
+,江東区,辰巳二丁目,-,東京都江東区辰巳２丁目１−１,35.648107,139.813572,H1-202.辰巳の森海浜公園 / Tatsuminomorikaihin Park,,Open for 24 hours
+,江東区,木場三丁目,-,東京都江東区木場３丁目１２ H1-203.セブン-イレブン江東木場３丁目店,35.675170,139.804087,"H1-203.セブン-イレブン江東木場３丁目店	/ Seven-Eleven Kotokiba 3 Chome
+",,-
+,江東区,大島四丁目,-,東京都江東区大島４丁目６ H1-204.大島四丁目団地2,35.688328,139.828828,H1-204.大島四丁目団地2 / Ojima 4 chome Danchi2,,Open for 24 hours
+,江東区,大島四丁目,-,東京都江東区大島４丁目６ H1-205.大島四丁目団地3,35.688241,139.827711,"H1-205.大島四丁目団地3	/ Ojima 4 chome Danchi3
+",,-
+,江東区,北砂五丁目,-,東京都江東区北砂５丁目２０ H1-206.北砂5丁目団地2,35.683866,139.831809,H1-206.北砂5丁目団地2 / Kitasuna 5chome Danchi2,,Open for 24 hours
+,江東区,北砂七丁目,-,東京都江東区北砂７丁目５ H1-207.砂銀ビル,35.680233,139.834836,H1-207.砂銀ビル / Sunagin building,,Open for 24 hours
+,江東区,-,-,東京都江東区,35.647081,139.825297,"H1-208.夢の島緑道公園	/ Yumenoshima greenway Park
+",,-
+,江東区,新大橋三丁目,-,東京都江東区新大橋３丁目１１ H1-209.飯塚 新大橋3丁目,35.689050,139.795200,"H1-209.飯塚 新大橋3丁目 / IIDUKA SHINOHASHI 3 Chome
+",,-
+,江東区,新砂三丁目,-,東京都江東区新砂３丁目４−３５ ニューライズシティ東京ベイハイライズ B1F,35.666601,139.834906,"H1-210.ニューライズシティ東京ベイハイライズ	/ new rise city tokyo bay high rise
+",,-
+,江東区,木場五丁目,-,東京都江東区木場５丁目２ H1-211.フェイストーキョー,35.668945,139.806387,H1-211.フェイストーキョー / FACETOKYO,,Open for 24 hours
+,江東区,東砂五丁目,-,東京都江東区東砂５丁目２１ H1-212.セブン‐イレブン 江東東砂3丁目,35.677542,139.843651,H1-212.セブン‐イレブン 江東東砂3丁目 / 7-Eleven Koutou Higashisuna 3 Chome shop,,Open for 24 hours
+,江東区,亀戸四丁目,-,東京都江東区亀戸４丁目３５ H1-214.EC KAMEIDO TOKYO EAST1,35.702070,139.826540,H1-214.EC KAMEIDO TOKYO EAST 1,,Open for 24 hours
+,江東区,亀戸四丁目,-,東京都江東区亀戸４丁目１９ H1-215.EC KAMEIDO TOKYO EAST2,35.702087,139.826406,H1-215.EC KAMEIDO TOKYO EAST 2,,Open for 24 hours
+,江東区,亀戸四丁目,-,東京都江東区亀戸４丁目３４ H1-216.EC KAMEIDO TOKYO EAST3,35.702233,139.826540,H1-216.EC KAMEIDO TOKYO EAST 3,,Open for 24 hours
+,江東区,牡丹三丁目,-,東京都江東区牡丹３丁目１０ H1-217.株式会社前川製作所（東側）,35.669326,139.798812,"H1-217.株式会社前川製作所（東側）/ MAYEKAWA MFG.CO.,LTD East Side ",,Open for 24 hours
+,江東区,亀戸一丁目,-,東京都江東区亀戸１丁目３ H1-218.リアルテ錦糸町,35.694060,139.821130,H1-218.リアルテ錦糸町 / REARTE KINSHICHO,,Open for 24 hours
+,江東区,東雲二丁目,-,東京都江東区東雲２丁目８ H1-219.東雲駅北,35.640641,139.802961,H1-219.東雲駅北 / Shinonome Station North,,Open for 24 hours
+,江東区,北砂四丁目,-,東京都江東区北砂４丁目４１ H1-220.モノボックス北砂,35.679067,139.834364,"H1-220.モノボックス北砂	/ MONOBOX Kitasuna
+",,-
+,江東区,大島七丁目,-,東京都江東区大島７丁目４０ H1-221.宇井ビル,35.692170,139.843570,"H1-221.宇井ビル	/ Ui building
+",,-
+,江東区,新大橋三丁目,-,東京都江東区新大橋３丁目７ H1-222.遠萬ビル,35.687650,139.796220,H1-222.遠萬ビル / Emman Building,,Open for 24 hours
+,墨田区,千歳一丁目,-,東京都墨田区千歳１丁目７ H1-223.グラン森下イーストレジデンス,35.690605,139.792985,H1-223.グラン森下イーストレジデンス / Grand Morishita East Residence,,Open for 24 hours
+,江東区,有明一丁目,-,東京都江東区有明１丁目１３ H1-224.ライブドアアーバンスポーツパーク西,35.638498,139.785175,H1-224.ライブドアアーバンスポーツパーク西 / livedoor URBAN SPORTS PARK west,,Open for 24 hours
+,江東区,有明一丁目,-,東京都江東区有明１丁目１３−７,35.640311,139.788022,"H1-225.ライブドアアーバンスポーツパーク東	/ livedoor URBAN SPORTS PARK east
+",,-
+,江東区,森下四丁目,-,東京都江東区森下４丁目１７−７ メゾンドマツムラ,35.686442,139.804161,H1-226.メゾン・ド・マツムラ / Maison de Matsumura,,Open for 24 hours
+,江東区,新大橋三丁目,-,東京都江東区新大橋３丁目１６−８,35.686405,139.803354,"H1-227.松村メゾン	/ Matsumura Maison
+",,-
+,江東区,青海一丁目,-,東京都江東区青海１丁目３−３,35.626169,139.780650,H1-230.シティサーキット東京ベイ北 / CITY CIRCUIT TOKYO BAY NORTH,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目３−１５,35.625304,139.781551,"H1-231.シティサーキット東京ベイ南  / CITY CIRCUIT TOKYO BAY SOUTH
+",,-
+,江東区,青海一丁目,-,東京都江東区青海１丁目３−１５,35.623609,139.778782,H1-228.青海交差点 / Aomi intersection,,Open for 24 hours
+,江東区,青海一丁目,-,東京都江東区青海１丁目３ 青海駅前,35.624928,139.781054,"H1-229.イマーシブ・フォート東京 / IMMERSIVE FORT TOKYO
+",,-
+,品川区,二葉一丁目,-,東京都品川区二葉１丁目７ I1-01.品川区役所 本庁舎前,35.608960,139.729810,I1-01.品川区役所 本庁舎前 / Shinagawa City Office Beside Main Building,,Open for 24 hours
+,品川区,大井一丁目,-,東京都品川区大井１丁目１ I1-02.品川区役所 第三庁舎前,35.608164,139.730048,I1-02.品川区役所 第三庁舎前 / Shinagawa City Office Beside 3rd Building,,Open for 24 hours
+,品川区,大井一丁目,-,東京都品川区大井１丁目５０ I1-03.大井町駅中央口（西側）,35.605617,139.734720,I1-03.大井町駅中央口（西側）/ Oimachi Station Central Exit (West Side),,Open for 24 hours
+,品川区,大井一丁目,-,東京都品川区大井１丁目２,35.605150,139.734690,I1-04.大井町歩道橋 / Oimachi Footbridge,,Open for 24 hours
+,品川区,大井六丁目,-,東京都品川区大井６丁目２１ I1-06.大森貝塚遺跡庭園,35.593489,139.729670,I1-06.大森貝塚遺跡庭園 / Omori Shell Mounds Garden,,Open for 24 hours
+,品川区,南大井二丁目,-,東京都品川区南大井２丁目９ I1-07.しながわ水族館,35.590641,139.736354,I1-07.しながわ水族館 / Shinagawa Aquarium,,Open for 24 hours
+,品川区,東品川二丁目,-,東京都品川区東品川２丁目３ I1-08.天王洲アイル第一水辺広場,35.622294,139.751644,I1-08.天王洲アイル第一水辺広場 / Tennozu Isle Dai-1 Waterside Square,,Open for 24 hours
+,品川区,東品川三丁目,-,東京都品川区東品川３丁目８ I1-09.東品川海上公園第1,35.616633,139.748945,I1-09.東品川海上公園第1 / Higashi-Shinagawa Sea Park Dai-1,,Open for 24 hours
+,品川区,東品川四丁目,-,東京都品川区東品川４丁目１２ I1-10.品川シーサイド公園第1,35.607717,139.749478,I1-10.品川シーサイド公園第1 / Shinagawa Sea Side Park Dai-1,,Open for 24 hours
+,品川区,東大井一丁目,-,東京都品川区東大井１丁目１３ I1-11.鮫洲入江広場,35.603984,139.744504,I1-11.鮫洲入江広場 / Samezu Irie Park,,Open for 24 hours
+,品川区,勝島三丁目,-,東京都品川区勝島３丁目７ I1-12.しながわ区民公園（北側）,35.596068,139.741192,I1-12.しながわ区民公園（北側）/ Shinagawa-kumin Park (North Side),,/ Open 7:30-17:00
+,品川区,八潮一丁目,-,東京都品川区八潮１丁目３ I1-13.八潮北公園,35.613421,139.753750,I1-13.八潮北公園 / Yashio-kita Park,,Open for 24 hours
+,品川区,東品川一丁目,-,東京都品川区東品川１丁目７ I1-16.品川浦,35.621365,139.741936,I1-16.品川浦第一 / Shinagawa-ura Dai-1,,Open for 24 hours
+,品川区,東品川三丁目,-,東京都品川区東品川３丁目８ I1-17.東品川海上公園第2,35.616364,139.749171,I1-17.東品川海上公園第2 / Higashi-Shinagawa Sea Park Dai-2,,Open for 24 hours
+,品川区,東品川三丁目,-,東京都品川区東品川３丁目１４ I1-18.東品川公園,35.613790,139.746617,I1-18.東品川公園 / Higashi-Shinagawa Park,,Open for 24 hours
+,品川区,東品川四丁目,-,東京都品川区東品川４丁目１２ I1-19.品川シーサイド公園第2,35.607571,139.749108,I1-19.品川シーサイド公園第2 / Shinagawa Sea Side Park Dai-2,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目７ I1-20.しおじ公園,35.596320,139.751279,I1-20.しおじ公園 / Shioji Park,,Open for 24 hours
+,品川区,勝島二丁目,-,東京都品川区勝島２丁目１,35.593887,139.741204,I1-21.大井競馬場（正門前）/ Oi Racecourse (Main Gate),,Open for 24 hours
+,品川区,勝島一丁目,-,東京都品川区勝島１丁目６ I1-22.ウィラ大井 (ショッピングモール),35.596579,139.745009,I1-22.ウィラ大井（ショッピングモール）/ WiRA Ooi (Shopping Mall),,/ Open 7:30-23:30
+,品川区,南品川四丁目,-,東京都品川区南品川４丁目２ I1-23.東海橋防災船着場,35.616114,139.740330,I1-23.東海橋防災船着場 / Tokai Bridge Disaster Prevention Port,,Open for 24 hours
+,品川区,南大井一丁目,-,東京都品川区南大井１丁目１８ I1-24.しながわ区民公園(中央口),35.593614,139.738050,I1-24.しながわ区民公園（中央口）/ Shinagawa-kumin Park (Central Entrance),,Open for 24 hours
+,品川区,旗の台二丁目,-,東京都品川区旗の台２丁目４ I1-25.セブン-イレブン 品川旗の台2丁目店,35.607084,139.705007,I1-25.セブン-イレブン 品川旗の台２丁目店 / 7-Eleven Shinagawa Hatanodai 2 Chome shop,,Open for 24 hours
+,品川区,大崎二丁目,-,東京都品川区大崎２丁目１１ I1-26.大崎西口公園,35.617475,139.729221,I1-26.大崎西口公園 / Osaki Nishiguchi Park,,Open for 24 hours
+,品川区,北品川五丁目,-,東京都品川区北品川５丁目７,35.620703,139.730904,I1-27.小関橋公園  / Koseki Bashi Park,,Open for 24 hours
+,品川区,勝島一丁目,-,東京都品川区勝島１丁目４ I1-29.ローソン 勝島一丁目店,35.599987,139.745195,I1-29.ローソン 勝島一丁目店 / LAWSON Katsushima 1 Chome shop,,Open for 24 hours
+,品川区,大井三丁目,-,東京都品川区大井３丁目１ I1-30.ローソン 大井三丁目店,35.603327,139.729006,I1-30.ローソン 大井三丁目店 / LAWSON Oi 3 Chome shop,,Open for 24 hours
+,品川区,戸越六丁目,-,東京都品川区戸越６丁目７ I1-31.セブン-イレブン 品川戸越5丁目店,35.608193,139.719139,I1-31.セブン-イレブン 品川戸越5丁目店 / Seven-Eleven Shinagawa Togoshi 5 Chome shop,,Open for 24 hours
+,品川区,東品川三丁目,-,東京都品川区東品川３丁目２８−２２,35.611878,139.747725,【休止中】I1-34.NTT品川ビル / NTT Shinagawa Build,休止中,Open for 24 hours
+,品川区,東品川二丁目,-,東京都品川区東品川２丁目３ I1-35.シーフォートスクエア,35.622954,139.750593,I1-35.シーフォートスクエア / Sea Fort Square,,Open for 24 hours
+,品川区,北品川六丁目,-,東京都品川区北品川６丁目７ I1-37.ガーデンシティ品川御殿山,35.623466,139.734359,I1-37.ガーデンシティ品川御殿山 / Garden City Shinagawa Gotenyama,,Open for 24 hours
+,品川区,八潮三丁目,-,東京都品川区八潮３丁目２ I1-38.ローソン 八潮三丁目店,35.594544,139.760423,I1-38.ローソン 八潮三丁目店 / LAWSON Yashio 3 Chome shop,,Open for 24 hours
+,品川区,西五反田三丁目,-,東京都品川区西五反田３丁目１５−６ リードシー目黒不動前ビル5-12,35.628116,139.713149,I1-39.MID POINT 目黒不動前 / MID POINT Meguro Fudomae,,Open for 24 hours
+,品川区,北品川四丁目,-,東京都品川区北品川４丁目７ I1-40.御殿山トラストタワー,35.622371,139.737457,I1-40.御殿山トラストタワー / GOTENYAMA TRUST TOWER,,Open for 24 hours
+,品川区,南品川二丁目,-,東京都品川区南品川２丁目６−２,35.611609,139.742511,I1-42.京急青横駐車場 / KEIKYU Parking Aoyoko,,Open for 24 hours
+,品川区,南大井一丁目,-,東京都品川区南大井１丁目２２ I1-43.京急南大井駐車場,35.594724,139.737100,I1-43.京急南大井駐車場 / KEIKYU Parking Minamioi,,Open for 24 hours
+,品川区,大井四丁目,-,東京都品川区大井４丁目３,35.604606,139.734483,I1-44.大井三ツ又商店街入口 / Oi-Mitsumata-Shopping Street Entrance,,Open for 24 hours
+,品川区,西五反田三丁目,-,東京都品川区西五反田３丁目７ I1-45.セブン-イレブン品川西五反田3丁目店,35.625410,139.718135,I1-45.セブン-イレブン品川西五反田3丁目店 / Seven Eleven Shinagawa Nishi Gotanda 3 Chome Store,,Open for 24 hours
+,品川区,東五反田四丁目,-,東京都品川区東五反田４丁目１１ I1-47.NTT 東日本 関東病院(南側),35.630151,139.725215,I1-47. NTT東日本 関東病院（南側） /  NTT Medical Center Tokyo(South Side),,Open for 24 hours
+,品川区,東五反田五丁目,-,東京都品川区東五反田５丁目４−４２ 関東病院５丁目社宅,35.631942,139.724797,I1-48. NTT東日本 関東病院（北側） / NTT Medical Center Tokyo(North Side),,Open for 24 hours
+,品川区,東大井一丁目,-,東京都品川区東大井１丁目２１ I1-49.京急鮫洲バイク駐輪場,35.603815,139.741362,I1-49.京急鮫洲バイク駐輪場 / KEIKYU Bicycle Parking Samezu,,Open for 24 hours
+,品川区,東大井二丁目,-,東京都品川区東大井２丁目２１ I1-50.京急立会川第2バイク駐輪場,35.599196,139.739158,I1-50.京急立会川第2バイク駐輪場 / KEIKYU Bicycle Parking Tachiaigawa 2,,Open for 24 hours
+,品川区,南大井三丁目,-,東京都品川区南大井３丁目３２ I1-51.京急鈴ヶ森駐車場,35.589573,139.735585,I1-51.京急鈴ヶ森駐車場 / KEIKYU Parking Suzugamori,,Open for 24 hours
+,品川区,東品川四丁目,-,東京都品川区東品川４丁目１０ I1-52.カスタリアタワー品川シーサイド,35.607557,139.746813,I1-52.カスタリアタワー品川シーサイド / CASTALIA Tower Shinagawa Seaside,,Open for 24 hours
+,品川区,東品川二丁目,-,東京都品川区東品川２丁目６ I1-53.天王洲公園,35.620355,139.749339,I1-53.天王洲公園 / Tennozu Park,,Open for 24 hours
+,品川区,東品川二丁目,-,東京都品川区東品川２丁目２ I1-54.天王洲オーシャンスクエア,35.622356,139.749468,I1-54.天王洲オーシャンスクエア / Tennoz Ocean Square,,Open for 24 hours
+,品川区,南大井四丁目,-,東京都品川区南大井４丁目１８−１４,35.593559,139.734704,I1-55.鈴ヶ森公園 / Suzugamori Park,,Open for 24 hours
+,品川区,南大井六丁目,-,東京都品川区南大井６丁目１７ I1-57.大井水神公園,35.589972,139.729368,I1-57.大井水神公園 / Oi-Suijin Park,,Open for 24 hours
+,品川区,広町二丁目,-,東京都品川区広町２丁目１ I1-58.品川区役所　第二庁舎前,35.609664,139.730006,I1-58.品川区役所 第二庁舎前 / Shinagawa City Office Beside 2nd Building,,Open for 24 hours
+,品川区,豊町一丁目,-,東京都品川区豊町１丁目１５ I1-59.文庫の森第一,35.612357,139.721484,I1-59.文庫の森第一 / Bunko-no-mori 1,,Open for 24 hours
+,品川区,豊町一丁目,-,東京都品川区豊町１丁目１６ I1-60.文庫の森第二,35.611368,139.720424,I1-60.文庫の森第二 / Bunko-no-mori 2,,Open for 24 hours
+,品川区,西五反田六丁目,-,東京都品川区西五反田６丁目３ I1-61.五反田文化センター,35.622588,139.716159,I1-61.五反田文化センター / Gotanda Culture Center,,"Open Mon.-Sat. 8:30-21:00, Sun. Holiday 8:30-17:00,Due to the New Year's holiday season, we will close from December 29 to January 3. The facility closes the 4th Monday of each month."
+,品川区,東品川一丁目,-,東京都品川区東品川１丁目３ I1-62.天王洲Rim,35.622277,139.745638,I1-62.天王洲Rim / TENNOZ Rim,,Open for 24 hours
+,品川区,西五反田二丁目,-,東京都品川区西五反田２丁目１１ I1-63.セブン-イレブン西五反田店,35.627650,139.719212,I1-63.セブン-イレブン西五反田店 / Seven-Eleven Nishi Gotanda Store,,Open for 24 hours
+,品川区,東五反田二丁目,-,東京都品川区東五反田２丁目２２ I1-64.株式会社ユアス ゆうパック取扱所：ポストのうしろ,35.622965,139.731014,"I1-64.株式会社ユアス ゆうパック取扱所：ポストのうしろ / Japan Post's domestic parcel delivery service center : YOURS, LTD.",,Open for 24 hours
+,品川区,東大井四丁目,-,東京都品川区東大井４丁目５ I1-65.セブン-イレブン品川東大井1丁目店,35.605996,139.743037,I1-65.セブン-イレブン品川東大井1丁目店 / Seven-Eleven Shinagawa Higashi-Oi 1 Chome Store,,Open for 24 hours
+,品川区,南大井一丁目,-,東京都品川区南大井１丁目３ I1-66.南大井文化センター駐車場,35.596733,139.738040,I1-66.南大井文化センター駐車場 / Minami-Oi Cultural Center Parking,,"Open Mon.-Sat. 8:30-21:00m Sun. Holiday 8:30-17:00mDue to the New Year's holiday season, we will close from December 29 to January 3. The facility closes the 4th Monday of each month."
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１１ I1-67.八潮公園第一,35.601149,139.754284,I1-67.八潮公園第一 / Yashio Park Dai-1,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１１ I1-68.八潮公園第二,35.600003,139.754288,I1-68.八潮公園第二 / Yashio Park Dai-2,,Open for 24 hours
+,品川区,大崎三丁目,-,東京都品川区大崎３丁目１８−８,35.617104,139.721498,【休止中】I1-69.戸越1丁目 / Togoshi 1 Chome,休止中,Open for 24 hours
+,品川区,西五反田一丁目,-,東京都品川区西五反田１丁目１０ I1-70.五反田リバーステーション,35.624566,139.724480,I1-70.五反田リバーステーション / Gotanda RIVER STATION,,Open for 24 hours
+,品川区,南大井四丁目,-,東京都品川区南大井４丁目９ I1-71.セブン-イレブン南大井浜川店,35.596483,139.735500,I1-71.セブン-イレブン南大井浜川店 / Seven-Eleven Minami-Oi Hamakawa Store,,Open for 24 hours
+,品川区,大井五丁目,-,東京都品川区大井５丁目５ I1-72.セブン-イレブン大井店,35.600081,139.728193,I1-72.セブン-イレブン大井店 / Seven-Eleven Oi Store ,,Open for 24 hours
+,品川区,西五反田六丁目,-,東京都品川区西五反田６丁目６ I1-74.セブン-イレブン西五反田6丁目店,35.622403,139.717710,I1-74.セブン-イレブン西五反田6丁目店 / Seven-Eleven Nishi Gotanda 6 Chome Store,,Open for 24 hours
+,品川区,二葉四丁目,-,東京都品川区二葉４丁目１ I1-75.セブン-イレブン品川二葉4丁目店,35.603275,139.713428,I1-75.セブン-イレブン品川二葉4丁目店 / Seven-Eleven Shinagawa Futaba 4 Chome Store,,Open for 24 hours
+,品川区,西中延一丁目,-,東京都品川区西中延１丁目６ I1-77.セブン-イレブン品川西中延1丁目店,35.612217,139.708164,I1-77.セブン-イレブン品川西中延1丁目店 / Seven-Eleven Shinagawa Nishi-Nakanobu 1 chome,,Open for 24 hours
+,品川区,西大井六丁目,-,東京都品川区西大井６丁目５−１ ゼルコバレジデンス,35.601431,139.718659,I1-78.セブン-イレブン西大井店 / Seven-Eleven Nishi-Oi,,Open for 24 hours
+,品川区,東品川一丁目,-,東京都品川区東品川１丁目７,35.621904,139.741429,I1-79.品川浦第二 / Shinagawa-ura Dai-2,,Open for 24 hours
+,品川区,東品川一丁目,-,東京都品川区東品川１丁目２ I1-80.リバーサイド品川港南ビル,35.622714,139.744710,I1-80.リバーサイド品川港南ビル / RIVERSIDE Shinagawa Kounan Building,,Open for 24 hours
+,品川区,戸越六丁目,-,東京都品川区戸越６丁目６ I1-81.戸越6丁目,35.608127,139.717865,I1-81.戸越6丁目 / Togoshi 6 Chome,,Open for 24 hours
+,品川区,西五反田四丁目,-,東京都品川区西五反田４丁目５ I1-82.トミンハイム西五反田四丁目,35.627386,139.711182,I1-82.トミンハイム西五反田四丁目 / Tomin Heim Nishi-Gotanda 4 Chome,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目５ I1-83.かもめ歩道橋,35.600161,139.749902,I1-83.かもめ歩道橋 / Kamome Footbridge,,Open for 24 hours
+,品川区,西品川二丁目,-,東京都品川区西品川２丁目４ I1-84.セブン-イレブン西品川2丁目店,35.613819,139.728418,I1-84.セブン-イレブン西品川2丁目店 / Seven-Eleven Nishi-Shinagawa 2 chome,,Open for 24 hours
+,品川区,北品川一丁目,-,東京都品川区北品川１丁目２３ I1-85.GOODOFFICE品川,35.621081,139.741178,I1-85.GOODOFFICE品川 /  GOODOFFICE Shinagawa,,Open for 24 hours
+,品川区,二葉三丁目,-,東京都品川区二葉３丁目２９ I1-86.ファミリーマート二葉三丁目店,35.601694,139.719778,I1-86.ファミリーマート二葉三丁目店 / FamilyMart Futaba 3 Chome,,Open for 24 hours
+,品川区,西大井二丁目,-,東京都品川区西大井２丁目１７ I1-87.セブン-イレブン西大井滝王子通り店,35.599774,139.723467,I1-87.セブン-イレブン西大井滝王子通り店 / Seven-Eleven Nishi-Oi Takioji dori,,Open for 24 hours
+,品川区,南大井三丁目,-,東京都品川区南大井３丁目３０ I1-88.セブン-イレブン品川南大井3丁目店,35.587680,139.734515,I1-88.セブン-イレブン品川南大井3丁目店 / Seven-Eleven Shinagawa Minami-Oi 3 Chome,,Open for 24 hours
+,品川区,西品川一丁目,-,東京都品川区西品川１丁目３０ I1-89.下神明駅自転車駐車場,35.608402,139.726118,I1-89.下神明駅自転車駐車場 / Shimoshinmei Station Bicycle Parking Lot,,Open for 24 hours
+,品川区,上大崎三丁目,-,東京都品川区上大崎３丁目５−１１ 目黒ヴィラガーデン 6階,35.634019,139.719749,I1-91.アクロス目黒タワー / Across Meguro Tower,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目７ I1-92.中央海浜公園前交差点（北側）,35.595873,139.751340,I1-92.中央海浜公園前交差点（北側）/ Central Seaside Park front intersection (North Side),,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目３ 中央公園,35.595498,139.750654,I1-93.中央海浜公園前交差点（南側）/ Central Seaside Park front intersection (South Side),,Open for 24 hours
+,品川区,-,-,東京都品川区,35.584998,139.761055,I1-95.東京レールゲート EAST / TOKYO RAIL GATE EAST,,Open for 24 hours
+,品川区,東品川三丁目,-,東京都品川区東品川３丁目２９ I1-97.トミンハイム東品川三丁目第二,35.613387,139.749307,I1-97.トミンハイム東品川三丁目第二 / Tomin Heim Higashishinagawa3-chome Dai-2,,Open for 24 hours
+,品川区,中延五丁目,-,東京都品川区中延５丁目４ I1-98.コーポ荏原,35.604110,139.709784,"I1-98.コーポ荏原	/ Corpo Ebara",,Open for 24 hours
+,品川区,北品川二丁目,-,東京都品川区北品川２丁目３３ I1-99.北品川２丁目,35.616630,139.741920,I1-99.北品川２丁目 / Kitashinagawa 2-Chome,,Open for 24 hours
+,品川区,東中延一丁目,-,東京都品川区東中延１丁目９ I1-100.東急荏原中延駅駐輪場,35.610537,139.712434,I1-100.東急荏原中延駅駐輪場 / Tokyu Ebara-nakanobu Station Bicycle Parking,,Open for 24 hours
+,品川区,西品川一丁目,-,東京都品川区西品川１丁目２８ I1-101.下神明駅前,35.608380,139.726587,"I1-101.下神明駅前 / Shimoshinmei Ekimae
+",,-
+,品川区,西大井二丁目,-,東京都品川区西大井２丁目１１ I1-102.J.GRAN Court 品川西大井 EAST,35.598244,139.722447,I1-102.J.GRAN Court 品川西大井 EAST / J.GRAN Court Shinagawa Nishioi EAST,,Open for 24 hours
+,品川区,西五反田八丁目,-,東京都品川区西五反田８丁目３ I1-103.五反田ＪＰビルディング,35.622389,139.721552,"I1-103.五反田ＪＰビルディング	/ GOTANDA JP BUILDING
+",,-
+,品川区,中延六丁目,-,東京都品川区中延６丁目３ I1-104.源氏前ビル,35.603521,139.712345,"I1-104.源氏前ビル / Genjimae-building
+",,-
+,品川区,東大井一丁目,-,東京都品川区東大井１丁目２４ I1-105.ステージ品川,35.603420,139.742490,I1-105.ステージ品川 / Stage Shinagawa,,Open for 24 hours
+,品川区,西大井二丁目,-,東京都品川区西大井２丁目１１ I1-106.J.GRAN Court 品川西大井 WEST,35.598670,139.722270,I1-106.J.GRAN Court 品川西大井 WEST / J.GRAN Court Shinagawa Nishioi WEST,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１１ I1-107.八潮公園第三,35.600931,139.753948,"I1-107.八潮公園第三	/ Yashio Park Dai-3
+",,-
+,品川区,北品川一丁目,-,東京都品川区北品川１丁目２３ I1-108.ネオトウキョウアネックス,35.621053,139.741459,I1-108.ネオトウキョウアネックス / NeoTokyoAnnex,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１−２ 都営八潮五丁目アパート２号棟,35.604708,139.754295,I1-109.八潮5丁目 1/ Yashio 5 chome 1,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目２ I1-110.八潮5丁目 2,35.603698,139.754304,"I1-110.八潮5丁目 2	/ Yashio 5 chome 2
+",,-
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目２ I1-111.八潮5丁目 3,35.603243,139.752783,I1-111.八潮5丁目 3 / Yashio 5 chome 3,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１２ I1-112.八潮5丁目 4,35.603083,139.752290,I1-112.八潮5丁目 4 / Yashio 5 chome 4,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目１０−２７,35.600320,139.750741,"I1-113.八潮5丁目 5 / Yashio 5 chome 5
+",,-
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目６ I1-114.八潮5丁目 6,35.598631,139.751217,I1-114.八潮5丁目 6 / Yashio 5 chome 6,,Open for 24 hours
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目８ I1-115.八潮5丁目 7,35.597703,139.751307,"I1-115.八潮5丁目 7 / Yashio 5 chome 7
+",,-
+,品川区,八潮五丁目,-,東京都品川区八潮５丁目８ I1-116.八潮5丁目 8,35.597270,139.752362,I1-116.八潮5丁目 8 / Yashio 5 chome 8,,Open for 24 hours
+,品川区,旗の台六丁目,-,東京都品川区旗の台６丁目２７−３,35.605391,139.699328,"I1-117.クレイシア旗の台	/ CRACIA Hatanodai
+",,-
+,品川区,勝島一丁目,-,東京都品川区勝島１丁目４ I1-118.ブランズシティ品川勝島,35.600672,139.745674,I1-118.ブランズシティ品川勝島 / BRANZ CITY Shinagawa Katsushima,,Open for 24 hours
+,品川区,二葉二丁目,-,東京都品川区二葉２丁目２６ I1-119.西大井広場公園,35.602392,139.722270,I1-119.西大井広場公園 / Nishi-Oi Hiroba Park,,Open for 24 hours
+,品川区,小山三丁目,-,東京都品川区小山３丁目１５ I1-120.エンジェルファイブ（屋上駐輪場）,35.619513,139.704330,I1-120.エンジェルファイブ/ AngelV,,Open  10:15~22:45
+,品川区,大井四丁目,-,東京都品川区大井４丁目５ I1-121.エステムプラザ品川サウスヒルズ,35.603500,139.733460,I1-121.エステムプラザ品川サウスヒルズ / ESTEMPLAZA SHINAGAWA SOUTHHILLS,,Open for 24 hours
+,品川区,西五反田八丁目,-,東京都品川区西五反田８丁目１２−３ 開進義塾,35.618661,139.718570,I1-122.エルフォルテ 五反田 / L-Forte GOTANDA,,Open for 24 hours
+,品川区,小山二丁目,-,東京都品川区小山２丁目６−２３,35.621396,139.706049,"I1-124.東急武蔵小山駅東口駐輪場	/ Tokyu Musashi-koyama Station East Exit Bicycle Parking
+",,-
+,品川区,荏原七丁目,-,東京都品川区荏原７丁目６−９,35.612153,139.700624,"I1-126.摩耶寺	/ Mayaji
+",,-
+,渋谷区,宇田川町,-,東京都渋谷区宇田川町２ M1-01.渋谷区役所,35.663608,139.698073,M1-01.渋谷区役所 / Shibuya City Office,,Open for 24 hours
+,渋谷区,恵比寿二丁目,-,東京都渋谷区恵比寿２丁目１２ M2-01.恵比寿保健相談所（恵比寿社会教育館）,35.645240,139.719460,M2-01.恵比寿保健相談所（恵比寿社会教育館）/ Ebisu Public Health Consultation Center,,Open for 24 hours
+,渋谷区,恵比寿四丁目,-,東京都渋谷区恵比寿４丁目１９ M2-02.アメリカ橋公園,35.643606,139.713099,M2-02.アメリカ橋公園 / American Bridge Park,,Open for 24 hours
+,渋谷区,恵比寿南一丁目,-,東京都渋谷区恵比寿南１丁目５ M2-03.サイカパーク恵比寿,35.646581,139.710613,M2-03.サイカパーク恵比寿(2階) / Saika Park Ebisu (2nd floor) ,,Open for 24 hours
+,渋谷区,広尾四丁目,-,東京都渋谷区広尾４丁目２ M2-04.広尾東公園,35.653382,139.721059,M2-04.広尾東公園 / Hiroo-Higashi Park,,Open for 24 hours
+,渋谷区,広尾四丁目,-,東京都渋谷区広尾４丁目１ M2-05.日本赤十字医療センター,35.655190,139.718559,M2-05.日本赤十字医療センター / Japanese Red Cross Medical Center,,Open for 24 hours
+,渋谷区,恵比寿一丁目,-,東京都渋谷区恵比寿１丁目２７ M2-06.あいおいニッセイ同和損保恵比寿ビル,35.647237,139.715120,M2-06.あいおいニッセイ同和損保恵比寿ビル / Aioi Nissay Dowa Insurance Ebisu Bldg.,,Open for 24 hours
+,渋谷区,恵比寿一丁目,-,東京都渋谷区恵比寿１丁目１９−２３,35.647100,139.712818,M2-07.ファミリーマート恵比寿駅東店 / FamilyMart Ebisu Station East Store,,Open for 24 hours
+,渋谷区,鉢山町,-,東京都渋谷区鉢山町９ M2-11.鉢山町,35.652151,139.698426,M2-11.鉢山町 / Hachiyama-cho,,Open for 24 hours
+,渋谷区,広尾一丁目,-,東京都渋谷区広尾１丁目１ M2-12.恵比寿プライムスクエアタワー北,35.650541,139.713361,"M2-12.恵比寿プライムスクエアタワー北	/ Ebisu Prime Square Tower North
+",,-
+,渋谷区,広尾一丁目,-,東京都渋谷区広尾１丁目１ M2-13.恵比寿プライムスクエアタワー南,35.649257,139.713272,M2-13.恵比寿プライムスクエアタワー南 / Ebisu Prime Square Tower South,,Open for 24 hours
+,渋谷区,道玄坂一丁目,-,東京都渋谷区道玄坂１丁目１２−1⃣,35.657665,139.697203,M3-01.渋谷マークシティ / SHIBUYA MARK CITY,, Open 6:00-23:59
+,渋谷区,猿楽町,-,東京都渋谷区猿楽町１４ M3-03.代官山 T-SITE,35.649823,139.700139,M3-03.代官山T-SITE / DAIKANYAMA T-SITE,,Open for 24 hours
+,渋谷区,渋谷三丁目,-,東京都渋谷区渋谷３丁目７ M3-06.渋谷第一生命ビル,35.657508,139.704371,M3-06.渋谷第一生命ビル / Shibuya Daiichi Seimei Bldg.,,Open for 24 hours
+,渋谷区,神泉町,-,東京都渋谷区神泉町８−２,35.655092,139.693851,M3-07.渋谷ファーストプレイス / Shibuya First Place,,Open for 24 hours
+,渋谷区,宇田川町,-,東京都渋谷区宇田川町１９ M3-09.ティップ.クロス TOKYO 渋谷,35.661475,139.699296,M3-09.ティップ.クロス TOKYO 渋谷 / TIP.X TOKYO Shibuya,,Open for 24 hours
+,渋谷区,恵比寿一丁目,-,東京都渋谷区恵比寿１丁目１６ M3-10.ウノサワ東急ビル,35.647757,139.712981,M3-10.ウノサワ東急ビル / Unosawa Tokyu Bldg,,Open for 24 hours
+,渋谷区,道玄坂一丁目,-,東京都渋谷区道玄坂１丁目１３−５,35.657180,139.698687,M3-11.渋谷道玄坂東急ビル/ Shibuya Dogenzaka Tokyu Bldg,,OPEN 5:10 - 23:50
+,渋谷区,渋谷三丁目,-,東京都渋谷区渋谷３丁目１２ M3-12.渋谷南東急ビル,35.656228,139.706284,M3-12.渋谷南東急ビル / Shibuya South Tokyu Bldg.,,Open for 24 hours
+,渋谷区,渋谷三丁目,-,東京都渋谷区渋谷３丁目１９−１９,35.657682,139.703307,M3-13.渋谷駅東口地下駐輪場 / Shibuya Station East Bicycle Basement,,/ Open 4:45～24:30
+,渋谷区,恵比寿西一丁目,-,東京都渋谷区恵比寿西１丁目３３−３ 光雲閣 ４０３,35.647355,139.703964,M3-15.co-ba ebisu,,Open for 24 hours
+,渋谷区,渋谷一丁目,-,東京都渋谷区渋谷１丁目２３ M3-19.渋谷キャスト,35.662146,139.702793,M3-19.渋谷キャスト / SHIBUYA CAST,,Open for 24 hours
+,渋谷区,渋谷三丁目,-,東京都渋谷区渋谷３丁目２６ M3-20.東急ステイ渋谷新南口,35.654940,139.705340,M3-20.東急ステイ渋谷新南口 / TOKYU STAY Shibuya Shin-minamiguchi,,Open for 24 hours
+,渋谷区,道玄坂一丁目,-,東京都渋谷区道玄坂１丁目２２ M3-21.渋谷ソラスタ,35.656180,139.696120,M3-21.渋谷ソラスタ / SHIBUYA SOLASTA,,Open for 24 hours
+,渋谷区,恵比寿三丁目,-,東京都渋谷区恵比寿３丁目１ M3-22.森谷ビル,35.645140,139.716860,M3-22.森谷ビル / Moriya Bldg,,Open for 24 hours
+,渋谷区,円山町,-,東京都渋谷区円山町７−１,35.658230,139.694885,M3-23.円山町7-1 / Maruyama-cho7-1,,OPEN 6:00-22:00
+,渋谷区,道玄坂二丁目,-,東京都渋谷区道玄坂２丁目２５ M3-24.渋谷道玄坂２丁目駐輪場,35.660260,139.696840,M3-24.渋谷道玄坂２丁目駐輪場 / Shibuya Dogenzaka bicycle parking lot,,/ Open　7:00～20:00
+,新宿区,新宿三丁目,-,東京都新宿区新宿３丁目３−２,35.687303,139.702820,M4-01.新宿タカシマヤ / TAKASHIMAYA Shinjuku Store,,Open for 24 hours
+,渋谷区,千駄ケ谷五丁目,-,東京都渋谷区千駄ケ谷５丁目２４ M4-03.NTTドコモ代々木ビル,35.684451,139.702884,M4-03.NTTドコモ代々木ビル / NTT Docomo Yoyogi Bldg.,,Open for 24 hours
+,渋谷区,神宮前一丁目,-,東京都渋谷区神宮前１丁目４ M4-06.THE SHARE 原宿,35.671823,139.708158,M4-06.THE SHARE 原宿 / THE SHARE Harajuku,,Open for 24 hours
+,渋谷区,千駄ケ谷一丁目,-,東京都渋谷区千駄ケ谷１丁目３５ M4-07.千駄ヶ谷駅前,35.680820,139.711880,M4-07.千駄ヶ谷駅前 / Sendagaya Station,,Open for 24 hours
+,渋谷区,神宮前六丁目,-,東京都渋谷区神宮前６丁目１２ M4-13.J-cube,35.666160,139.704580,M4-13.J-cube,,Open for 24 hours
+,渋谷区,神宮前六丁目,-,東京都渋谷区神宮前６丁目３５ M4-16.神宮前6丁目,35.668673,139.702816,M4-16.神宮前6丁目 / Jingumae 6-chome,,Open for 24 hours
+,渋谷区,初台一丁目,-,東京都渋谷区初台１丁目３６ M5-01.初台駅南口,35.680158,139.685937,M5-01.初台駅南口 / Hatsudai Sta. South Exit,,Open for 24 hours
+,渋谷区,代々木三丁目,-,東京都渋谷区代々木３丁目２５ M5-02.あいおいニッセイ同和損保新宿ビル,35.684423,139.692262,M5-02.あいおいニッセイ同和損保新宿ビル / Aioi Nissay Dowa Insurance Shinjuku Bldg.,,Open for 24 hours
+,渋谷区,大山町二丁目,-,東京都渋谷区大山町２丁目５３ M5-03.代々木大山公園,35.671282,139.675307,M5-03.代々木大山公園 / Yoyogi Oyama Park,,Open for 24 hours
+,渋谷区,上原三丁目,-,東京都渋谷区上原３丁目５ M5-08.古賀政男音楽博物館,35.668091,139.680243,M5-08.古賀政男音楽博物館 / Koga Masao Music Museum,,Open for 24 hours
+,渋谷区,西原三丁目,-,東京都渋谷区西原３丁目８ M5-09.代々木上原駅前,35.668650,139.679251,M5-09.代々木上原駅前 / Yoyogi-Uehara Station,,Open for 24 hours
+,渋谷区,富ケ谷二丁目,-,東京都渋谷区富ケ谷２丁目４ M5-10.富ヶ谷2丁目,35.665961,139.686491,M5-10.富ヶ谷2丁目 / Tomigaya 2 chome,,Open for 24 hours
+,渋谷区,代々木二丁目,-,東京都渋谷区代々木２丁目９ M5-11.あおい通り,35.688154,139.698975,M5-11.あおい通り/ Aoi Street,,Open for 24 hours
+,渋谷区,初台二丁目,-,東京都渋谷区初台２丁目６ M5-13.セブン-イレブン初台店,35.675049,139.684440,M5-13.セブン-イレブン初台店 / Seven-Eleven Hatsudai Store,,Open for 24 hours
+,渋谷区,代々木二丁目,-,東京都渋谷区代々木２丁目１−１,35.686567,139.699355,M5-15.新宿マインズタワー / SHINJUKU MAYNDS TOWER,,Open for 24 hours
+,渋谷区,代々木二丁目,-,東京都渋谷区代々木２丁目２ M5-17.小田急サザンタワー,35.686600,139.700140,M5-17.小田急サザンタワー / Odakyu Southern Tower,,Open for 24 hours
+,渋谷区,初台一丁目,-,東京都渋谷区初台１丁目１１ M5-18.Luxe初台,35.679182,139.685960,M5-18.Luxe初台 / Luxe Hatsudai,,Open for 24 hours
+,渋谷区,代々木一丁目,-,東京都渋谷区代々木１丁目４４ M5-19.グランリヴィエール代々木,35.682850,139.698528,M5-19.グランリヴィエール代々木 / Grand Riviere Yoyogi,,Open for 24 hours
+,渋谷区,富ケ谷二丁目,-,東京都渋谷区富ケ谷２丁目１４ M5-20.富ヶ谷214,35.663579,139.687435,"M5-20.富ヶ谷214 / TOMIGAYA214
+",,-
+,渋谷区,幡ケ谷一丁目,-,東京都渋谷区幡ケ谷１丁目１３ M6-01.幡ヶ谷駅高架下第一,35.677175,139.676769,M6-01.幡ヶ谷駅高架下第一 / Hatagaya Sta. Underpass 1st,,Open for 24 hours
+,渋谷区,笹塚一丁目,-,東京都渋谷区笹塚１丁目３０ M6-02.サイカパーク笹塚,35.673444,139.666553,M6-02.サイカパーク笹塚 / Saika Park Sasazuka,,Open for 24 hours
+,渋谷区,笹塚三丁目,-,東京都渋谷区笹塚３丁目２７ M6-03.十三号通り公園,35.675198,139.663587,M6-03.十三号通り公園 / 13 St. Park,,Open for 24 hours
+,渋谷区,本町四丁目,-,東京都渋谷区本町４丁目１０−１,35.687126,139.680702,M6-04.本町東べんてん橋公園 / Honmachi-Higashi Benten Bridge Park,,Open for 24 hours
+,渋谷区,幡ケ谷二丁目,-,東京都渋谷区幡ケ谷２丁目５３,35.678881,139.674349,M6-05.七号通り公園 / 7 St. Park,,Open for 24 hours
+,渋谷区,笹塚二丁目,-,東京都渋谷区笹塚２丁目１ M6-07.笹塚東,35.675436,139.670594,M6-07.笹塚東 / Sasazuka Higashi,,Open for 24 hours
+,渋谷区,本町六丁目,-,東京都渋谷区本町６丁目２６ M6-08.Be Good 幡ヶ谷,35.682453,139.677687,M6-08.Be Good 幡ヶ谷 / Be Good Hatagaya,,Open for 24 hours
+,渋谷区,本町二丁目,-,東京都渋谷区本町２丁目２−１,35.683756,139.684965,M6-09.ファミリーマート渋谷本町店 / Family Mart Shibuya Honmachi Store,,Open for 24 hours
+,渋谷区,幡ケ谷一丁目,-,東京都渋谷区幡ケ谷１丁目３４ M6-10.京王コインパーク幡ヶ谷,35.677200,139.678117,M6-10.京王コインパーク幡ヶ谷 / KEIO Coinpark Hatagaya,,Open for 24 hours
+,渋谷区,笹塚一丁目,-,東京都渋谷区笹塚１丁目５５ M6-11.京王サイクルパーク笹塚,35.674337,139.668801,M6-11.京王サイクルパーク笹塚 / KEIO Cyclepark Sasazuka,,Open for 24 hours
+,渋谷区,幡ケ谷三丁目,-,東京都渋谷区幡ケ谷３丁目６１ M6-12.LIVART SEASON 幡ヶ谷,35.683156,139.673380,"M6-12.LIVART SEASON 幡ヶ谷
+/ LIVART SEASON HATAGAYA",,-
+,渋谷区,西原二丁目,-,東京都渋谷区西原２丁目４０ M6-13.JICA東京,35.673409,139.675203,M6-13.JICA東京 / JICA TOKYO,,Open for 24 hours
+,渋谷区,笹塚一丁目,-,東京都渋谷区笹塚１丁目６０ M6-14.ドコモショップ笹塚店,35.673230,139.663930,M6-14.ドコモショップ笹塚店 / docomo shop Sasazuka,,Open for 24 hours
+,渋谷区,幡ケ谷二丁目,-,東京都渋谷区幡ケ谷２丁目１９ M6-15.cova Hatagaya,35.677410,139.673830,M6-15.Cova Hatagaya,,Open for 24 hours
+,渋谷区,笹塚一丁目,-,東京都渋谷区笹塚１丁目２２ M6-17.笹塚一丁目駐輪場,35.672922,139.668729,M6-17.笹塚一丁目駐輪場 / Sasazuka 1-chome bicycle parking lot,,Open for 24 hours
+,渋谷区,本町三丁目,-,東京都渋谷区本町３丁目１ M6-18.セブン-イレブン渋谷本町3丁目店,35.686521,139.685017,M6-18.セブン-イレブン渋谷本町3丁目店 / Seven-Eleven Shibuya Honmachi 3-chome,,Open for 24 hours
+,渋谷区,本町二丁目,-,東京都渋谷区本町２丁目６ M6-19.D'sVARIE初台ビル,35.683146,139.683346,M6-19.D'sVARIE初台ビル / D'sVARIE Hatsudai Building,,Open for 24 hours
