@@ -8609,7 +8609,7 @@
 { "type": "Feature", "properties": { "name": "SyntheticGestalt株式会社", "lat": 35.685651, "lon": 139.7148038 }, "geometry": { "type": "Point", "coordinates": [ 139.7148038, 35.685651 ] } },
 { "type": "Feature", "properties": { "name": "株式会社ドリームチェイサー", "lat": 35.6854171, "lon": 139.7157985 }, "geometry": { "type": "Point", "coordinates": [ 139.7157985, 35.6854171 ] } },
 { "type": "Feature", "properties": { "name": "株式会社iXgene", "lat": 35.6864857, "lon": 139.714873 }, "geometry": { "type": "Point", "coordinates": [ 139.714873, 35.6864857 ] } },
-{ "type": "Feature", "properties": { "name": "株式会社アンチパターン", "lat": 35.6142001, "lon": 139.6873087 }, "geometry": { "type": "Point", "coordinates": [ 139.687308699999988, 35.6142001 ] } },
+{ "type": "Feature", "properties": { "name": "株式会社アンチパターン", "lat": 35.66608436, "lon": 139.7121978 }, "geometry": { "type": "Point", "coordinates": [ 139.712197800000013, 35.66608436 ] } },
 { "type": "Feature", "properties": { "name": "Onebox株式会社", "lat": 35.6714095, "lon": 139.7238788 }, "geometry": { "type": "Point", "coordinates": [ 139.7238788, 35.6714095 ] } },
 { "type": "Feature", "properties": { "name": "ディヴォートソリューション株式会社", "lat": 35.6611019, "lon": 139.7150127 }, "geometry": { "type": "Point", "coordinates": [ 139.715012699999988, 35.6611019 ] } },
 { "type": "Feature", "properties": { "name": "株式会社ログリオ", "lat": 35.7008703, "lon": 139.7284205 }, "geometry": { "type": "Point", "coordinates": [ 139.7284205, 35.7008703 ] } },

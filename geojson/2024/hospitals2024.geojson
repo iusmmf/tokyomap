@@ -3556,7 +3556,7 @@
 { "type": "Feature", "properties": { "name": "東京メモリアルクリニック", "lat": 35.6867, "lon": 139.69584 }, "geometry": { "type": "Point", "coordinates": [ 139.69584, 35.6867 ] } },
 { "type": "Feature", "properties": { "name": "山本英博クリニック", "lat": 35.65906, "lon": 139.69742 }, "geometry": { "type": "Point", "coordinates": [ 139.69742, 35.65906 ] } },
 { "type": "Feature", "properties": { "name": "笹塚クリニック", "lat": 35.67524, "lon": 139.67113 }, "geometry": { "type": "Point", "coordinates": [ 139.67113, 35.67524 ] } },
-{ "type": "Feature", "properties": { "name": "医療法人社団奏有会 文化村通りクリニック", "lat": 35.65086, "lon": 139.66154 }, "geometry": { "type": "Point", "coordinates": [ 139.66154, 35.65086 ] } },
+{ "type": "Feature", "properties": { "name": "医療法人社団奏有会 文化村通りクリニック", "lat": 35.65632, "lon": 139.69221 }, "geometry": { "type": "Point", "coordinates": [ 139.69221, 35.65632 ] } },
 { "type": "Feature", "properties": { "name": "吉峰内科胃腸科", "lat": 35.65456, "lon": 139.70697 }, "geometry": { "type": "Point", "coordinates": [ 139.70697, 35.65456 ] } },
 { "type": "Feature", "properties": { "name": "医療法人社団回心会 回心堂病院", "lat": 35.67763, "lon": 139.67596 }, "geometry": { "type": "Point", "coordinates": [ 139.67596, 35.67763 ] } },
 { "type": "Feature", "properties": { "name": "つじ醫院", "lat": 35.67552, "lon": 139.66818 }, "geometry": { "type": "Point", "coordinates": [ 139.66818, 35.67552 ] } },
