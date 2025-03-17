@@ -2,7 +2,7 @@
 出典,Forbes,,,,,,,,,,,,,,
 年次,2024年,,,,,,,,,,,,,,
 URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/2024/",,,,,,,,,,,,,,
-備考,2019：157件　2020：165件　2021：163件　2022：150件　2023：141件　2024年：145件,,,,,,,,,,,,,,
+備考,2019：157件　2020：165件　2021：163件　2022：150件　2023：141件　2024年：137件,,,,,,,,,,,,,,
 ,,,,,,,,,Forbes,,,,,,
 区,町丁,エリア,住所,緯度,経度,Name,会社名,Ranking,Rank,SALES,PROFIT,ASSETS,MARKETVALUE,Employees,URL
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内１丁目７番１号,35.683174,139.767101,Mitsubishi UFJ Financial,三菱ＵＦＪフィナンシャル・グループ,Forbes Global 2024,39,$74.02 B,$10.31 B,"$2,667.44 B",$117.21 B,135049,https://www.forbes.com/companies/mitsubishi-ufj-financial/?list=global2000
@@ -36,7 +36,6 @@ URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/20
 港区,赤坂２丁目,赤坂,東京都港区赤坂２丁目３番６号,35.670873,139.74211,Komatsu,株式会社　小松製作所,Forbes Global 2024,435,$26.78 B,$2.72 B,$37.24 B,$27.97 B,64343,https://www.forbes.com/companies/komatsu/?list=global2000
 千代田区,丸の内３丁目,大丸有,東京都千代田区丸の内三丁目２番３号,35.677699,139.761735,Mitsubishi Heavy Industries,三菱重工業株式会社,Forbes Global 2024,447,$32.21 B,$1.54 B,$41.34 B,$29.64 B,77283,https://www.forbes.com/companies/mitsubishi-heavy-industries/?list=global2000
 港区,東新橋１丁目,虎ノ門広域,東京都港区東新橋１－９－１,35.663042,139.76131,Softbank,ソフトバンク株式会社,Forbes Global 2024,461,$46.73 B,$-1.72 B,$308.73 B,$80.64 B,59721,https://www.forbes.com/companies/softbank/?list=global2000
-大田区,下丸子３丁目,－,東京都大田区下丸子3-30-2,35.56673,139.68355,Canon,キヤノン株式会社,Forbes Global 2024,467,$29.03 B,$1.85 B,$37.93 B,$27.53 B,169151,https://www.forbes.com/companies/canon/?list=global2000
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内１－９－２,35.678637,139.767375,Recruit Holdings,株式会社リクルートホールディングス,Forbes Global 2024,485,$23.63 B,$2.45 B,$20.78 B,$76.5 B,51757,https://www.forbes.com/companies/recruit-holdings/?list=global2000
 中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町２丁目１番１号,35.686796,139.772981,Mitsui Fudosan,三井不動産株式会社,Forbes Global 2024,499,$16.48 B,$1.55 B,$62.7 B,$26.23 B,24408,https://www.forbes.com/companies/mitsui-fudosan/?list=global2000
 千代田区,内幸町１丁目,－,東京都千代田区内幸町１丁目１番３号,35.670106,139.758431,Tokyo Electric Power,東京電力ホールディングス株式会社,Forbes Global 2024,517,$47.84 B,$1.85 B,$96.44 B,$9.81 B,37891,https://www.forbes.com/companies/tokyo-electric-power/?list=global2000
@@ -46,7 +45,6 @@ URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/20
 港区,赤坂５丁目,赤坂,東京都港区赤坂五丁目３番１号　赤坂Ｂｉｚタワー,35.673175,139.736359,Inpex,国際石油開発帝石株式会社,Forbes Global 2024,564,$15.1 B,$2.36 B,$48.24 B,$19.08 B,3531,https://www.forbes.com/companies/inpex/?list=global2000
 港区,東新橋１丁目,虎ノ門広域,東京都港区東新橋１丁目５－２,35.665401,139.761062,Fujitsu,富士通株式会社,Forbes Global 2024,580,$25.98 B,$1.76 B,$23.22 B,$27.93 B,124055,https://www.forbes.com/companies/fujitsu/?list=global2000
 港区,赤坂５丁目,赤坂,東京都港区赤坂５－３－１　赤坂Ｂｉｚタワー,35.673175,139.736359,Tokyo Electron,東京エレクトロン株式会社,Forbes Global 2024,634,$12.66 B,$2.52 B,$16.23 B,$107.51 B,15634,https://www.forbes.com/companies/tokyo-electron/?list=global2000
-墨田区,吾妻橋１丁目,－,東京都墨田区吾妻橋１丁目２３−１,35.71011,139.80070,Asahi Group Holdings,アサヒグループ,Forbes Global 2024,648,$19.57 B,$1.16 B,$35.68 B,$19.31 B,28639,https://www.forbes.com/companies/asahi-group-holdings/?list=global2000
 中央区,日本橋本町３丁目,日八京,東京都中央区日本橋本町三丁目５番１号,35.68832,139.775066,Daiichi Sankyo,第一三共株式会社,Forbes Global 2024,677,$11.08 B,$1.39 B,$22.87 B,$68.24 B,16033,https://www.forbes.com/companies/daiichi-sankyo/?list=global2000
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内１丁目４－１,35.684356,139.764932,Sumitomo Mitsui Trust,三井住友トラスト・ホールディングス株式会社,Forbes Global 2024,688,$15.07 B,$547.7 M,$501.35 B,$16.52 B,22024,https://www.forbes.com/companies/sumitomo-mitsui-trust/?list=global2000
 港区,芝５丁目,－,東京都港区芝五丁目７番１号,35.649428,139.74794,NEC,日本電気株式会社,Forbes Global 2024,690,$24.05 B,$1.03 B,$27.93 B,$18.8 B,118527,https://www.forbes.com/companies/nec/?list=global2000
@@ -65,8 +63,6 @@ URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/20
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内１－１－１,35.6845,139.761221,Mitsubishi Chemical,三菱ケミカル株式会社,Forbes Global 2024,869,$30.34 B,$827.1 M,$40.34 B,$7.46 B,68639,https://www.forbes.com/companies/mitsubishi-chemical/?list=global2000
 新宿区,西新宿２丁目,－,東京都新宿区西新宿二丁目４番１号,35.688037,139.693512,Sumitomo Realty,住友不動産株式会社,Forbes Global 2024,887,$6.69 B,$1.23 B,$44.13 B,$15.67 B,13040,https://www.forbes.com/companies/sumitomo-realty/?list=global2000
 港区,海岸１丁目,－,東京都港区海岸１－５－２０,35.65345,139.758554,Tokyo Gas,東京ガス株式会社,Forbes Global 2024,914,$18.43 B,$1.18 B,$25.7 B,$8.7 B,16858,https://www.forbes.com/companies/tokyo-gas/?list=global2000
-世田谷区,玉川１丁目,－,東京都世田谷区玉川１丁目１４−１,35.61055,139.63007,Rakuten,楽天グループ株式会社,Forbes Global 2024,936,$14.59 B,$-2.07 B,$157.59 B,$10.98 B,30830,https://www.forbes.com/companies/rakuten/?list=global2000
-中野区,中野４丁目,－,東京都中野区中野４丁目１０−２,35.70682,139.66169,Kirin Holdings,キリンホールディングス株式会社,Forbes Global 2024,1000,$15.12 B,$919.8 M,$19.85 B,$11.66 B,30183,https://www.forbes.com/companies/kirin-holdings/?list=global2000
 港区,東新橋１丁目,虎ノ門広域,東京都港区東新橋１－５－２　汐留シティセンター,35.665497,139.760881,All Nippon Airways,全日本空輸株式会社,Forbes Global 2024,1015,$14.22 B,$1.09 B,$23.59 B,$9.09 B,46580,https://www.forbes.com/companies/all-nippon-airways/?list=global2000
 港区,六本木１丁目,虎ノ門,東京都港区六本木１丁目６番１号,35.664562,139.739496,SBI Holdings,ＳＢＩホールディングス株式会社,Forbes Global 2024,1084,$8.43 B,$603.3 M,$179.78 B,$7.58 B,17496,https://www.forbes.com/companies/sbi-holdings/?list=global2000
 港区,元赤坂１丁目,赤坂,東京都港区元赤坂１－３－１,35.67731,139.734376,Kajima,鹿島建設株式会社,Forbes Global 2024,1116,$18.43 B,$795.5 M,$20.71 B,$8.27 B,19400,https://www.forbes.com/companies/kajima/?list=global2000
@@ -83,7 +79,6 @@ URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/20
 渋谷区,幡ケ谷２丁目,－,東京都渋谷区幡ヶ谷２－４４－１,35.679021,139.675352,Terumo,テルモ株式会社,Forbes Global 2024,1332,$6.38 B,$735.6 M,$12.1 B,$26.02 B,28294,https://www.forbes.com/companies/terumo/?list=global2000
 港区,港南２丁目,－,東京都港区港南２丁目１５番２号,35.626151,139.74206,Obayashi,株式会社大林組,Forbes Global 2024,1352,$16.08 B,$519.1 M,$19.93 B,$8.31 B,15470,https://www.forbes.com/companies/obayashi/?list=global2000
 千代田区,神田練塀町,－,東京都千代田区神田練塀町３,35.700361,139.774005,Tokyo Century,東京センチュリー株式会社,Forbes Global 2024,1372,$9.31 B,$498.9 M,$42.69 B,$4.78 B,7634,https://www.forbes.com/companies/tokyo-century/?list=global2000
-大田区,大森北２丁目,－,東京都大田区大森北２丁目１３−１１,35.58660,139.73407,DISCO Corp.,株式会社ディスコ,Forbes Global 2024,1408,$2.13 B,$582.3 M,$3.67 B,$39.08 B,3863,https://www.forbes.com/companies/disco-corp/?list=global2000
 中央区,新川２丁目,－,東京都中央区新川２丁目２７番１号　東京住友ツインビル（東館）,35.673592,139.784448,Sumitomo Chemical,住友化学株式会社,Forbes Global 2024,1424,$16.92 B,$-2.16 B,$26 B,$3.38 B,34703,https://www.forbes.com/companies/sumitomo-chemical/?list=global2000
 中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町２－１－１,35.686796,139.772981,Toray Industries,東レ株式会社,Forbes Global 2024,1426,$17.04 B,$151.4 M,$22.91 B,$8.11 B,48842,https://www.forbes.com/companies/toray-industries/?list=global2000
 渋谷区,神宮前１丁目,－,東京都渋谷区神宮前１丁目５番１号,35.671326,139.70712,Secom,セコム株式会社,Forbes Global 2024,1434,$7.99 B,$705 M,$13.75 B,$13.52 B,71177,https://www.forbes.com/companies/secom/?list=global2000
@@ -104,14 +99,11 @@ URL,"https://www.forbes.com/global2000, https://fortune.com/ranking/global500/20
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内一丁目５番１号,35.682543,139.764287,AGC,ＡＧＣ株式会社,Forbes Global 2024,1667,$14.03 B,$157.5 M,$19.75 B,$7.5 B,56724,https://www.forbes.com/companies/agc/?list=global2000
 新宿区,市谷加賀町１丁目,－,東京都新宿区市谷加賀町１丁目１番１号,35.695623,139.731017,Dai Nippon Printing,大日本印刷株式会社,Forbes Global 2024,1674,$9.85 B,$767.1 M,$12.92 B,$7.37 B,36246,https://www.forbes.com/companies/dai-nippon-printing/?list=global2000
 中央区,八重洲２丁目,日八京,東京都中央区八重洲２丁目７番１５号,35.677204,139.768215,Medipal Holdings,株式会社メディパルホールディングス,Forbes Global 2024,1689,$24.61 B,$286.8 M,$11.89 B,$3.03 B,12801,https://www.forbes.com/companies/medipal-holdings/?list=global2000
-台東区,台東１丁目,－,東京都台東区台東1丁目5番1号,35.70075,139.77818,Toppan Printing,TOPPANホールディングス株式会社,Forbes Global 2024,1715,$11.61 B,$514.5 M,$16.07 B,$7.83 B,54336,https://www.forbes.com/companies/toppan-printing/?list=global2000
 港区,六本木１丁目,虎ノ門,東京都港区六本木一丁目６－１　泉ガーデンタワー１８階,35.665238,139.739596,SBI Sumishin Net Bank,住信ＳＢＩネット銀行,Forbes Global 2024,1715,$819 M,$171.8 M,$70.54 B,$2.56 B,607,https://www.forbes.com/companies/sbi-sumishin-net-bank/?list=global2000
 千代田区,内幸町２丁目,－,東京都千代田区内幸町２丁目１番１号　飯野ビルディング,35.670784,139.752325,Kawasaki Kisen Kaisha,川崎汽船株式会社,Forbes Global 2024,1723,$6.66 B,$724.6 M,$13.94 B,$10.5 B,5158,https://www.forbes.com/companies/kawasaki-kisen-kaisha/?list=global2000
 千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内１丁目６番２号,35.684122,139.766415,Advantest,株式会社アドバンテスト,Forbes Global 2024,1740,$3.36 B,$430.8 M,$4.43 B,$26.32 B,5261,https://www.forbes.com/companies/advantest/?list=global2000
-北区,神谷３丁目,－,東京都北区神谷三丁目6番20号,35.77131,139.73436,Nitori Holdings,株式会社ニトリホールディングス,Forbes Global 2024,1763,$6.2 B,$598.4 M,$8.18 B,$13.44 B,18984,https://www.forbes.com/companies/nitori-holdings/?list=global2000
 千代田区,大手町１丁目,大丸有,東京都千代田区大手町１丁目１番３号,35.685966,139.762736,Alfresa Holdings,アルフレッサ　ホールディングス株式会社,Forbes Global 2024,1787,$19.77 B,$204.4 M,$9.56 B,$2.55 B,11925,https://www.forbes.com/companies/alfresa-holdings/?list=global2000
 千代田区,大手町１丁目,大丸有,東京都千代田区大手町１－９－２　大手町フィナンシャルシティ　グランキューブ,35.688293,139.762509,Nomura Research Institute,野村総合研究所,Forbes Global 2024,1806,$5.09 B,$550.8 M,$6.1 B,$15.94 B,6507,https://www.forbes.com/companies/nomura-research/?list=global2000
-大田区,中馬込１丁目,－,東京都大田区中馬込１丁目３−６ リコー大森事業所,35.59777,139.70600,Ricoh,株式会社リコー,Forbes Global 2024,1821,$16.24 B,$305.5 M,$15.11 B,$4.93 B,81017,https://www.forbes.com/companies/ricoh/?list=global2000
 港区,東新橋１丁目,虎ノ門広域,東京都港区東新橋１丁目８－１,35.664984,139.762365,Dentsu,株式会社　電通,Forbes Global 2024,1836,$9.21 B,$-117.8 M,$23.95 B,$7.05 B,71127,https://www.forbes.com/companies/dentsu/?list=global2000
 中央区,京橋２丁目,日八京,東京都中央区京橋二丁目１６番１号,35.676457,139.773033,Shimizu,清水建設株式会社,Forbes Global 2024,1843,$13.87 B,$118.7 M,$16.77 B,$4.04 B,10845,https://www.forbes.com/companies/shimizu/?list=global2000
 港区,海岸１丁目,－,東京都港区海岸１丁目１４丁目５,35.65436,139.761658,Kawasaki Heavy Industries,川崎重工業株式会社,Forbes Global 2024,1844,$12.79 B,$175.5 M,$17.71 B,$5.95 B,38254,https://www.forbes.com/companies/kawasaki-heavy-industries/?list=global2000
