@@ -3,6 +3,7 @@
 　List of years
 ---------------------------------------------------------------------------- */
 let years = [
+    "2025",
     "2024",
     "2023",
     "2022",
@@ -83,6 +84,39 @@ while (i < items.length) {
 　List of data sources
 ---------------------------------------------------------------------------- */
 var sourcelayer = [
+        /* 2025 */
+    ['forbesglobal2025', './geojson/2025/forbesglobal2025.geojson'],
+    ['fortuneglobal2025', './geojson/2025/fortuneglobal2025.geojson'],
+    ['startups2025', './geojson/2025/startups2025.geojson'],
+    ['coworking2025', './geojson/2025/coworking2025.geojson'],
+    ['touristspots2025', './geojson/2025/touristspots2025.geojson'],
+    ['culturalassets2025', './geojson/2025/culturalassets2025.geojson'],
+    ['temples2025', './geojson/2025/temples2025.geojson'],
+    ['museums2025', './geojson/2025/museums2025.geojson'],
+    ['galleries2025', './geojson/2025/galleries2025.geojson'],
+    ['theaters2025', './geojson/2025/theaters2025.geojson'],
+    ['stadiums2025', './geojson/2025/stadiums2025.geojson'],
+    ['conventions2025', './geojson/2025/conventions2025.geojson'],
+    ['intlmeetings2025', './geojson/2025/intlmeetings2025.geojson'],
+    ['hotels2025', './geojson/2025/hotels2025.geojson'],
+    ['restaurants2025', './geojson/2025/restaurants2025.geojson'],
+    ['michelin2025', './geojson/2025/michelin2025.geojson'],
+    ['tabelog2025', './geojson/2025/tabelog2025.geojson'],
+    ['nightlife2025', './geojson/2025/nightlife2025.geojson'],
+    ['universities2025', './geojson/2025/universities2025.geojson'],
+    ['schools2025', './geojson/2025/schools2025.geojson'],
+    ['nurseries2025', './geojson/2025/nurseries2025.geojson'],
+    ['intlschools2025', './geojson/2025/intlschools2025.geojson'],
+    ['sportsvenues2025', './geojson/2025/sportsvenues2025.geojson'],
+    ['conveniencestores2025', './geojson/2025/conveniencestores2025.geojson'],
+    ['supermarkets2025', './geojson/2025/supermarkets2025.geojson'],
+    ['drugstores2025', './geojson/2025/drugstores2025.geojson'],
+    ['hospitals2025', './geojson/2025/hospitals2025.geojson'],
+    ['banks2025', './geojson/2025/banks2025.geojson'],
+    ['embassies2025', './geojson/2025/embassies2025.geojson'],
+    ['stations2025', './geojson/2025/stations2025.geojson'],
+    ['busstops2025', './geojson/2025/busstops2025.geojson'],
+    ['sharecycles2025', './geojson/2025/sharecycles2025.geojson'],
     /* 2024 */
     ['forbesglobal2024', './geojson/2024/forbesglobal2024.geojson'],
     ['fortuneglobal2024', './geojson/2024/fortuneglobal2024.geojson'],
