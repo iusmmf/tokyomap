@@ -1,0 +1,399 @@
+﻿0,1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,,
+,指標名,ミシュラン掲載レストラン,,,,,,,3つ星,特別な料理,
+,出典,ミシュランガイド東京 2025,,,,,,,2つ星,優れた料理,
+,年次,2025年,,,,,,,1つ星,高品質な料理,
+,URL,https://guide.michelin.com/jp/ja/tokyo-region/restaurants,,,,,,,ビブグルマン,価格以上の満足感が得られる料理,
+,備考,（2019年：318件、2020年：322件、2022年度：318件、2023年度：400件、2024年度：419件、2025年度：390件）,,,,,,,,,
+,,,,,,,,,,,
+,区,町丁,エリア,住所,緯度,経度,店舗名,カテゴリ,星数,価格帯,URL
+,江東区,三好２丁目,-,東京都江東区三好2-15-12,35.6802794,139.8026875,オーツー／O2,中国料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/o2
+,江東区,森下１丁目,-,東京都江東区森下1-7-6,35.6869308,139.797613,たかはし／Takahashi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/takahashi-1205597
+,江東区,富岡１丁目,-,東京都江東区富岡1-24-11,35.6703625,139.798532,トラットリア ブカ・マッシモ／TRATTORIA BUCA'MASSIMO,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/trattoria-buca-massimo
+,江東区,清澄２丁目,-,東京都江東区清澄2-15-4,35.683252,139.796714,清澄 たか原／Kiyosumi Takahara,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kiyosumi-takahara
+,江東区,白河１丁目,-,東京都江東区白河1-3-6,35.6815296,139.7994541,エマン／eman,スペイン料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/eman
+,江東区,富岡１丁目,-,東京都江東区富岡1-2-9,35.6711342,139.7962245,渡辺料理店／Watanabe Ryouri-mise,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/watanabe-ryouri-mise
+,港区,南麻布５丁目,-,東京都港区南麻布5-1-5,35.6557897,139.7229868,分とく山／Waketokuyama,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/waketokuyama
+,港区,白金１丁目,-,東京都港区白金1-1-12,35.6469763,139.7318335,ロッツォ シチリア／ROZZO SICILIA,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/rozzo-sicilia
+,港区,西麻布１丁目,-,東京都港区西麻布1-2-14b,35.6609927,139.7266246,マ・キュイジーヌ／Ma Cuisine,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ma-cuisine-1194175
+,港区,六本木１丁目,虎ノ門,東京都港区六本木1-9-10アークヒルズ仙石山森タワー,35.6634093,139.741803,ローブ／L'aube,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-aube
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-8-16,35.6555635,139.7338983,てんぷら 前平／Tempura Maehira,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-maehira
+,港区,元麻布３丁目,-,東京都港区元麻布3-11-2b,35.6569911,139.732651,元あざぶ くしま／Motoazabu Kushima,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/motoazabu-kushima
+,港区,西麻布４丁目,-,東京都港区西麻布4-11-28,35.6593434,139.7225143,氣分／KIBUN,現代風料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kibun
+,港区,南麻布２丁目,-,東京都港区南麻布2-7-23,35.6473324,139.7366675,鮨 田中／Sushi Tanaka,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-tanaka
+,港区,西麻布４丁目,-,東京都港区西麻布4-11-25,35.6592177,139.7223426,常／Towa,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/towa
+,港区,西麻布１丁目,-,東京都港区西麻布1-11-10,35.6603351,139.7242702,タクミ／Takumi,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/takumi
+,港区,三田２丁目,-,東京都港区三田2-17-29b,35.6474366,139.7401592,晴山／Seizan,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/seizan
+,港区,愛宕１丁目,虎ノ門,東京都港区愛宕1-1-1虎ノ門ヒルズレジデンシャルタワー,35.6659856,139.7485669,かんだ／Kanda,日本料理,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kanda
+,港区,西麻布２丁目,-,東京都港区西麻布2-16-1,35.6619012,139.7203494,壽修／Jushu,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jushu
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-7-2,35.6559432,139.7335607,麻布 かどわき／Azabu Kadowaki,日本料理,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/azabu-kadowaki
+,港区,南青山５丁目,-,東京都港区南青山5-4-30,35.6617646,139.7141848,宮坂／Miyasaka,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/miyasaka
+,港区,六本木６丁目,六本木,東京都港区六本木6-12-3六本木ヒルズレジデンスc棟,35.658894,139.7301459,ラ・ブリアンツァ／La Brianza,イタリア料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-brianza
+,港区,南青山４丁目,-,東京都港区南青山4-26-12b,35.6621957,139.7183206,割烹 隆／Kappo Ryu,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kappo-ryu
+,港区,六本木７丁目,六本木,東京都港区六本木7-5-11,35.6649259,139.7278073,ヒカリモノ／Hikarimono,寿司,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hikarimono
+,港区,西麻布１丁目,-,東京都港区西麻布1-10-16,35.6615594,139.7241308,西麻布 野口／Nishiazabu Noguchi,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nishiazabu-noguchi
+,港区,六本木４丁目,六本木,東京都港区六本木4-12-12,35.6647715,139.7316832,入鹿 TOKYO／IRUCA TOKYO,ラーメン,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/iruca-tokyo
+,港区,西麻布２丁目,-,東京都港区西麻布2-14-5,35.6600386,139.7227427,おそばの甲賀／Osobano Kouga,蕎麦,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/osobano-kouga
+,港区,三田３丁目,-,東京都港区三田3-4-2,35.64631,139.7428625,聖坂 和敬／Hijirizaka Wakei,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hijirizaka-wakei
+,港区,赤坂５丁目,赤坂,東京都港区赤坂5-3-1赤坂bizタワー,35.673049,139.7362794,広東名菜 赤坂璃宮／Canton Meisai Akasaka Rikyu,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/canton-meisai-akasaka-rikyu
+,港区,南青山４丁目,-,東京都港区南青山4-11-13,35.6656983,139.7176142,ジンボ ミナミ アオヤマ／JINBO MINAMI AOYAMA,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jinbo-minami-aoyama
+,港区,新橋３丁目,虎ノ門広域,東京都港区新橋3-2-3,35.6664985,139.7545666,鮨 神楽／Sushi Kagura,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-kagura
+,港区,西新橋２丁目,虎ノ門広域,東京都港区西新橋2-13-6,35.6668319,139.7516011,港式料理 鴻禧／Koshikiryori Koki,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/koshikiryori-koki
+,港区,西麻布３丁目,-,東京都港区西麻布3-2-34b,35.6594393,139.7267062,明寂／Myojaku,日本料理,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/myojaku
+,港区,白金台５丁目,-,東京都港区白金台5-13-14b,35.6377436,139.7227802,三和／Sanwa,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sanwa
+,港区,六本木７丁目,六本木,東京都港区六本木7-10-3,35.6646572,139.7292087,ブーケ・ド・フランス／Bouquet de France,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bouquet-de-france
+,港区,三田１丁目,-,東京都港区三田1-3-28,35.6544976,139.744007,宮わき／Miyawaki,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/miyawaki
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-8-7,35.6555301,139.7347368,立喰 鮨となり／Tachigui Sushi Tonari,寿司,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tachigui-sushi-tonari
+,港区,新橋６丁目,虎ノ門広域,東京都港区新橋6-13-13,35.6619505,139.7536589,天ぷら かき揚げ 之村／Tempura Kakiage Yukimura,天ぷら,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-kakiage-yukimura
+,港区,赤坂９丁目,六本木,東京都港区赤坂9-1-7,35.6680427,139.7329117,江戸前鮨 英／Edomae Sushi Hanabusa,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/edomae-sushi-hanabusa
+,港区,元麻布３丁目,-,東京都港区元麻布3-10-5,35.6568806,139.7323136,天 よこた／Ten Yokota,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ten-yokota
+,港区,白金台５丁目,-,東京都港区白金台5-17-10,35.6375432,139.7231827,アルシミスト／Alchimiste,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/alchimiste
+,港区,南青山３丁目,-,東京都港区南青山3-10-40,35.6664928,139.7142703,ミモザ／MIMOSA,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/mimosa-1194182
+,港区,東麻布３丁目,-,東京都港区東麻布3-7-5,35.6562703,139.7385296,中国飯店 富麗華／Chugoku Hanten Fureika,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chugoku-hanten-fureika
+,港区,虎ノ門５丁目,虎ノ門,東京都港区虎ノ門5-10-7麻布台ヒルズガーデンプラザd,35.661618,139.7434494,フロリレージュ／Florilège,フランス料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/florilege
+,港区,南麻布４丁目,-,東京都港区南麻布4-2-34,35.6483106,139.7237115,青草窠／Seisoka,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/seisoka
+,港区,赤坂３丁目,赤坂,東京都港区赤坂3-21-8,35.6764667,139.7361833,赤坂 島袋／Akasaka Shimabukuro,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akasaka-shimabukuro
+,港区,六本木６丁目,六本木,東京都港区六本木6-8-28,35.6601187,139.7321322,根深／Nebuka,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nebuka
+,港区,高輪２丁目,-,東京都港区高輪2-1-62,35.6410052,139.7376701,中国菜 華丘房／Chugokusai KAKYU-BOU,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chugokusai-kakyu-bou
+,港区,白金５丁目,-,東京都港区白金5-12-24,35.6453066,139.7237223,オルタナティヴ／Alternative,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/alternative
+,港区,虎ノ門２丁目,虎ノ門,東京都港区虎ノ門2-6-2虎ノ門ヒルズステーションタワー4,35.6673323,139.7473131,アポテオーズ／apothéose,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/apotheose
+,港区,南青山２丁目,-,東京都港区南青山2-11-11,35.6712475,139.7209746,鮨 龍次郎／Sushi Ryujiro,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-ryujiro
+,港区,西麻布１丁目,-,東京都港区西麻布1-4-23,35.6615201,139.7239213,西麻布 大竹／Nishiazabu Otake,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nishiazabu-otake
+,港区,北青山２丁目,-,東京都港区北青山2-9-9,35.6713881,139.7167184,鮨 将司／Sushi Masashi,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-masashi
+,港区,虎ノ門５丁目,虎ノ門,東京都港区虎ノ門5-3-3,35.6627677,139.7441996,空花／Sorahana,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sorahana
+,港区,南青山２丁目,-,東京都港区南青山2-14-15,35.6702649,139.7202398,慈華／itsuka,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/itsuka
+,港区,六本木６丁目,六本木,東京都港区六本木6-12-2六本木ヒルズレジデンスb棟,35.6588727,139.7292609,すきやばし 次郎 六本木店／Sukiyabashi Jiro Roppongiten,寿司,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sukiyabashi-jiro-roppongiten
+,港区,西新橋１丁目,虎ノ門広域,東京都港区西新橋1-23-7,35.6681603,139.7515587,新ばし 笹田／Shimbashi Sasada,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shimbashi-sasada
+,港区,麻布十番３丁目,-,東京都港区麻布十番3-7-5,35.6536524,139.7350358,麻布十番 ふくだ／Azabujuban Fukuda,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/azabujuban-fukuda
+,港区,赤坂６丁目,赤坂,東京都港区赤坂6-11-10,35.6696518,139.7348389,ワキヤ 一笑美茶樓／Wakiya Ichiemicharo,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/wakiya-ichiemicharo
+,港区,南青山７丁目,-,東京都港区南青山7-12-12b,35.6577389,139.7183863,スダチ／Sudachi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sudachi
+,港区,赤坂７丁目,赤坂,東京都港区赤坂7-5-34,35.6710196,139.7302038,ライラ／Lyla,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/lyla
+,港区,赤坂６丁目,赤坂,東京都港区赤坂6-3-9,35.6708176,139.7355288,炭火割烹 白坂／Sumibikappo SHIROSAKA,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sumibikappo-shirosaka
+,港区,麻布台３丁目,-,東京都港区麻布台3-4-11,35.6605613,139.7389574,シリーズ／Series,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/series
+,港区,赤坂９丁目,六本木,東京都港区赤坂9-7-1ザ・リッツ・カールトン東京4,35.6662932,139.7312789,エリタージュ バイ ケイ コバヤシ／Héritage by Kei Kobayashi,"フランス料理, 現代風フランス料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/heritage-by-kei-kobayashi
+,港区,白金台４丁目,-,東京都港区白金台4-9-23b,35.6384089,139.7233774,ラリューム／L'allium,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-allium
+,港区,赤坂２丁目,赤坂,東京都港区赤坂2-17-59,35.6705934,139.7379695,赤坂 渡なべ／Akasaka Watanabe,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akasaka-watanabe
+,港区,元麻布３丁目,-,東京都港区元麻布3-12-41,35.6563375,139.7317968,一平飯店／Ippei Hanten,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ippei-hanten
+,港区,北青山３丁目,-,東京都港区北青山3-4-3ののあおやま,35.6677134,139.7130365,シオ アオヤマ／sio AOYAMA,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sio-aoyama
+,港区,南青山６丁目,-,東京都港区南青山6-15-4b,35.6594485,139.7141548,ネモ／NéMo,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nemo
+,港区,元麻布３丁目,-,東京都港区元麻布3-12-4,35.6561146,139.7324911,焼鳥 ひなた／Yakitori Hinata,焼鳥,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yakitori-hinata
+,港区,赤坂６丁目,赤坂,東京都港区赤坂6-4-15,35.6702688,139.7343673,コム・ア・ラ・メゾン／COMME À LA MAISON,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/comme-a-la-maison
+,港区,六本木３丁目,六本木,東京都港区六本木3-1-1六本木ティーキューブ,35.6655427,139.7382225,エディション・コウジ シモムラ／Édition Koji Shimomura,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/edition-koji-shimomura
+,港区,西麻布２丁目,-,東京都港区西麻布2-2-2,35.6637849,139.7203369,田中田 西麻布店／Tanakada Nishiazabuten,居酒屋,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tanakada-nishiazabuten
+,港区,南青山２丁目,-,東京都港区南青山2-27-18パサージュ青山,35.6691201,139.7166316,リストランテ アクアパッツァ／Ristorante ACQUA PAZZA,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ristorante-acqua-pazza
+,港区,麻布十番３丁目,-,東京都港区麻布十番3-7-4,35.6537331,139.7350202,ラ・メゾン・コンフォターブル／La Maison Confortable,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-maison-confortable
+,港区,東麻布３丁目,-,東京都港区東麻布3-7-11,35.6563015,139.7383018,富士鮨／Fujisushi,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/fujisushi
+,港区,南青山４丁目,-,東京都港区南青山4-16-3,35.6659614,139.717079,ラス／L'AS,"フランス料理, 現代風料理",ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-as
+,港区,南麻布４丁目,-,東京都港区南麻布4-12-4,35.64748,139.724399,日日の料理 びおら／Hibinoryori Viola,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hibinoryori-viola
+,港区,白金台３丁目,-,東京都港区白金台3-18-4,35.6352612,139.7208483,クロデグルメ／Clos Des Gourmets,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/clos-des-gourmets
+,港区,南青山１丁目,-,東京都港区南青山1-23-12,35.6666523,139.7250246,乃木坂 結／Nogizaka yui,中国料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nogizaka-yui
+,港区,西麻布３丁目,-,東京都港区西麻布3-24-9b,35.6588751,139.7242628,リストランテ アルポルト／RISTORANTE Al Porto,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ristorante-al-porto
+,港区,南青山２丁目,-,東京都港区南青山2-27-16b,35.6685882,139.7169946,マルカ／malca,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/malca
+,港区,新橋１丁目,虎ノ門広域,東京都港区新橋1-8-4,35.6670775,139.7605238,トキ／TOKi,"現代風料理, 現代風スペイン料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/toki
+,港区,麻布十番１丁目,-,東京都港区麻布十番1-6-9,35.6567647,139.7342279,串揚げ料理 かわた／Kushiage Ryori Kawata,串揚げ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kushiage-ryori-kawata
+,港区,白金６丁目,-,東京都港区白金6-6-1,35.6442847,139.7256198,洋食 エドヤ／Yoshoku Edoya,洋食,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yoshoku-edoya
+,港区,六本木７丁目,六本木,東京都港区六本木7-5-11,35.6649259,139.7278073,九九九／Kukuku,"クリエイティブ, 日本料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kukuku
+,港区,西麻布４丁目,-,東京都港区西麻布4-2-5,35.6580891,139.7236063,七ひろ／NANAHIRO,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nanahiro
+,港区,虎ノ門２丁目,虎ノ門,東京都港区虎ノ門2-6-2虎ノ門ヒルズステーションタワー4,35.6673323,139.7473131,ケイ コレクション パリ／KEI Collection PARIS,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kei-collection-paris
+,港区,西麻布２丁目,-,東京都港区西麻布2-15-1,35.6616422,139.7209771,ル ブトン／Le Bouton,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/le-bouton
+,港区,西麻布２丁目,-,東京都港区西麻布2-24-14b,35.6602626,139.7223248,上／JO,牛肉料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jo
+,港区,南青山２丁目,-,東京都港区南青山2-6-15,35.6715648,139.7218885,ナリサワ／NARISAWA,イノベーティブ,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/narisawa
+,港区,白金台４丁目,-,東京都港区白金台4-2-7,35.6393592,139.7281112,シノワ／ShinoiS,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shinois
+,港区,東麻布２丁目,-,東京都港区東麻布2-26-16,35.6564907,139.7399653,ラ・リューン／La Lune,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-lune-1210250
+,港区,六本木５丁目,六本木,東京都港区六本木5-18-22,35.6610845,139.737013,メティス 六本木／Mētis Roppongi,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/metis-roppongi
+,港区,白金台５丁目,-,東京都港区白金台5-18-17,35.6371434,139.7233575,ジョンティ アッシュ／gentil H,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/gentil-h
+,港区,白金台３丁目,-,東京都港区白金台3-18-5,35.6353281,139.7210052,地蔵鮓／Jizozushi,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jizozushi
+,港区,赤坂６丁目,赤坂,東京都港区赤坂6-13-8,35.6699391,139.7340557,赤坂 菊乃井／Akasaka Kikunoi,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akasaka-kikunoi
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-7-14,35.6558855,139.7334241,クラージュ／Courage,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/courage
+,港区,赤坂８丁目,赤坂,東京都港区赤坂8-12-12,35.6700676,139.7300226,フィレモネ／Filemone,イタリア料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/filemone
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-8-12,35.6554634,139.7342076,蕎庵 三たて／Soan Mitate,蕎麦,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/soan-mitate
+,港区,白金１丁目,-,東京都港区白金1-25-32,35.6445594,139.7316039,アルチェッポ／AlCeppo,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/alceppo
+,港区,六本木６丁目,六本木,東京都港区六本木6-2-6,35.6620118,139.7307167,六本木 璃庵／ROPPONGI RIAN,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/roppongi-rian
+,港区,南麻布４丁目,-,東京都港区南麻布4-7-5,35.6495836,139.7283406,茶禅華／Sazenka,中国料理,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sazenka
+,港区,東麻布３丁目,-,東京都港区東麻布3-3-9b,35.6571259,139.7388435,御料理 辻／Oryori Tsuji,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oryori-tsuji
+,港区,赤坂６丁目,赤坂,東京都港区赤坂6-19-46,35.6677326,139.7334094,鮨 みうら／Sushi Miura,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-miura
+,港区,南青山２丁目,-,東京都港区南青山2-14-14b,35.6700211,139.7208252,ロー／L'EAU,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-eau
+,港区,赤坂８丁目,赤坂,東京都港区赤坂8-13-19b,35.6697057,139.7305956,タンモア／Le temps moelleux,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/le-temps-moelleux
+,港区,西麻布３丁目,-,東京都港区西麻布3-18-10,35.6591061,139.7260647,ジーキューブ／Ji-Cube,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ji-cube
+,港区,元麻布１丁目,-,東京都港区元麻布1-7-12,35.6525876,139.7334992,ピアット ミツ／Piatto Mitsu,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/piatto-mitsu
+,港区,新橋６丁目,虎ノ門広域,東京都港区新橋6-13-3,35.6619119,139.7540636,冨所／Tomidokoro,寿司,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tomidokoro
+,港区,西麻布１丁目,-,東京都港区西麻布1-4-23,35.6615201,139.7239213,メラキ／Merachi,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/merachi
+,港区,白金台４丁目,-,東京都港区白金台4-2-7,35.6393592,139.7281112,サーパス／CIRPAS,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/cirpas
+,港区,芝２丁目,-,東京都港区芝2-22-23,35.651405,139.750518,江戸前 芝浜／Edomae Shibahama,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/edomae-shibahama
+,港区,虎ノ門２丁目,虎ノ門,東京都港区虎ノ門2-6-2虎ノ門ヒルズステーションタワー4,35.6673323,139.7473131,ケイ コレクション パリ／KEI Collection PARIS,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kei-collection-paris
+,港区,芝２丁目,-,東京都港区芝2-18-9,35.6515389,139.7506978,佐野鮨／Sanosushi,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sanosushi
+,港区,南青山１丁目,-,東京都港区南青山1-2-6,35.6722165,139.7255094,トラットリア シチリアーナ・ドンチッチョ／TRATTORIA SICILIANA Don Ciccio,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/trattoria-siciliana-don-ciccio
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-4-8,35.6558616,139.7348335,プリンチピオ／Principio,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/principio
+,港区,西麻布２丁目,-,東京都港区西麻布2-26-4,35.6602169,139.7194309,レフェルヴェソンス／L'Effervescence,"フランス料理, 現代風料理",ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-effervescence
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-5-11,35.6562965,139.7333595,うなぎ時任／Unagi Tokito,うなぎ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/unagi-tokito
+,港区,南麻布２丁目,-,東京都港区南麻布2-7-23,35.6473324,139.7366675,馳走 髙山／Chiso Takayama,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chiso-takayama
+,港区,北青山２丁目,-,東京都港区北青山2-12-35,35.6702584,139.7145244,リストランテ ホンダ／Ristorante HONDA,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ristorante-honda
+,港区,南青山１丁目,-,東京都港区南青山1-21-9,35.667172,139.7247291,ハルカ ムロオカ／Haruka Murooka,クリエイティブ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/haruka-murooka
+,港区,三田４丁目,-,東京都港区三田4-1-4,35.6477607,139.741535,鮨 三か田／Sushi Mikata,寿司,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-mikata
+,港区,西麻布４丁目,-,東京都港区西麻布4-9-11,35.6570175,139.7221232,白寧／hakunei,現代風料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hakunei
+,港区,東麻布１丁目,-,東京都港区東麻布1-5-4,35.6581182,139.7433407,野田岩 麻布飯倉本店／Nodaiwa Azabu Iikura Honten,うなぎ,ミシュラン 一つ星: 優れた料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nodaiwa-azabu-Iikura-honten-1194124
+,港区,六本木７丁目,六本木,東京都港区六本木7-9-9,35.6644502,139.7299132,ル・スプートニク／le sputnik,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/le-sputnik
+,港区,南青山６丁目,-,東京都港区南青山6-8-18,35.6601922,139.7164092,ローブリュー／LAUBURU,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/lauburu
+,港区,赤坂３丁目,赤坂,東京都港区赤坂3-12-2,35.674048,139.7378193,茜坂大沼／Akanezaka Onuma,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akanezaka-onuma
+,港区,六本木４丁目,六本木,東京都港区六本木4-2-35b,35.6647207,139.7335553,リューズ／Ryuzu,"フランス料理, 現代風料理",ミシュラン 二つ星: 素晴らしい料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ryuzu
+,港区,西麻布２丁目,-,東京都港区西麻布2-11-5,35.6613147,139.7222993,西麻布 拓／Nishiazabu Taku,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nishiazabu-taku
+,港区,南青山１丁目,-,東京都港区南青山1-3-21,35.6710123,139.7251803,てのしま／Tenoshima,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tenoshima
+,港区,麻布十番３丁目,-,東京都港区麻布十番3-9-2,35.6529666,139.7342552,フラグメント 麻布十番／fragment Azabujuban,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/fragment-azabujuban
+,港区,西麻布３丁目,-,東京都港区西麻布3-8-6,35.6547432,139.7260956,蕎麦 たじま／Soba Tajima,蕎麦,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/soba-tajima
+,港区,西麻布４丁目,-,東京都港区西麻布4-2-6,35.6582989,139.7233663,マルゴット・エ・バッチャーレ／Margotto e Baciare,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/margotto-e-baciare
+,港区,東麻布１丁目,-,東京都港区東麻布1-24-6,35.6557716,139.7443325,新まき／Aramaki,焼鳥,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/aramaki
+,港区,赤坂２丁目,赤坂,東京都港区赤坂2-17-7,35.6715477,139.7390073,ラ グロワ／La Gloire,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-gloire-1218215
+,港区,赤坂３丁目,赤坂,東京都港区赤坂3-13-6,35.6730582,139.7377192,あかさか 割烹 和史／Akasaka Kappo Washi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akasaka-kappo-washi
+,港区,麻布台３丁目,-,東京都港区麻布台3-4-14,35.6604681,139.7392169,パトゥ／Patous,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/patous
+,港区,西麻布２丁目,-,東京都港区西麻布2-16-4,35.6617,139.7207781,割烹 室井／Kappo Muroi,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kappo-muroi
+,港区,西新橋２丁目,虎ノ門広域,東京都港区西新橋2-15-6,35.6669274,139.7512528,天ぷら あらたみかわ／Tempura Aratamikawa,天ぷら,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-aratamikawa
+,港区,白金５丁目,-,東京都港区白金5-7-8,35.6444824,139.7276922,鮨 まつうら／Sushi Matsuura,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-matsuura
+,港区,南青山３丁目,-,東京都港区南青山3-10-38,35.6663668,139.7145013,ミソラ／misola,"イタリア料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/misola
+,港区,東麻布１丁目,-,東京都港区東麻布1-20-3,35.6557829,139.7432984,クローニー／Crony,"フランス料理, 現代風料理",ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/crony-1194937
+,港区,南青山４丁目,-,東京都港区南青山4-11-2,35.6660359,139.7181042,伯雲／Hakuun,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hakuun
+,港区,六本木６丁目,六本木,東京都港区六本木6-10-1六本木ヒルズヒルサイド,35.6605344,139.7299686,ラトリエ ドゥ ジョエル・ロブション／L'ATELIER de Joël Robuchon,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-atelier-de-joel-robuchon-1194216
+,港区,東麻布２丁目,-,東京都港区東麻布2-19-2,35.6567102,139.7424801,ユヌ パンセ／UNE PINCÉE,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/une-pincee
+,港区,白金台５丁目,-,東京都港区白金台5-17-11,35.6375912,139.7233024,ルカンケ／REQUINQUER,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/requinquer
+,港区,白金台５丁目,-,東京都港区白金台5-17-9b,35.6374659,139.7232334,天ぷら 銀屋／Tempura Ginya,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-ginya
+,港区,赤坂８丁目,赤坂,東京都港区赤坂8-11-19,35.6685901,139.7289941,乃木坂 しん／Nogizaka Shin,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nogizaka-shin
+,港区,愛宕２丁目,虎ノ門,東京都港区愛宕2-3-1フォレストタワー,35.6637168,139.7489509,醍醐／Daigo,精進料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/daigo
+,港区,西麻布４丁目,-,東京都港区西麻布4-18-20,35.6583484,139.7188438,西麻布 鮨 真／Nishiazabu Sushi Shin,寿司,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nishiazabu-sushi-shin
+,港区,麻布十番２丁目,-,東京都港区麻布十番2-6-2,35.656215,139.7330642,たそがれ／Tasogare,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tasogare
+,港区,南青山４丁目,-,東京都港区南青山4-3-23,35.6660891,139.7201999,エーヴィック／EWIG,オーストリア料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ewig
+,渋谷区,元代々木町,-,東京都渋谷区元代々木町8-8,35.6701496,139.6853446,ル・キャバレ／Le cabaret,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/le-cabaret-1194236
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-23-3,35.6644778,139.7046895,玉笑／Tamawarai,蕎麦,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tamawarai
+,渋谷区,恵比寿西２丁目,-,東京都渋谷区恵比寿西2-8-11,35.6495268,139.7075549,天ぷら 元吉／Tempura Motoyoshi,天ぷら,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-motoyoshi
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-10-1gyre,35.6673861,139.7069111,ボネラン／bonélan,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bonelan
+,渋谷区,西原２丁目,-,東京都渋谷区西原2-17-3,35.6731582,139.6787847,茂幸／Shigeyuki,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shigeyuki
+,渋谷区,元代々木町,-,東京都渋谷区元代々木町10-8,35.6701238,139.6845669,レイ／REI,中国料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/rei
+,渋谷区,神宮前３丁目,-,東京都渋谷区神宮前3-42-11,35.6718214,139.7139354,とんかつ 七井戸／Tonkatsu Nanaido,とんかつ,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tonkatsu-nanaido
+,渋谷区,富ヶ谷１丁目,-,東京都渋谷区富ヶ谷1-3-12,35.6692896,139.6890584,静流／Shizuru,日本料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shizuru
+,渋谷区,恵比寿２丁目,-,東京都渋谷区恵比寿2-23-3,35.6477133,139.7201899,おでこ／au deco,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/au-deco
+,渋谷区,猿楽町,-,東京都渋谷区猿楽町2-5,35.6529873,139.7048291,アタ／Äta,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ata
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-19-1,35.6489877,139.719457,飄香／Piao-Xiang,中国料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/piao-xiang
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-19-1,35.6489877,139.719457,広尾 石阪／Hiroo Ishizaka,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hiroo-ishizaka
+,渋谷区,神宮前３丁目,-,東京都渋谷区神宮前3-1-25,35.6699611,139.7139526,ジュリア／JULIA,現代風料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/julia-1209244
+,渋谷区,広尾１丁目,-,東京都渋谷区広尾1-6-13,35.6487552,139.7141205,アムール／AMOUR,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/amour
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-51-8ラ・ポルト青山,35.6629106,139.7094699,ブノワ／Benoit,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/benoit-1207988
+,渋谷区,上原１丁目,-,東京都渋谷区上原1-32-5,35.6687771,139.6807486,ラ・ファソン 古賀／La façon Koga,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-facon-koga
+,渋谷区,代々木２丁目,-,東京都渋谷区代々木2-6-5,35.6879536,139.698908,鳥茂／Torishige,豚肉料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/torishige
+,渋谷区,恵比寿南１丁目,-,東京都渋谷区恵比寿南1-17-16,35.6446568,139.7102887,すしさとる／Sushi Satoru,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-satoru
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-10-3,35.6495128,139.7210419,ハスオ／HASUO,韓国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hasuo
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-46-7b,35.6639291,139.7089373,デンクシフロリ／DEN KUSHI FLORI,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/den-kushi-flori
+,渋谷区,代々木３丁目,-,東京都渋谷区代々木3-37-1,35.6818523,139.6933909,キノシタ／Kinoshita,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kinoshita-1197753
+,渋谷区,富ヶ谷１丁目,-,東京都渋谷区富ヶ谷1-51-10,35.6686278,139.6890736,クリスチアノ／Cristiano's,ポルトガル料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/cristiano-s
+,渋谷区,恵比寿西２丁目,-,東京都渋谷区恵比寿西2-17-13,35.6490618,139.7054097,サンプリシテ／Simplicité,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/simplicite
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-13-14,35.6662481,139.7069282,イェン／HYÈNE,現代風料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hyene
+,渋谷区,東２丁目,-,東京都渋谷区東2-25-38,35.6535466,139.7077424,久原／Kuhara,日本料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/koryori-kuhara
+,渋谷区,神宮前５丁目,-,東京都渋谷区神宮前5-10-1gyre,35.6673861,139.7069111,レラン／l'élan,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-elan
+,渋谷区,鉢山町,-,東京都渋谷区鉢山町14-7,35.6506772,139.6971801,マダム・トキ／Madame Toki,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/madame-toki
+,渋谷区,代々木４丁目,-,東京都渋谷区代々木4-1-6,35.6792595,139.6937569,ロク／roku,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/roku
+,渋谷区,代々木５丁目,-,東京都渋谷区代々木5-55-7,35.6779699,139.6921146,ロス レイエス マーゴス／Los Reyes Magos,スペイン料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/los-reyes-magos
+,渋谷区,恵比寿西２丁目,-,東京都渋谷区恵比寿西2-7-10b,35.6505314,139.70714,ソーセ／Saucer,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/saucer
+,渋谷区,恵比寿南１丁目,-,東京都渋谷区恵比寿南1-17-17,35.6447738,139.7104392,匠 鮨 おわな／Takumi Sushi Owana,寿司,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/takumi-sushi-owana
+,渋谷区,東３丁目,-,東京都渋谷区東3-15-8,35.6502612,139.7096024,ビストロエビス／Bistro YEBISU,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bistro-yebisu
+,渋谷区,西原３丁目,-,東京都渋谷区西原3-2-3,35.6704453,139.6825132,ジーテン／jeeten,中国料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jeeten
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-19-7,35.6490285,139.7201778,ポンテ デル ピアット／PONTE DEL PIATTO,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ponte-del-piatto
+,渋谷区,千駄ケ谷３丁目,-,東京都渋谷区千駄ケ谷3-7-13b,35.6769032,139.7043254,シンシア／Sincère,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sincere
+,渋谷区,恵比寿西１丁目,-,東京都渋谷区恵比寿西1-30-12,35.6484697,139.7056689,アビス／abysse,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/abysse
+,渋谷区,渋谷２丁目,-,東京都渋谷区渋谷2-6-1,35.6600242,139.7083099,モノリス／MONOLITH,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/monolith
+,渋谷区,恵比寿１丁目,-,東京都渋谷区恵比寿1-23-10,35.6461202,139.7159304,御料理 一穂／Oryori Ichiho,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oryori-ichiho
+,渋谷区,恵比寿１丁目,-,東京都渋谷区恵比寿1-24-10,35.6466583,139.7154615,イル バロンドーロ／IL BALLOND'ORO,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/il-ballond-oro
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-17-4,35.6497661,139.7203894,鮨 ゆうき／Sushi Yuki,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-yuki-1213818
+,渋谷区,渋谷２丁目,-,東京都渋谷区渋谷2-2-2b,35.6607645,139.7085533,ラチュレ／LATURE,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/lature
+,渋谷区,代官山町,-,東京都渋谷区代官山町14-10b,35.6500894,139.7043105,ファロ／falò,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/falo
+,渋谷区,神宮前３丁目,-,東京都渋谷区神宮前3-42-12,35.6719271,139.7139156,アンディ／Ăn Ði,ベトナム料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/an-%C3%B0i
+,渋谷区,代々木５丁目,-,東京都渋谷区代々木5-9-9,35.6710134,139.6880066,礼讃／Raisan,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/raisan
+,渋谷区,富ヶ谷１丁目,-,東京都渋谷区富ヶ谷1-33-6,35.6665629,139.6883058,京料理 阿うん／Kyoryori Aun,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kyoryori-aun
+,渋谷区,神宮前３丁目,-,東京都渋谷区神宮前3-1-28b,35.6698859,139.7142945,青山 おとと／Aoyama Ototo,日本料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/aoyama-ototo
+,渋谷区,代官山町,-,東京都渋谷区代官山町12-19b,35.650822,139.7035226,アロセリア サル イ アモール／Arrocería Sal y Amor,スペイン料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/arroceria-sal-y-amor
+,渋谷区,上原１丁目,-,東京都渋谷区上原1-34-10,35.6693976,139.6820247,潮待ち／Shiomachi,居酒屋,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shiomachi
+,渋谷区,広尾１丁目,-,東京都渋谷区広尾1-12-15,35.6480245,139.7153193,創和堂／SŌWADŌ,居酒屋,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sowado
+,渋谷区,渋谷１丁目,-,東京都渋谷区渋谷1-5-9,35.6610947,139.7057965,鮨 一喜／Sushi Ikki,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-ikki
+,渋谷区,上原１丁目,-,東京都渋谷区上原1-33-11,35.6691436,139.6808398,日々の中華食堂／Hibino Chukashokudo,中国料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hibino-chukashokudo
+,渋谷区,猿楽町,-,東京都渋谷区猿楽町2-5b,35.6529873,139.7048291,代官山 いっさい喝采／Daikanyama Issai Kassai,居酒屋,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/daikanyama-issai-kassai
+,渋谷区,恵比寿西２丁目,-,東京都渋谷区恵比寿西2-17-5,35.6489302,139.7059561,レクテ／recte,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/recte
+,渋谷区,代々木４丁目,-,東京都渋谷区代々木4-6-2b,35.6783509,139.6929474,レガーロ／Regalo,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/regalo
+,渋谷区,本町１丁目,-,東京都渋谷区本町1-28-8,35.6801808,139.680181,ユヌ イメルシオン／UNE IMMERSION,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/une-immersion
+,渋谷区,西原３丁目,-,東京都渋谷区西原3-22-15,35.6707605,139.6824997,サイカ／çayca,クリエイティブ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/cayca
+,渋谷区,恵比寿１丁目,-,東京都渋谷区恵比寿1-26-17,35.6472094,139.7156289,アベス／ABBESSES,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/abbesses
+,渋谷区,鶯谷町７丁目,-,東京都渋谷区鶯谷町7-12b,35.6540804,139.7022691,かつお食堂／Katsuo Shokudo,日本料理,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/katsuo-shokudo
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-17-8b,35.6494513,139.7204094,ボッテガ／BOTTEGA,イタリア料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bottega-1194168
+,渋谷区,神宮前２丁目,-,東京都渋谷区神宮前2-19-12,35.673458,139.7101767,神宮前 樋口／Jingumae Higuchi,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jingumae-higuchi
+,渋谷区,猿楽町,-,東京都渋谷区猿楽町3-9,35.652071,139.7042789,イドル／Yd’or,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yd-or
+,渋谷区,広尾５丁目,-,東京都渋谷区広尾5-17-4,35.6497661,139.7203894,鮨 ゆうき／Sushi Yuki,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-yuki-1213818
+,渋谷区,神泉町,-,東京都渋谷区神泉町13-13b,35.656833,139.6927328,エス／ess.,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ess
+,渋谷区,恵比寿３丁目,-,東京都渋谷区恵比寿3-28-2,35.6437644,139.715691,鳥焼き 小花／Toriyaki Ohana,鳥料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/toriyaki-ohana
+,渋谷区,代々木４丁目,-,東京都渋谷区代々木4-1-7,35.6792752,139.69363,オルケストラ／Orchestra,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/orchestra
+,渋谷区,笹塚１丁目,-,東京都渋谷区笹塚1-62-6,35.6727427,139.6623783,立食い鮨 鮨川／Tachiguisushi Sushikawa,寿司,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tachiguisushi-sushikawa
+,渋谷区,神宮前２丁目,-,東京都渋谷区神宮前2-3-18,35.6731932,139.7127606,傳／Den,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/den
+,新宿区,袋町,-,東京都新宿区袋町3-6,35.7002759,139.7380593,鮨 大矢／Sushi Oya,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-oya
+,新宿区,荒木町,-,東京都新宿区荒木町15,35.6910773,139.7246981,津の守坂 小柴／Tsunokamizaka Koshiba,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tsunokamizaka-koshiba
+,新宿区,荒木町,-,東京都新宿区荒木町6-39,35.689235,139.7226138,車力門 おの澤／Sharikimon Onozawa,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sharikimon-onozawa
+,新宿区,高田馬場２丁目,-,東京都新宿区高田馬場2-9-12,35.7121166,139.7079408,ラミティエ／L'AMITIE,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-amitie-1194223
+,新宿区,袋町,-,東京都新宿区袋町3-4,35.7002759,139.7380593,神楽坂 まる富／Kagurazaka Marutomi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akebonobashi-marutomi
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-5-5,35.7008106,139.7408453,虎白／Kohaku,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kohaku
+,新宿区,舟町,-,東京都新宿区舟町15,35.6899129,139.7208184,すし処 志げる／Sushidokoro Shigeru,寿司,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushidokoro-shigeru
+,新宿区,荒木町,-,東京都新宿区荒木町10-14,35.6895261,139.7225845,燗コーヒー 藤々／Kan Coffee Fujifuji,居酒屋,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kan-coffee-fujifuji
+,新宿区,荒木町,-,東京都新宿区荒木町10,35.6897713,139.7226369,荒木町 たつや／Arakicho Tatsuya,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/arakicho-tatsuya
+,新宿区,矢来町,-,東京都新宿区矢来町64-4,35.7034778,139.7328226,焼鳥 山香／Yakitori SANKA,焼鳥,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yakitori-sanka
+,新宿区,神楽坂４丁目,-,東京都新宿区神楽坂4-3,35.701714,139.7398215,愚直に／Guchokuni,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/guchokuni
+,新宿区,若宮町,-,東京都新宿区若宮町12-4,35.7002896,139.7393666,イチニーヨン.カグラザカ／124. KAGURAZAKA,焼鳥,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/124-kagurazaka
+,新宿区,神楽坂４丁目,-,東京都新宿区神楽坂4-3-7,35.7017745,139.7401009,ルグドゥノム ブション リヨネ／LUGDUNUM Bouchon Lyonnais,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/lugdunum-bouchon-lyonnais
+,新宿区,高田馬場２丁目,-,東京都新宿区高田馬場2-13-9,35.712898,139.7075219,とんかつ ひなた／Tonkatsu Hinata,とんかつ,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tonkatsu-hinata
+,新宿区,新宿１丁目,-,東京都新宿区新宿1-19-11,35.6895562,139.7128781,食堂わた／Shokudo Wata,"居酒屋, 日本料理",ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shokudo-wata
+,新宿区,下落合３丁目,-,東京都新宿区下落合3-21-5,35.722835,139.7011358,蕎麦 おさめ／Soba Osame,蕎麦,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/soba-osame
+,新宿区,横寺町,-,東京都新宿区横寺町37-39,35.7012054,139.736333,梅香／Meishan,中国料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/meishan
+,新宿区,神楽坂４丁目,-,東京都新宿区神楽坂4-3-11,35.7019782,139.7400451,ふしきの／FUSHIKINO,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/fushikino
+,新宿区,荒木町,-,東京都新宿区荒木町16,35.6913338,139.7248221,曙橋 かず／Akebonobashi Kazu,日本料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/akebonobashi-kazu
+,新宿区,荒木町,-,東京都新宿区荒木町9-15,35.6900747,139.7221313,御料理 ほりうち／Oryori Horiuchi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oryori-horiuchi
+,新宿区,神楽坂４丁目,-,東京都新宿区神楽坂4-2,35.7021465,139.7398162,初志／Uisane,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/uisane
+,新宿区,神楽坂２丁目,-,東京都新宿区神楽坂2-22,35.7002408,139.7412591,一宇／Ichiu,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ichiu
+,新宿区,新宿１丁目,-,東京都新宿区新宿1-11-7,35.688609,139.7131973,匠 達広／Takumi Tatsuhiro,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/takumi-tatsuhiro
+,新宿区,若葉２丁目,-,東京都新宿区若葉2-7,35.6855863,139.7238468,新楽記／Shinrakuki,中国料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shinrakuki
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-1,35.7021576,139.7405536,ヴェール／VERT,クリエイティブ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/vert
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-1,35.7021576,139.7405536,てんぷら 拓／Tempura Taku,天ぷら,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-taku
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-1,35.7021576,139.7405536,多仁本／Tanimoto,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tanimoto
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-6,35.7009902,139.7404078,蕎楽亭／Kyorakutei,蕎麦,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kyorakutei
+,新宿区,神楽坂３丁目,-,東京都新宿区神楽坂3-6-53,35.7006329,139.7398565,レテール／L'ÉTERRE,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-eterre
+,新宿区,神楽坂２丁目,-,東京都新宿区神楽坂2-11-7,35.70124,139.741939,ジェフリー／Jfree,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jfree
+,新宿区,神楽坂５丁目,-,東京都新宿区神楽坂5-37,35.7013408,139.7391271,神楽坂 石かわ／Kagurazaka Ishikawa,日本料理,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kagurazaka-ishikawa
+,新宿区,岩戸町,-,東京都新宿区岩戸町19,35.70135,139.7378098,和しょく えびはら／Washoku Ebihara,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/washoku-ebihara
+,新宿区,荒木町,-,東京都新宿区荒木町2-14,35.6886586,139.7224046,うぶか／Ubuka,蟹料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ubuka
+,新宿区,四谷４丁目,-,東京都新宿区四谷4-25-10,35.6891021,139.7154516,ラーメン マツイ／RAMEN MATSUI,ラーメン,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ramen-matsui
+,新宿区,荒木町,-,東京都新宿区荒木町2-9,35.6885743,139.7223628,の弥七／Noyashichi,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/noyashichi
+,新宿区,西早稲田２丁目,-,東京都新宿区西早稲田2-3-21,35.706829,139.7167573,旧雨／Kyuu,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kyuu
+,新宿区,荒木町,-,東京都新宿区荒木町3-21,35.6885848,139.722969,四ツ谷 みね村／Yotsuya Minemura,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yotsuya-minemura
+,千代田区,霞が関３丁目,虎ノ門広域,東京都千代田区霞が関3-2-6東京倶楽部ビルディング,35.6707042,139.7466765,ラルジャン／L'ARGENT,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-argent
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町4-1ホテルニューオータニ東京ザ・メインロビー階,35.6809158,139.7340561,トゥールダルジャン 東京／Tour D'argent Tokyo,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tour-d-argent-1194082
+,千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内1-1-1パレスホテル東京,35.6845024,139.7612295,エステール by アラン・デュカス／ESTERRE by Alain Ducasse,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/esterre-by-alain-ducasse
+,千代田区,大手町１丁目,大丸有,東京都千代田区大手町1-5-6大手町タワーアマン東京3,35.6854775,139.7656705,アルヴァ／Arva,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/arva-1207977
+,千代田区,有楽町１丁目,大丸有,東京都千代田区有楽町1-8-1ザ・ペニンシュラ東京,35.6747591,139.7604704,ヘイフンテラス／Hei Fung Terrace,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hei-fung-terrace
+,千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内1-3-4丸の内テラス,35.6843524,139.7640405,アッパー／THE UPPER,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/the-upper
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町1-3東京ガーデンテラス紀尾井町,35.6799926,139.7379363,マス／MAZ,イノベーティブ,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/maz
+,千代田区,西神田２丁目,-,東京都千代田区西神田2-4-9,35.6983631,139.7543507,神保町 五木田／Jimbocho Gokita,"焼鳥, フランス料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/jimbocho-gokita
+,千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内1-11-1フォーシーズンズホテル丸の内東京,35.6781486,139.7669907,セザン／SÉZANNE,"フランス料理, 現代風料理",ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sezanne
+,千代田区,平河町２丁目,-,東京都千代田区平河町2-5-7b,35.6797285,139.7387446,ヌー トウキョウ／Nœud. TOKYO,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/n%C5%93ud-tokyo
+,千代田区,内幸町１丁目,-,東京都千代田区内幸町1-1-1帝国ホテル東京本館,35.672454,139.7579015,レ セゾン／Les Saisons,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/les-saisons-1194250
+,千代田区,神田錦町１丁目,-,東京都千代田区神田錦町1-17-5,35.6911402,139.763569,神田錦町 鮨 たか晴／Kandanishikicho Sushi Takaharu,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kandanishikicho-sushi-takaharu
+,千代田区,外神田３丁目,-,東京都千代田区外神田3-6-8,35.7027967,139.7698958,いし橋／Ishibashi,すき焼,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ishibashi
+,千代田区,丸の内３丁目,大丸有,東京都千代田区丸の内3-2-3二重橋スクエア,35.6777236,139.7614575,ヤウメイ／YAUMAY,"中国料理, 飲茶",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yaumay
+,千代田区,紀尾井町,赤坂,東京都千代田区紀尾井町1-13,35.6803413,139.7359638,紀尾井町 福田家／Kioicho Fukudaya,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kioicho-fukudaya
+,千代田区,有楽町１丁目,大丸有,東京都千代田区有楽町1-9-4b,35.675117,139.7609658,アピシウス／APICIUS,フランス料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/apicius-1209867
+,千代田区,九段北４丁目,-,東京都千代田区九段北4-3-20,35.6941243,139.7395562,香下／Koshita,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/koshita
+,千代田区,六番町,-,東京都千代田区六番町4-3,35.6891599,139.7352518,ティン ガナ／Tinc gana,"スペイン料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tinc-gana
+,千代田区,内幸町１丁目,-,東京都千代田区内幸町1-1-1帝国ホテル東京本館b,35.672454,139.7579015,寅黒／Torakuro,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/torakuro
+,千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内1-1-1パレスホテル東京,35.6845024,139.7612295,中国飯店 琥珀宮／Chugoku Hanten Kohakukyu (Amber Palace),中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chugoku-hanten-kohakukyu-amber-palace
+,千代田区,大手町１丁目,大丸有,東京都千代田区大手町1-2-1otemachione,35.6879122,139.7631803,スィークル／CYCLE by Mauro Colagreco,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/cycle-by-mauro-colagreco
+,千代田区,神田神保町２丁目,-,東京都千代田区神田神保町2-2-32,35.6963279,139.7570421,アルテレーゴ／ALTER EGO,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/alter-ego
+,千代田区,九段南４丁目,-,東京都千代田区九段南4-1-10,35.6915445,139.7410642,シェ オリビエ／Chez Olivier,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chez-olivier
+,千代田区,丸の内３丁目,大丸有,東京都千代田区丸の内3-2-1東京會舘,35.67778,139.7613411,プルニエ／PRUNIER,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/prunier-1200289
+,千代田区,神田小川町３丁目,-,東京都千代田区神田小川町3-2,35.6947662,139.7627566,三燈舎／SANTOSHAM,インド料理,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/santosham
+,千代田区,丸の内１丁目,大丸有,東京都千代田区丸の内1-1-3日本生命丸の内ガーデンタワーm,35.6845047,139.7625724,プレーガ 東京／Plaiga TOKYO,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/plaiga-tokyo
+,千代田区,有楽町１丁目,大丸有,東京都千代田区有楽町1-1-2東京ミッドタウン日比谷,35.6737436,139.7591762,龍吟／RyuGin,"日本料理, ふぐ",ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ryugin-1194232
+,千代田区,神田神保町２丁目,-,東京都千代田区神田神保町2-12-7,35.6965828,139.7569623,カオ／KHAO,タイ料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/khao-1217131
+,中央区,銀座４丁目,-,東京都中央区銀座4-2-15b,35.6727287,139.763891,バードランド／BIRD LAND,焼鳥,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bird-land
+,中央区,銀座１丁目,-,東京都中央区銀座1-27-8,35.6727201,139.772057,ビストロ・シンバ／bistro simba,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bistro-simba
+,中央区,日本橋室町１丁目,日八京,東京都中央区日本橋室町1-9-4b,35.6850947,139.7755579,ラ ペ／La Paix,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-paix-1194221
+,中央区,銀座８丁目,-,東京都中央区銀座8-8-3,35.668557,139.7618936,ファロ／FARO,イタリア料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/faro-1194154
+,中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町2-1-1マンダリンオリエンタル東京3,35.6870475,139.7730634,センス／Sense,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sense-1194023
+,中央区,銀座５丁目,-,東京都中央区銀座5-5-13,35.6711228,139.7630816,てんぷら 近藤／Tempura Kondo,天ぷら,ミシュラン 二つ星: 素晴らしい料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-kondo
+,中央区,日本橋人形町２丁目,-,東京都中央区日本橋人形町2-9-7,35.6860581,139.7840419,天ぷら やぐち／Tempura Yaguchi,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-yaguchi
+,中央区,銀座３丁目,-,東京都中央区銀座3-5-3,35.6729966,139.7665258,ベージュ アラン・デュカス／BEIGE Alain Ducasse,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/beige-alain-ducasse
+,中央区,銀座８丁目,-,東京都中央区銀座8-3-1,35.6692505,139.7592458,青空／Harutaka,寿司,ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/harutaka
+,中央区,日本橋人形町２丁目,-,東京都中央区日本橋人形町2-22-11,35.6862565,139.784509,日本橋 蕎ノ字／Nihombashi Sonoji,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nihombashi-sonoji
+,中央区,銀座３丁目,-,東京都中央区銀座3-11-6,35.6709068,139.7688463,時喰み／Tokihami,居酒屋,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tokihami
+,中央区,築地６丁目,-,東京都中央区築地6-6-4,35.6655101,139.773662,鮨 桂太／Sushi Keita,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-keita
+,中央区,京橋２丁目,日八京,東京都中央区京橋2-5-2,35.6764566,139.7704595,京橋 てんぷら 深町／Kyobashi Tempura Fukamachi,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kyobashi-tempura-fukamachi
+,中央区,銀座５丁目,-,東京都中央区銀座5-6-10,35.6707373,139.7636546,喰善 あべ／Shokuzen Abe,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shokuzen-abe
+,中央区,銀座２丁目,-,東京都中央区銀座2-4-6,35.6739889,139.766406,マシア／MASIA,スペイン料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/masia
+,中央区,新川２丁目,-,東京都中央区新川2-18-4,35.674577,139.7817404,中国菜 漢／Chugokusai Kan,中国料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chugokusai-kan
+,中央区,日本橋人形町２丁目,-,東京都中央区日本橋人形町2-10-11,35.685642,139.7840497,柳燕／Ryuen,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ryuen
+,中央区,新富１丁目,-,東京都中央区新富1-8-2,35.6729827,139.7744134,鮨 はしもと／Sushi Hashimoto,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-hashimoto
+,中央区,銀座７丁目,-,東京都中央区銀座7-5-4,35.6702447,139.7616783,銀座 とよだ／Ginza Toyoda,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-toyoda
+,中央区,銀座６丁目,-,東京都中央区銀座6-6-1,35.6710693,139.7626123,現代茶寮 銀座凮月堂／Gendaisaryo Ginza Fugetsudo,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/gendaisaryo-ginza-fugetsudo
+,中央区,銀座２丁目,-,東京都中央区銀座2-6-51,35.6735658,139.7673177,シン ハラダ／Shin Harada,イタリア料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shin-harada
+,中央区,銀座８丁目,-,東京都中央区銀座8-7-19,35.6685146,139.7610057,御料理 かつ志／Oryori Katsushi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oryori-katsushi
+,中央区,日本橋兜町,-,東京都中央区日本橋兜町1-4,35.6827422,139.7793861,アサヒナガストロノーム／ASAHINA Gastronome,フランス料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/asahina-gastronome
+,中央区,築地１丁目,-,東京都中央区築地1-5-8,35.6699259,139.7715078,東京チャイニーズ 一凛／Tokyo Chinese Ichirin,中国料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tokyo-chinese-ichirin
+,中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町2-3-1コレド室町2,35.6868974,139.7748465,ラ・ボンヌターブル／LA BONNE TABLE,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-bonne-table
+,中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町2-4-3yuito,35.68734,139.7739343,ポンドール・イノ／Pont d'Or Inno,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/pont-d-or-inno
+,中央区,銀座７丁目,-,東京都中央区銀座7-8-7,35.6691454,139.7625736,銀座 ハプスブルク・ファイルヒェン／GINZA HABSBURG VEILCHEN,オーストリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-habsburg-veilchen
+,中央区,銀座７丁目,-,東京都中央区銀座7-16-21,35.6671388,139.7656447,トワヴィサージュ／TROIS VISAGES,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/trois-visages
+,中央区,銀座５丁目,-,東京都中央区銀座5-14-14,35.6685747,139.7669052,馳創 吼龍／Chiso Koryu,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chiso-koryu
+,中央区,日本橋馬喰町２丁目,-,東京都中央区日本橋馬喰町2-2-1dddhotel,35.6952872,139.7835417,ノル／nôl,現代風料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nol
+,中央区,銀座６丁目,-,東京都中央区銀座6-4-13,35.6710498,139.761065,鮨 太一／Sushi Taichi,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-taichi
+,中央区,湊３丁目,-,東京都中央区湊3-5-1,35.6698184,139.7782051,焼鳥 本田／Yakitori Honda,焼鳥,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yakitori-honda
+,中央区,東日本橋３丁目,-,東京都中央区東日本橋3-1-3,35.6903063,139.7827048,鮨 一條／Sushi Ichijo,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-ichijo
+,中央区,銀座３丁目,-,東京都中央区銀座3-12-5,35.6708273,139.7691915,イバイア／IBAIA,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ibaia
+,中央区,新富１丁目,-,東京都中央区新富1-5-12,35.6724272,139.7728258,オルタンシア／hortensia,"フランス料理, 現代風フランス料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hortensia
+,中央区,銀座４丁目,-,東京都中央区銀座4-11-9,35.6699067,139.7685078,歌舞伎座裏まさし／Kabukizaura Masashi,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kabukizaura-masashi
+,中央区,京橋２丁目,日八京,東京都中央区京橋2-4-16,35.6770691,139.7692033,シェ・イノ／Chez Inno,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chez-inno
+,中央区,銀座７丁目,-,東京都中央区銀座7-3-13b,35.6700559,139.7602259,蓮 三四七／Ren Mishina,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ren-mishina
+,中央区,銀座１丁目,-,東京都中央区銀座1-21-2,35.6727722,139.7711013,ラ・ベットラ・ダ・オチアイ／LA BETTOLA da Ochiai,イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-bettola-da-ochiai
+,中央区,日本橋浜町３丁目,-,東京都中央区日本橋浜町3-7-3,35.6840871,139.7882994,浜町 かねこ／Hamacho Kaneko,蕎麦,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hamacho-kaneko
+,中央区,東日本橋２丁目,-,東京都中央区東日本橋2-11-7,35.6928376,139.7871528,旬華 なか村／Shunka Nakamura,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shunka-nakamura
+,中央区,銀座８丁目,-,東京都中央区銀座8-8-19,35.6685422,139.76155,銀座 福樹／Ginza Fukuju,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-fukuju
+,中央区,日本橋人形町３丁目,-,東京都中央区日本橋人形町3-4-11,35.6862536,139.7812335,かつ好／Katsuyoshi,とんかつ,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/katsuyoshi
+,中央区,日本橋人形町２丁目,-,東京都中央区日本橋人形町2-10-11,35.685642,139.7840497,江戸前 晋作／Edomae Shinsaku,天ぷら,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/edomae-shinsaku
+,中央区,銀座５丁目,-,東京都中央区銀座5-4-6,35.6717161,139.7633311,エスキス／ESqUISSE,"フランス料理, 現代風料理",ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/esquisse
+,中央区,銀座１丁目,-,東京都中央区銀座1-14-6,35.6730276,139.7697806,おにく 花柳／Oniku Karyu,牛肉料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oniku-karyu
+,中央区,築地２丁目,-,東京都中央区築地2-14-2,35.6677243,139.7705763,天麩羅 なかがわ／Tempura Nakagawa,天ぷら,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tempura-nakagawa
+,中央区,新富２丁目,-,東京都中央区新富2-7-4,35.6708723,139.7737107,新富町 湯浅／Shintomicho Yuasa,中国料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/shintomicho-yuasa
+,中央区,築地３丁目,-,東京都中央区築地3-7-2,35.6679247,139.7737482,櫻木／Sakuragi,日本料理,-,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sakuragi
+,中央区,銀座５丁目,-,東京都中央区銀座5-4-8,35.6714346,139.7630316,銀座 小十／Ginza Kojyu,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-koju
+,中央区,銀座７丁目,-,東京都中央区銀座7-6-5,35.6697371,139.7619665,銀座 安達直人／Ginza Adachi Naoto,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-adachi-naoto
+,中央区,築地１丁目,-,東京都中央区築地1-5-11b,35.6700228,139.7716376,プリモ パッソ／PRIMO PASSO,イタリア料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/primo-passo
+,中央区,銀座８丁目,-,東京都中央区銀座8-2-10,35.6693815,139.7595144,鮨 こばやし／Sushi Kobayashi,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-kobayashi
+,中央区,銀座６丁目,-,東京都中央区銀座6-7-15b,35.670423,139.76242,つるとかめ／Tsurutokame,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tsurutokame
+,中央区,日本橋２丁目,日八京,東京都中央区日本橋2-10-11,35.6809812,139.7746068,焼鳥 髙はし／Yakitori Takahashi,焼鳥,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yakitori-takahashi
+,中央区,銀座１丁目,-,東京都中央区銀座1-3-3,35.6753285,139.7664319,エシカ／ETHICA,メキシコ料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ethica
+,中央区,築地３丁目,-,東京都中央区築地3-7-2,35.6679247,139.7737482,鮨処 やまと／Sushidokoro Yamato,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushidokoro-yamato
+,中央区,銀座４丁目,-,東京都中央区銀座4-5-5,35.6718956,139.7653829,銀座 レカン／Ginza L’écrin,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-l-ecrin
+,中央区,築地６丁目,-,東京都中央区築地6-7-7,35.6649954,139.7736757,ふぐ倶楽部 miyawaki 別邸／Fugu Club miyawaki Bettei,ふぐ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/fugu-club-miyawaki-bettei
+,中央区,銀座６丁目,-,東京都中央区銀座6-8-7交詢ビル,35.6700825,139.7629229,ぎんざ かつかみ弐／GINZA KATSUKAMI II,とんかつ,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-katsukami-ii
+,中央区,銀座４丁目,-,東京都中央区銀座4-4-2,35.6723309,139.7652733,百薬 by 徳山鮓／Hyakuyaku by Tokuyamazushi,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hyakuyaku-by-tokuyamazushi
+,中央区,銀座３丁目,-,東京都中央区銀座3-11-6,35.6709068,139.7688463,銀座はるちゃんラーメン／Ginza HARU CHAN Ramen,ラーメン,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-haru-chan-ramen
+,中央区,銀座１丁目,-,東京都中央区銀座1-5-6,35.6747988,139.767302,ドミニク・ブシェ トーキョー／Dominique Bouchet Tokyo,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/dominique-bouchet-1194086
+,中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町2-1-1マンダリンオリエンタル東京3,35.6870475,139.7730634,シグネチャー／SIGNATURE,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/signature-1193960
+,中央区,銀座５丁目,-,東京都中央区銀座5-9-16,35.6701935,139.7650003,ラフィナージュ／L'AFFINAGE,フランス料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-affinage
+,中央区,新富１丁目,-,東京都中央区新富1-15-11,35.6723672,139.7750353,鮨 美幸／Sushi Miyuki,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-miyuki
+,中央区,銀座６丁目,-,東京都中央区銀座6-8-7交詢ビル,35.6700825,139.7629229,スリオラ／ZURRIOLA,"スペイン料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/zurriola
+,中央区,銀座８丁目,-,東京都中央区銀座8-10-3b,35.6679846,139.7626384,鮨 かねさか／Sushi Kanesaka,寿司,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-kanesaka
+,中央区,京橋２丁目,日八京,東京都中央区京橋2-12-12,35.6760118,139.7714979,サカキ／SAKAKI,フランス料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sakaki
+,中央区,銀座２丁目,-,東京都中央区銀座2-8-17b,35.6729358,139.7678235,銀座 しのはら／Ginza Shinohara,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-shinohara
+,中央区,銀座２丁目,-,東京都中央区銀座2-10-11,35.6720816,139.7682929,銀座 きた川／Ginza Kitagawa,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-kitagawa
+,中央区,日本橋兜町,-,東京都中央区日本橋兜町7-1,35.6812057,139.7781479,ホッパーズ／HOPPERS,スリランカ料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hoppers-1206470
+,中央区,日本橋本町１丁目,日八京,東京都中央区日本橋本町1-4-3b,35.6862974,139.7757336,ファルスィ ラルゴ／farsi largo!,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/farsi-largo
+,中央区,銀座５丁目,-,東京都中央区銀座5-6-7,35.6709865,139.7638602,アマラントス／amarantos,"フランス料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/amarantos
+,中央区,銀座６丁目,-,東京都中央区銀座6-12-14,35.6691371,139.7645491,銀座 志翠／Ginza Kousui,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-kousui
+,中央区,新富２丁目,-,東京都中央区新富2-5-5,35.6715885,139.7740274,久丹／Kutan,日本料理,ミシュラン 二つ星: 素晴らしい料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/kutan
+,中央区,銀座８丁目,-,東京都中央区銀座8-7-2,35.6688015,139.7614743,オステリア ダ カッパ／Osteria da K. [káppa],イタリア料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/osteria-da-k-kappa
+,中央区,銀座１丁目,-,東京都中央区銀座1-15-8,35.6734129,139.7700651,アロセリア ラ パンサ／ARROCERÍA La Panza,スペイン料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/arroceria-la-panza
+,中央区,銀座５丁目,-,東京都中央区銀座5-5-19,35.6717228,139.7637504,六雁／Mutsukari,日本料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/mutsukari
+,中央区,八重洲２丁目,日八京,東京都中央区八重洲2-2-1ブルガリホテル東京,35.6788388,139.7683266,イル・リストランテ ニコ・ロミート／Il Ristorante - Niko Romito,イタリア料理,ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/il-ristorante-niko-romito-1208307
+,中央区,銀座４丁目,-,東京都中央区銀座4-12-1,35.6701957,139.7679734,銀座 四代目 髙橋屋／Ginza Yondaime TAKAHASHIYA,うなぎ,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-yondaime-takahashiya
+,中央区,銀座６丁目,-,東京都中央区銀座6-6-12,35.6704952,139.7621529,グッチ オステリア ダ マッシモ ボットゥーラ トウキョウ／Gucci Osteria da Massimo Bottura Tokyo,"イタリア料理, 現代風料理",ミシュラン 一つ星: 優れた料理,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/gucci-osteria-da-massimo-bottura-1201836
+,中央区,銀座３丁目,-,東京都中央区銀座3-12-15,35.6706115,139.7688321,ラ・ボッテガイア／LA BOTTEGAIA,イタリア料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/la-bottegaia
+,中央区,銀座４丁目,-,東京都中央区銀座4-13-19,35.6696425,139.7688858,ビストロ ヴィヴィエンヌ／Bistrot Vivienne,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/bistrot-vivienne
+,中央区,銀座７丁目,-,東京都中央区銀座7-3-6,35.6703567,139.7606524,銀座 呑小路 やま岸／Ginza Nominokoji Yamagishi,居酒屋,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ginza-nominokoji-yamagishi
+,中央区,銀座５丁目,-,東京都中央区銀座5-10-11,35.6698101,139.765439,能登 金沢の幸 銀座 ふる田／Noto Kanazawanosachi Ginza Furuta,日本料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/noto-kanazawanosachi-ginza-furuta
+,中央区,日本橋富沢町,-,東京都中央区日本橋富沢町16-3,35.6880712,139.7844025,ヤマト／YAMATO,居酒屋,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yamato-1194199
+,中央区,銀座７丁目,-,東京都中央区銀座7-8-171,35.669278,139.7624102,エスプリ セー ケイ ギンザ／ESPRIT C. KEI GINZA,"フランス料理, 現代風料理",-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/esprit-c-kei-ginza
+,中央区,銀座６丁目,-,東京都中央区銀座6-12-2,35.6692936,139.7649044,ヌガ／Le Nougat,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/le-nougat
+,中央区,日本橋室町２丁目,日八京,東京都中央区日本橋室町2-1-1マンダリンオリエンタル東京3,35.6870475,139.7730634,ピッツァバー on 38th／The Pizza Bar on 38th,ピッツァ,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/the-pizza-bar-on-38th
+,中央区,銀座３丁目,-,東京都中央区銀座3-14-2,35.6705793,139.7700837,中華そば 銀座 八五／Chukasoba Ginza Hachigou,ラーメン,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/chukasoba-ginza-hachigo
+,中央区,日本橋箱崎町,-,東京都中央区日本橋箱崎町27-2b,35.6799556,139.7869602,箱崎町すみと／Hakozakicho Sumito,寿司,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/hakozakicho-sumito
+,中央区,八重洲１丁目,日八京,東京都中央区八重洲1-5-10,35.6816481,139.7712793,八重洲 鰻 はし本／Yaesu Unagi Hashimoto,うなぎ,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yaesu-unagi-hashimoto
+,中央区,東日本橋３丁目,-,東京都中央区東日本橋3-4-1,35.6908124,139.7825617,釉月／Yugetsu,居酒屋,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yugetsu
+,中央区,日本橋人形町２丁目,-,東京都中央区日本橋人形町2-10-11,35.685642,139.7840497,御料理 心馬／Oryori Kokoroba,日本料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/oryori-kokoroba
+,中央区,銀座７丁目,-,東京都中央区銀座7-5-5,35.6698761,139.7613223,ロオジエ／L'OSIER,"フランス料理, 現代風フランス料理",ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/l-osier
+,中央区,銀座７丁目,-,東京都中央区銀座7-3-8,35.6702401,139.7604687,鮨 こじま／Sushi Kojima,寿司,ミシュラン 一つ星: 優れた料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/sushi-kojima
+,品川区,上大崎３丁目,-,東京都品川区上大崎3-3-4,35.6339718,139.7181671,やきとり 阿部／Yakitori Abe,焼鳥,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/yakitori-abe
+,品川区,大井１丁目,-,東京都品川区大井1-53-8,35.6045215,139.7337586,ブラッスリー ポワソンルージュ／BRASSERIE POISSON ROUGE,フランス料理,ビブグルマン：価格以上の満足感が得られる料理,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/brasserie-poisson-rouge
+,品川区,南大井６丁目,-,東京都品川区南大井6-11-10,35.5908116,139.7327862,Homemade Ramen 麦苗／Homemade Ramen Muginae,ラーメン,"ビブグルマン：価格以上の満足感が得られる料理,簡素なレストラン",¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/homemade-ramen-muginae
+,品川区,東五反田３丁目,-,東京都品川区東五反田3-15-19,35.6260105,139.7296975,ヌキテパ／Ne Quittez pas,フランス料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ne-quittez-pas
+,品川区,小山６丁目,-,東京都品川区小山6-7-6,35.614559,139.6999789,ネリザ／nerisa,イタリア料理,-,¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/nerisa
+,品川区,東五反田３丁目,-,東京都品川区東五反田3-17-21,35.6263151,139.7280945,リストランテ アンジェロ／Ristorante Angelo,イタリア料理,-,¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/ristorante-angelo
+,品川区,北品川６丁目,-,東京都品川区北品川6-7-29ガーデンシティ品川御殿山,35.6239862,139.7333701,カンテサンス／Quintessence,"フランス料理, 現代風料理",ミシュラン 三つ星: 卓越した料理,¥¥¥¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/quintessence-1193907
+,品川区,小山３丁目,-,東京都品川区小山3-22-7,35.6188165,139.706355,もち豚とんかつ たいよう／Mochibuta Tonkatsu Taiyo,とんかつ,ビブグルマン：価格以上の満足感が得られる料理,¥,https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/mochibuta-tonkatsu-taiyo
