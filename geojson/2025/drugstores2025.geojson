@@ -232,7 +232,7 @@
 { "type": "Feature", "properties": { "lat": 35.6904769, "lon": 139.7099005, "name": "つばさ薬局 新宿店" }, "geometry": { "type": "Point", "coordinates": [ 139.7099005, 35.6904769 ] } },
 { "type": "Feature", "properties": { "lat": 35.7060461, "lon": 139.720311, "name": "吉村薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.720311, 35.7060461 ] } },
 { "type": "Feature", "properties": { "lat": 35.6983376, "lon": 139.7341094, "name": "薬局ラクトファーマシー" }, "geometry": { "type": "Point", "coordinates": [ 139.7341094, 35.6983376 ] } },
-{ "type": "Feature", "properties": { "lat": 35.7126831, "lon": 139.5868875, "name": "(株)プラノ メディカル薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.586887499999989, 35.7126831 ] } },
+{ "type": "Feature", "properties": { "lat": 35.7126895, "lon": 139.584359, "name": "(株)プラノ メディカル薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.586887499999989, 35.7126831 ] } },
 { "type": "Feature", "properties": { "lat": 35.7017556, "lon": 139.6949136, "name": "土方薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.6949136, 35.7017556 ] } },
 { "type": "Feature", "properties": { "lat": 35.7024163, "lon": 139.7328663, "name": "千代田薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.732866300000012, 35.7024163 ] } },
 { "type": "Feature", "properties": { "lat": 35.6920778, "lon": 139.7216564, "name": "あけぼの薬局" }, "geometry": { "type": "Point", "coordinates": [ 139.7216564, 35.6920778 ] } },

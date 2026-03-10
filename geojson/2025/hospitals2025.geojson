@@ -1673,7 +1673,7 @@
 { "type": "Feature", "properties": { "lat": 35.6780195, "lon": 139.6770801, "name": "幡ヶ谷駅前クリニック" }, "geometry": { "type": "Point", "coordinates": [ 139.677080100000012, 35.6780195 ] } },
 { "type": "Feature", "properties": { "lat": 35.6652432, "lon": 139.702645, "name": "医療法人社団潤平会岡本平次クリニック" }, "geometry": { "type": "Point", "coordinates": [ 139.702645, 35.6652432 ] } },
 { "type": "Feature", "properties": { "lat": 35.6603035, "lon": 139.7037819, "name": "宮益坂眼科" }, "geometry": { "type": "Point", "coordinates": [ 139.7037819, 35.6603035 ] } },
-{ "type": "Feature", "properties": { "lat": 35.6563539, "lon": 139.6927228, "name": "医療法人社団奏有会文化村通りクリニック" }, "geometry": { "type": "Point", "coordinates": [ 139.692722800000013, 35.6563539 ] } },
+{ "type": "Feature", "properties": { "lat": 35.6563539, "lon": 139.6901479, "name": "医療法人社団奏有会文化村通りクリニック" }, "geometry": { "type": "Point", "coordinates": [ 139.692722800000013, 35.6563539 ] } },
 { "type": "Feature", "properties": { "lat": 35.650687, "lon": 139.7027846, "name": "まき歯科" }, "geometry": { "type": "Point", "coordinates": [ 139.7027846, 35.650687 ] } },
 { "type": "Feature", "properties": { "lat": 35.6647018, "lon": 139.7061198, "name": "加治矯正歯科クリニック" }, "geometry": { "type": "Point", "coordinates": [ 139.70611980000001, 35.6647018 ] } },
 { "type": "Feature", "properties": { "lat": 35.6564667, "lon": 139.7014353, "name": "あけぼの歯科医院" }, "geometry": { "type": "Point", "coordinates": [ 139.701435300000014, 35.6564667 ] } },
